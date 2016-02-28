@@ -1,0 +1,117 @@
+TSCC March 2002 Autocross (corrected results)
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+50   ASP  Bobby Smith                  Porsche 911      0  0:55.742
+-----------------------------------------------------------------------
+1    BS   Ed Raymundo                  Mazda Miata      0  0:57.748
+23   BS   Rob Hafley                   Miata            0  1:05.273
+22   BS   Marc Portanova               Miata            0  1:05.317
+61   BS   Mike Keefe                   Miata            0  1:11.360
+-----------------------------------------------------------------------
+10   CP   Brett Weber                  Mustang GT       0  1:01.229
+30   CP   Matt Short                   Mustang GT       0  1:06.498
+29   CP   Eric Bonnett                 Mustang          0  1:10.098
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Honda Civic      0  0:59.353
+11   CSP  Chris Boling                 Miata            0  1:03.962
+99   CSP  Rob Redanz                   Mazda Miata      0  1:06.653
+46   CSP  Keith Edwards                Honda CRX        2  1:08.803
+-----------------------------------------------------------------------
+39   DSP  Chris Rollins                VW Jetta         0  1:01.539
+53   DSP  Erict Thomas                 VW               0  1:02.078
+43   DSP  Tom Bleh                     BMW 325is        0  1:04.907
+-----------------------------------------------------------------------
+67   FS   Robert Chatters              Toyota Supra     0  1:04.084
+25   FS   Kienan Weber                 Mustang          0  1:10.269
+-----------------------------------------------------------------------
+40   FSP  Bob Brochu                   BMW 318i         0  1:07.661
+-----------------------------------------------------------------------
+68   GS   Will Johnston                Talon            0  1:01.092
+17   GS   Curtis Staples               BMW 325is        0  1:04.361
+-----------------------------------------------------------------------
+47   HS   John Sheally                 MG               0  1:12.928
+76   HS   Alex Forti                   MG Midget        0  1:19.476
+-----------------------------------------------------------------------
+18   SM   Steven Lewis                 Miata            2  1:00.804
+72   SM   Sonny Lowe                   VW Golf TDI      0  1:04.296
+5    SM   Jeff Hutchison               Porsche 944      0  1:04.610
+9    SM   Mike Cacase                  honda            0  1:08.593
+-----------------------------------------------------------------------
+48   STS  Calvin Sanders               Madza RX7        0  1:04.967
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+32   DSPL Dana Rollins                 VW Jetta         0  0:51.876
+35   STSL Regina Sanders               Madza RX7        0  0:53.013
+12   GSL  Lark Muir                    BMW 325is        0  0:55.170
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+54   STSN James Mciver                 BMW M3           0  0:50.824
+66   GSN  Adam Reece                   Miata MP3        0  0:52.342
+49   SSN  Doug Keilar                  Porsche 911      0  0:52.435
+31   CSPN David Short                  Audi A8          0  0:53.353
+27   GSN  Michael Rehbaum              VW               0  0:52.353
+59   ASPN Anil Panigrahi               BMW M Coupe      0  0:54.156
+75   STSN Jared Stumm                  VW Golf          0  0:54.181
+28   ESN  Preston Vaughn               Escort GT        0  0:54.403
+69   STSN Richard Castane              Mazada RX7       0  0:54.905
+74   SMN  Adrian Carr                  Honda CRX        0  0:55.186
+52   SMN  Mario Gregoriou              Hondacivic       0  0:55.572
+16   STSN Brianna Emery                Madza RX7        0  0:55.599
+58   STSN Trip Tanner                  BMW 325is        0  0:55.669
+45   ESN  Adam Kapolka                 Geo Storm        0  0:58.141
+73   STSN Marlon Johnson               Honda Civic      2  0:58.224
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+1    BS   Ed Raymundo                  Mazda Miata      0  0:46.949
+50   ASP  Bobby Smith                  Porsche 911      0  0:47.492
+68   GS   Will Johnston                Talon            0  0:48.202
+8    CSP  Beno Rubin                   Honda Civic      0  0:50.094
+39   DSP  Chris Rollins                VW Jetta         0  0:50.400
+17   GS   Curtis Staples               BMW 325is        0  0:50.781
+48   STS  Calvin Sanders               Madza RX7        0  0:50.804
+54   STSN James Mciver                 BMW M3           0  0:50.824
+53   DSP  Erict Thomas                 VW               0  0:50.842
+18   SM   Steven Lewis                 Miata            2  0:51.197
+67   FS   Robert Chatters              Toyota Supra     0  0:51.716
+32   DSPL Dana Rollins                 VW Jetta         0  0:51.876
+66   GSN  Adam Reece                   Miata MP3        0  0:52.342
+27   GSN  Michael Rehbaum              VW               0  0:52.353
+10   CP   Brett Weber                  Mustang GT       0  0:52.412
+49   SSN  Doug Keilar                  Porsche 911      0  0:52.435
+35   STSL Regina Sanders               Madza RX7        0  0:53.013
+23   BS   Rob Hafley                   Miata            0  0:53.067
+22   BS   Marc Portanova               Miata            0  0:53.103
+43   DSP  Tom Bleh                     BMW 325is        0  0:53.159
+31   CSPN David Short                  Audi A8          0  0:53.353
+11   CSP  Chris Boling                 Miata            0  0:53.984
+72   SM   Sonny Lowe                   VW Golf TDI      0  0:54.137
+59   ASPN Anil Panigrahi               BMW M Coupe      0  0:54.156
+75   STSN Jared Stumm                  VW Golf          0  0:54.181
+5    SM   Jeff Hutchison               Porsche 944      0  0:54.402
+28   ESN  Preston Vaughn               Escort GT        0  0:54.403
+69   STSN Richard Castane              Mazada RX7       0  0:54.905
+40   FSP  Bob Brochu                   BMW 318i         0  0:55.144
+12   GSL  Lark Muir                    BMW 325is        0  0:55.170
+74   SMN  Adrian Carr                  Honda CRX        0  0:55.186
+52   SMN  Mario Gregoriou              Hondacivic       0  0:55.572
+16   STSN Brianna Emery                Madza RX7        0  0:55.599
+58   STSN Trip Tanner                  BMW 325is        0  0:55.669
+25   FS   Kienan Weber                 Mustang          0  0:56.707
+30   CP   Matt Short                   Mustang GT       0  0:56.922
+47   HS   John Sheally                 MG               0  0:56.957
+9    SM   Mike Cacase                  honda            0  0:57.755
+61   BS   Mike Keefe                   Miata            0  0:58.016
+46   CSP  Keith Edwards                Honda CRX        2  0:58.070
+45   ESN  Adam Kapolka                 Geo Storm        0  0:58.141
+73   STSN Marlon Johnson               Honda Civic      2  0:58.224
+29   CP   Eric Bonnett                 Mustang          0  0:60.004
+76   HS   Alex Forti                   MG Midget        0  1:02.071

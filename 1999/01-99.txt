@@ -1,0 +1,246 @@
+TSCC "Beat the Heat" Autocross, (Winter 4 Series #3), Jan 1999
+
+Unofficial Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+20   AM   Steve Klute                  Lola t272        0  0:38.720
+90   AM   Bernard Cooley               Tui fsv          0  0:42.447
+39   AM   Jim Davis                    Lola t272        0  0:42.814
+82   AM   Gene Cooley                  Tui fsv          0  0:44.281
+----------------------------------------------------------------------
+15   AS   Bob Brochu                   Bmw z3 cpe       0  0:45.276
+47   AS   John Sheally                 Morgan           0  0:45.385
+19   AS   Charles Brewer               Nissan 300tt     0  0:45.411
+34   AS   Karen Kraus                  Bmw z3           0  0:47.305
+6    AS   Joe Murphy                   Bmw m3           0  0:48.055
+102  AS   George Perry                 Porsche 911      0  0:48.919
+-----------------------------------------------------------------------
+30   ASP  Terry Baker                  Bmw z3 2.8       0  0:45.382
+18   ASP  Deno Plumley                 Toyota mr2       0  0:46.111
+38   ASP  Bruce Plumley                Toyota mr2       0  0:47.565
+63   ASP  Andrew Chisholm              Porsche 911      0  0:47.895
+54   ASP  Brian Tiffany                Porsche 944      0  0:49.603
+-----------------------------------------------------------------------
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+5    BP   Mark Lisner                  Porsche 911      0  0:47.119
+-----------------------------------------------------------------------
+10   BS   Ed Raymundo                  Miata r          0  0:46.513
+-----------------------------------------------------------------------
+45   BSP  Roger Garrett                Corvette         0  0:44.570
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+61   CM   Stan Vann                    Caldwell         0  0:41.365
+73   CM   John Vann                    Caldwell         0  0:42.101
+-----------------------------------------------------------------------
+119  CP   Bruce Turlington             Mustang          0  0:47.833
+42   CP   Calvin Sanders               Mustang          0  0:47.930
+74   CP   Tony Langley                 Mustang          0  0:48.077
+29   CP   Eric Bonnett                 Mustang gt       0  0:49.559
+120  CP   Donnie Turlington            Mustang          0  0:49.852
+128  CP   Joyce Sanders                Mustang          0  0:51.532
+-----------------------------------------------------------------------
+17   CS   Curtis Staples               Porsche 944      0  0:50.196
+100  CS   Mike Shimandie               Porsche 944      0  0:50.759
+-----------------------------------------------------------------------
+13   CSP  Joe Graves                   Ford escort      0  0:45.495
+72   CSP  Pat Griffith                 Sentra           0  0:46.394
+51   CSP  Tom Bleh                     Bmw 325is        0  0:46.810
+43   CSP  Courtney Cormier             Neon             0  0:47.012
+21   CSP  Wade Jackson                 Nissan           0  0:48.609
+111  CSP  Phillip Saro                 Vw               0  0:50.968
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+97   DP   Dave Hinde                   Mg midget        0  0:46.177
+16   DP   Allan Pebworth               Austin healy     0  0:46.916
+-----------------------------------------------------------------------
+66   DS   Kenny Sorensen               Neon             0  0:46.647
+69   DS   Joe Henderson                Nissan sentra    0  0:47.350
+--------------------------------------------------------------------
+78   DSP  Bruce Thompson               Vw               0  0:46.869
+110  DSP  Brian Claar                  Vw               0  0:49.402
+101  DSP  Glenn Bunch                  Saab v4          0  0:49.495
+28   DSP  David Sigler                 Mustang          0  0:52.966
+67   DSP  Tony Cespedes                Toyota tercel    0  0:52.992
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 914      0  0:42.460
+68   EM   Sean Yoder                   Mustang          0  0:49.294
+-----------------------------------------------------------------------
+48   ES   Howard Wagner                Honda            0  0:47.903
+64   ES   Beno Rubin                   Honda civic      0  0:49.276
+58   ES   Justin Sawyer                Neon             0  0:49.597
+60   ES   Scott Sawyer                 Honda            0  0:49.936
+76   ES   Alan Pozner                  Honda delsol     0  0:50.164
+59   ES   Mitchell Wagner              Honda civicsi    0  0:50.384
+46   ES   Keith Edwards                Honda crx        0  0:52.168
+123  ES   Clifton Rosenberg            Honda civic      0  0:52.416
+104  ES   Michael Robinson             Yellow           0  0:54.978
+103  ES   David Robinson               Vw golf          2  0:55.052
+-----------------------------------------------------------------------
+53   ESP  San Strano                   Camaro           0  0:44.359
+62   ESP  Scott Willard                Talon            0  0:48.398
+105  ESP  Scott Hitt                   Trans am         0  0:54.679
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+27   HS   Karl Bender                  Honda civic      0  0:49.405
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+121  SS   Gill Smith                   Corvette         0  0:45.569
+26   SS   Jeff Wetzel                  Vette            2  0:48.707
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+36   SSL  Roberta Wetzel               Corvette         0  0:51.304
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+33   GSX  Shannon Wilkins              Impeza rs        0  0:38.680
+108  SSX  Gene Sykes                   Corvette         0  0:39.865
+2    BSX  Richard Wayne                Mazda miata      0  0:39.916
+31   BSX  Perry Aidelbaum              Mazda miata      0  0:40.150
+81   SSX  Justin Wade                  Rx-7             0  0:40.409
+77   BSX  Jeff Lloyd                   Bmw z3           0  0:41.058
+4    BSX  Doug Rauch                   Silver           0  0:41.090
+52   ESX  Ray Elliott                  Neon             0  0:41.240
+25   BSX  Mike Gannon                  Porsche 914      0  0:41.557
+86   ESX  Don Ross                     Porsche 924      0  0:42.013
+122  ESPX Vince Coffield               Mustang          0  0:42.023
+115  SSX  R. j. Hryniewitch            Corvette         0  0:42.364
+112  ASX  David Guild                  Corvette         2  0:42.825
+106  CSPX Henry Bender                 Bmw 2002         0  0:42.833
+109  CSPX Ron Cirka                    Neon             0  0:43.052
+126  CSX  Kenny Myers                  Porsche 924s     0  0:43.307
+80   ESPX Leah Egan                    Ford taurus      0  0:43.495
+87   CSPX Brad Baker                   Honda civic      0  0:44.818
+125  DSPX Kevin Ellis                  Honda accord     0  0:45.312
+24   CSX  Bill Conkling                Mazda rx7        0  0:45.925
+49   CSPX Jerome Nelson                Mazda rx7        2  0:46.478
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+84   ASN  Scott Ferguson               Porsche 944s2    0  0:39.778
+70   ESPN Glen Swartz                  Camaro           0  0:40.775
+127  CPN  Josh Ward                    Mustage          0  0:41.522
+129  ESPN Dustin Mccoy                 Mitshbishi       0  0:43.123
+44   CSN  Paul Hamilton                Porsche 944      0  0:43.269
+65   CSPN Kris Butchelor               Honda crx        0  0:43.312
+79   GSN  Jamie Haskett                Camaro           2  0:44.010
+83   CSN  Steven Vincent               Pontiac fiero    0  0:44.107
+117  CSPN Charles Nurse                Toyota           0  0:45.063
+116  CSPN Jesse Zamera                 Honda crx        0  0:45.602
+95   FSN  Bridget Sigler               Mustang gt       0  0:45.609
+14   ESPN Chad Merritt                 Talon            0  0:46.118
+98   ESN  Amy Edwards                  Honda crx        0  0:46.271
+88   CSPN Justin Bramen                Honda prelude    0  0:46.397
+85   BPN  Jeff Montigny                Toyota supra     0  0:48.679
+
+Pax Results 
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+53   ESP  San Strano                   Camaro           0  0:36.818
+15   AS   Bob Brochu                   Bmw z3 cpe       0  0:37.353
+47   AS   John Sheally                 Morgan           0  0:37.443
+19   AS   Charles Brewer               Nissan 300tt     0  0:37.464
+66   DS   Kenny Sorensen               Neon             0  0:37.504
+48   ES   Howard Wagner                Honda            0  0:37.891
+45   BSP  Roger Garrett                Corvette         0  0:38.018
+69   DS   Joe Henderson                Nissan sentra    0  0:38.069
+10   BS   Ed Raymundo                  Miata r          0  0:38.094
+121  SS   Gill Smith                   Corvette         0  0:38.232
+13   CSP  Joe Graves                   Ford escort      0  0:38.671
+61   CM   Stan Vann                    Caldwell         0  0:38.676
+33   GSX  Shannon Wilkins              Impeza rs        0  0:38.680
+20   AM   Steve Klute                  Lola t272        0  0:38.720
+27   HS   Karl Bender                  Honda civic      0  0:38.931
+50   EM   Bobby Smith                  Porsche 914      0  0:38.936
+64   ES   Beno Rubin                   Honda civic      0  0:38.977
+30   ASP  Terry Baker                  Bmw z3 2.8       0  0:38.983
+78   DSP  Bruce Thompson               Vw               0  0:38.995
+34   AS   Karen Kraus                  Bmw z3           0  0:39.027
+58   ES   Justin Sawyer                Neon             0  0:39.231
+73   CM   John Vann                    Caldwell         0  0:39.364
+72   CSP  Pat Griffith                 Sentra           0  0:39.435
+60   ES   Scott Sawyer                 Honda            0  0:39.499
+18   ASP  Deno Plumley                 Toyota mr2       0  0:39.609
+6    AS   Joe Murphy                   Bmw m3           0  0:39.645
+76   ES   Alan Pozner                  Honda delsol     0  0:39.680
+97   DP   Dave Hinde                   Mg midget        0  0:39.758
+84   ASN  Scott Ferguson               Porsche 944s2    0  0:39.778
+51   CSP  Tom Bleh                     Bmw 325is        0  0:39.788
+59   ES   Mitchell Wagner              Honda civicsi    0  0:39.854
+108  SSX  Gene Sykes                   Corvette         0  0:39.865
+2    BSX  Richard Wayne                Mazda miata      0  0:39.916
+43   CSP  Courtney Cormier             Neon             0  0:39.960
+31   BSX  Perry Aidelbaum              Mazda miata      0  0:40.150
+62   ESP  Scott Willard                Talon            0  0:40.170
+102  AS   George Perry                 Porsche 911      0  0:40.358
+16   DP   Allan Pebworth               Austin healy     0  0:40.395
+81   SSX  Justin Wade                  Rx-7             0  0:40.409
+17   CS   Curtis Staples               Porsche 944      0  0:40.609
+70   ESPN Glen Swartz                  Camaro           0  0:40.775
+38   ASP  Bruce Plumley                Toyota mr2       0  0:40.858
+26   SS   Jeff Wetzel                  Vette            2  0:40.865
+77   BSX  Jeff Lloyd                   Bmw z3           0  0:41.058
+100  CS   Mike Shimandie               Porsche 944      0  0:41.064
+4    BSX  Doug Rauch                   Silver           0  0:41.090
+110  DSP  Brian Claar                  Vw               0  0:41.102
+63   ASP  Andrew Chisholm              Porsche 911      0  0:41.142
+101  DSP  Glenn Bunch                  Saab v4          0  0:41.180
+52   ESX  Ray Elliott                  Neon             0  0:41.240
+46   ES   Keith Edwards                Honda crx        0  0:41.265
+119  CP   Bruce Turlington             Mustang          0  0:41.280
+21   CSP  Wade Jackson                 Nissan           0  0:41.318
+42   CP   Calvin Sanders               Mustang          0  0:41.364
+123  ES   Clifton Rosenberg            Honda civic      0  0:41.461
+74   CP   Tony Langley                 Mustang          0  0:41.490
+127  CPN  Josh Ward                    Mustage          0  0:41.522
+25   BSX  Mike Gannon                  Porsche 914      0  0:41.557
+5    BP   Mark Lisner                  Porsche 911      0  0:41.559
+86   ESX  Don Ross                     Porsche 924      0  0:42.013
+122  ESPX Vince Coffield               Mustang          0  0:42.023
+115  SSX  R. j. Hryniewitch            Corvette         0  0:42.364
+90   AM   Bernard Cooley               Tui fsv          0  0:42.447
+54   ASP  Brian Tiffany                Porsche 944      0  0:42.609
+29   CP   Eric Bonnett                 Mustang gt       0  0:42.769
+39   AM   Jim Davis                    Lola t272        0  0:42.814
+112  ASX  David Guild                  Corvette         2  0:42.825
+106  CSPX Henry Bender                 Bmw 2002         0  0:42.833
+120  CP   Donnie Turlington            Mustang          0  0:43.022
+36   SSL  Roberta Wetzel               Corvette         0  0:43.044
+109  CSPX Ron Cirka                    Neon             0  0:43.052
+129  ESPN Dustin Mccoy                 Mitshbishi       0  0:43.123
+44   CSN  Paul Hamilton                Porsche 944      0  0:43.269
+126  CSX  Kenny Myers                  Porsche 924s     0  0:43.307
+65   CSPN Kris Butchelor               Honda crx        0  0:43.312
+111  CSP  Phillip Saro                 Vw               0  0:43.323
+104  ES   Michael Robinson             Yellow           0  0:43.488
+80   ESPX Leah Egan                    Ford taurus      0  0:43.495
+103  ES   David Robinson               Vw golf          2  0:43.546
+79   GSN  Jamie Haskett                Camaro           2  0:44.010
+28   DSP  David Sigler                 Mustang          0  0:44.068
+67   DSP  Tony Cespedes                Toyota tercel    0  0:44.089
+83   CSN  Steven Vincent               Pontiac fiero    0  0:44.107
+82   AM   Gene Cooley                  Tui fsv          0  0:44.281
+128  CP   Joyce Sanders                Mustang          0  0:44.472
+87   CSPX Brad Baker                   Honda civic      0  0:44.818
+117  CSPN Charles Nurse                Toyota           0  0:45.063
+68   EM   Sean Yoder                   Mustang          0  0:45.203
+125  DSPX Kevin Ellis                  Honda accord     0  0:45.312
+105  ESP  Scott Hitt                   Trans am         0  0:45.384
+116  CSPN Jesse Zamera                 Honda crx        0  0:45.602
+95   FSN  Bridget Sigler               Mustang gt       0  0:45.609
+24   CSX  Bill Conkling                Mazda rx7        0  0:45.925
+14   ESPN Chad Merritt                 Talon            0  0:46.118
+98   ESN  Amy Edwards                  Honda crx        0  0:46.271
+88   CSPN Justin Bramen                Honda prelude    0  0:46.397
+49   CSPX Jerome Nelson                Mazda rx7        2  0:46.478
+85   BPN  Jeff Montigny                Toyota supra     0  0:48.679
+
+
+

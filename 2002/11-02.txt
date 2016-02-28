@@ -1,0 +1,137 @@
+TSCC November 2002 Autocross - Little Creek ACU-4
+
+Here are the results from the TSCC Nov. 17 2002 autocross.   There were 43 participants 
+who decided to autocross regardless of the much less than perfect weather.  Deep 
+tread and all-wheel drive was the order of the day since the rain kept getting worse 
+as the day progressed.   Working the course and keeping dry was almost impossible
+due to the rain combined with the wind blowing off the Chesapeake Bay.  I want
+to give a special thanks to everyone who braved the weather.  Curtis
+
+
+#   CLASS     DRIVER                     CAR          PEN   TOTAL
+-----------------------------------------------------------------------
+6    BS   Bruce Thompson               Honda S2000      0  1:03.764
+39   BS   Russ Meeker                  Nissan 300ZX TT  0  1:04.564
+-----------------------------------------------------------------------
+77   BSP  Jerry Crabtree               BMW M3           0  1:02.814
+7    BSP  James McIver                 BMW M3           0  1:05.753
+-----------------------------------------------------------------------
+24   CP   Kienan Weber                 Mustang GT       0  1:00.829
+5    CP   Bret Weber                   Mustang GT       0  1:03.243
+-----------------------------------------------------------------------
+30   CS   Les Banyas                   Mazda Miata      0  1:05.994
+-----------------------------------------------------------------------
+4    CSP  Jason Sinnard                Mazda Miata      0  1:05.416
+9    CSP  Jim Cawrse                   Datsun 1600      0  1:06.773
+99   CSP  Rob Redanz                   Mazda Miata      0  1:07.400
+46   CSP  Keith Edwards                Honda CRX        0  1:08.964
+101  CSP  James Hattau                 Mazda Miata      0  1:11.110
+-----------------------------------------------------------------------
+44   DM   Glenn Bunch                  289 Cobra        0  1:03.539
+-----------------------------------------------------------------------
+104  DS   Chris Hamilton               Mini Cooper S    0  1:04.227
+102  DS   Dave Hinde                   Eclipse GT       0  1:05.120
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  1:02.355
+17   DSP  Curtis Staples               BMW 325is        0  1:03.125
+57   DSP  Eric Thomas                  VW Jetta GLI     0  1:03.789
+-----------------------------------------------------------------------
+47   EM   John Sheally                 Cobra 289        0  1:02.505
+-----------------------------------------------------------------------
+26   ES   Chris Boling                 Mazda Miata      0  1:06.334
+49   ES   Josh Ward                    Mazda Miata      0  1:08.911
+-----------------------------------------------------------------------
+28   ESP  Dave Sigler                  Camaro SS        0  1:04.141
+40   ESP  Mike Powers                  Nissan 300ZX     0  1:06.733
+90   ESP  Robert Chatters              Toyota Supra     0  1:07.752
+-----------------------------------------------------------------------
+105  FSP  Mike Schneider               Toyota Corolla   0  1:05.949
+-----------------------------------------------------------------------
+19   SM   Chad Merritt                 Eagle Talon      0  1:02.695
+34   SM   Steve Foltz                  Nissan Sentra    0  1:06.824
+-----------------------------------------------------------------------
+35   STS  David Martin                 Honda Accord     0  1:01.001
+93   STS  Louis Pardo                  Subura WRX       0  1:03.164
+58   STS  Jackie Brown                 Pontiac Sunfire  0  1:05.608
+98   STS  Charles Richardson           Honda Civic      0  1:07.967
+
+
+
+Ladies
+
+#   CLASS     DRIVER                     CAR          PEN    PAX
+-----------------------------------------------------------------------
+33   ESPL Bridget Sigler               Camaro SS        0  0:53.550
+64   CSPL Amy Edwards                  Honda CRX        0  1:00.109
+
+Novice
+
+#   CLASS     DRIVER                     CAR          PEN    PAX
+-----------------------------------------------------------------------
+2    ASN  Doug Keiler                  Porsche 993      0  0:53.052
+31   HSN  Jim Harris                   Honda CRX        0  0:54.441
+96   GSN  James Villers                Acura Ledgend    0  0:54.510
+83   STSN Andrew Kumjian               Nissan Sentra    0  0:54.580
+42   FSN  Jim Robinson                 300 ZX Turbo     0  0:59.972
+103  CSPN Richard Castane              Mazada RX7       0  1:00.866
+
+
+Street Tire
+
+#   CLASS     DRIVER                     CAR          PEN    PAX
+-----------------------------------------------------------------------
+8    HSX  Michael Harris               Honda CRX        0  0:50.559
+69   GSX  Robert Hamernik              Honda Civic Si   0  0:50.906
+85   DSX  Paul Hamilton                Mini Cooper S    0  0:51.667
+84   ESX  Fred Camron                  Mazda Miata      0  0:57.840
+
+
+Overall Pax Results
+
+#   CLASS     DRIVER                     CAR          PEN    PAX
+-----------------------------------------------------------------------
+35   STS  David Martin                 Honda Accord     0  0:47.825
+93   STS  Louis Pardo                  Subura WRX       0  0:49.521
+8    HSX  Michael Harris               Honda CRX        0  0:50.559
+69   GSX  Robert Hamernik              Honda Civic Si   0  0:50.906
+43   DSP  Tom Bleh                     BMW 325is        0  0:51.131
+104  DS   Chris Hamilton               Mini Cooper S    0  0:51.253
+58   STS  Jackie Brown                 Pontiac Sunfire  0  0:51.437
+85   DSX  Paul Hamilton                Mini Cooper S    0  0:51.667
+17   DSP  Curtis Staples               BMW 325is        0  0:51.762
+102  DS   Dave Hinde                   Eclipse GT       0  0:51.966
+24   CP   Kienan Weber                 Mustang GT       0  0:52.070
+19   SM   Chad Merritt                 Eagle Talon      0  0:52.288
+57   DSP  Eric Thomas                  VW Jetta GLI     0  0:52.307
+6    BS   Bruce Thompson               Honda S2000      0  0:52.733
+77   BSP  Jerry Crabtree               BMW M3           0  0:52.764
+28   ESP  Dave Sigler                  Camaro SS        0  0:52.980
+2    ASN  Doug Keiler                  Porsche 993      0  0:53.052
+26   ES   Chris Boling                 Mazda Miata      0  0:53.200
+98   STS  Charles Richardson           Honda Civic      0  0:53.286
+39   BS   Russ Meeker                  Nissan 300ZX TT  0  0:53.394
+33   ESPL Bridget Sigler               Camaro SS        0  0:53.550
+30   CS   Les Banyas                   Mazda Miata      0  0:53.587
+105  FSP  Mike Schneider               Toyota Corolla   0  0:53.880
+5    CP   Bret Weber                   Mustang GT       0  0:54.136
+31   HSN  Jim Harris                   Honda CRX        0  0:54.441
+96   GSN  James Villers                Acura Ledgend    0  0:54.510
+83   STSN Andrew Kumjian               Nissan Sentra    0  0:54.580
+4    CSP  Jason Sinnard                Mazda Miata      0  0:55.080
+40   ESP  Mike Powers                  Nissan 300ZX     0  0:55.121
+7    BSP  James McIver                 BMW M3           0  0:55.233
+49   ES   Josh Ward                    Mazda Miata      0  0:55.267
+34   SM   Steve Foltz                  Nissan Sentra    0  0:55.731
+90   ESP  Robert Chatters              Toyota Supra     0  0:55.963
+9    CSP  Jim Cawrse                   Datsun 1600      0  0:56.223
+47   EM   John Sheally                 Cobra 289        0  0:56.505
+99   CSP  Rob Redanz                   Mazda Miata      0  0:56.751
+44   DM   Glenn Bunch                  289 Cobra        0  0:56.804
+84   ESX  Fred Camron                  Mazda Miata      0  0:57.840
+46   CSP  Keith Edwards                Honda CRX        0  0:58.068
+101  CSP  James Hattau                 Mazda Miata      0  0:59.875
+42   FSN  Jim Robinson                 300 ZX Turbo     0  0:59.972
+64   CSPL Amy Edwards                  Honda CRX        0  1:00.109
+103  CSPN Richard Castane              Mazada RX7       0  1:00.866
+
+

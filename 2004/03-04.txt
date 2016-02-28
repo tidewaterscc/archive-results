@@ -1,0 +1,408 @@
+#   CLASS     DRIVER                    CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+31   AS   Greg Kilduff                 WRX STi          0  0:38.207 
+                                                        0  0:37.129 DNF
+                                                        0  0:35.747 
+                                                        0  0:34.881 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+72   ASL  Susan Rascoe                 Corvette         0  0:38.515 
+                                                        0  0:37.335 
+                                                        0  0:38.199 
+                                                        0  0:36.852 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+39   ASP  Andrew Chisholm              Porsche 911E     0  0:34.981 
+                                                        0  0:34.954 
+                                                        0  0:34.682 
+                                                        0  0:33.863 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+21   BS   Michael Cacase               Honda Civic      4  0:41.584 
+                                                        0  0:36.069 
+                                                        2  0:45.301 
+                                                        0  0:35.810 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+51   BSL  DEBBIE EDWARDS               81 CORVETTE      0  0:44.003 
+                                                        0  0:41.860 
+                                                        0  0:40.421 
+                                                        0  0:41.560 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+75   BSN  Damien Desormeaux            BMW M3           2  0:44.577 
+                                                        0  0:40.256 
+                                                        0  0:40.373 DNF
+                                                        0  0:38.858 DNF
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+2    BSP  Jeff Turner                  Corvette         0  0:33.777 
+                                                        0  0:33.444 
+                                                        0  0:32.765 
+                                                        2  0:34.477 
+
+34   BSP  Tony Watson                  88 Chevy Corv    0  0:36.202 
+                                                        0  0:35.671 
+                                                        0  0:34.923 
+                                                        2  0:36.315 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+32   BSPL Georgana Turner              Corvette         0  0:37.751 
+                                                        0  0:35.862 
+                                                        0  0:35.273 
+                                                        0  0:35.223 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+14   BSPN Bill Lakin                   88 Chevy Corv    0  0:38.699 
+                                                        0  0:36.788 
+                                                        0  0:37.553 
+                                                        0  0:35.813 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+70   BSX  KENNY EDWARDS                81 CORVETTE      0  0:39.105 
+                                                        0  0:38.225 
+                                                        0  0:44.968 
+                                                        0  0:37.701 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+5    CP   Bret Weber                   Mustang GT       2  0:35.111 
+                                                        0  0:33.647 
+                                                        0  0:33.032 
+                                                        0  0:33.069 
+
+24   CP   Kienan Weber                 Mustang GT       0  0:32.954 
+                                                        6  0:38.719 
+                                                        0  0:33.150 
+                                                        0  0:32.149 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+54   CS   Les Banyas                   Miata            0  0:35.685 
+                                                        0  0:36.433 
+                                                        0  0:36.069 
+                                                        0  0:35.165 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Honda Civic      2  0:38.686 
+                                                        2  0:44.382 
+                                                        0  0:34.916 
+                                                        0  0:34.668 
+
+44   CSP  David Lee                    Honda CRX        0  0:40.485 
+                                                        0  0:37.295 
+                                                        0  0:36.800 
+                                                        0  0:36.894 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+3    CSPN Michael Arrigo               85 Fiero         0  0:39.150 DNF
+                                                        0  0:37.585 DNF
+                                                        0  0:36.540 
+                                                        0  0:35.587 
+
+66   CSPN Dennis Young                 Honda CRX        0  0:44.982 DNF
+                                                        0  0:41.769 
+                                                        0  0:38.882 
+                                                        0  0:38.060 
+
+73   CSPN Anthony Smith                CRX              0  0:44.808 DNF
+                                                        0  0:44.012 DNF
+                                                        0  0:42.640 DNF
+                                                        0  0:41.689 
+
+76   CSPN Timothy Walters              fiero            0  0:57.736 
+                                                        0  0:46.993 DNF
+                                                        0  0:45.557 
+                                                        2  0:42.537 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+45   CSPX Cameron Mccormick            Mazda Rx-7       0  0:37.623 
+                                                        0  0:37.571 
+                                                        0  0:37.259 
+                                                        0  0:36.775 
+
+46   CSPX Keith Edwards                Honda CRX        0  0:40.480 
+                                                        0  0:39.067 
+                                                        0  0:38.780 
+                                                        0  0:38.990 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:34.981 
+                                                        0  0:33.377 
+                                                        0  0:32.798 
+                                                        0  0:33.096 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+55   EP   ALLEN GOODE                  TRIUMPH TR4-A    0  0:37.287 
+                                                        0  0:37.183 
+                                                        2  0:48.185 
+                                                        0  0:36.199 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+61   ESN  Jason Hornberger             94 cavalier      0  0:43.223 
+                                                        0  0:40.301 
+                                                        0  0:39.795 
+                                                        0  0:39.364 DNF
+
+68   ESN  Ben Kitenko                  mr2              0  0:41.845 
+                                                        0  0:40.509 
+                                                        0  0:39.680 
+                                                        0  0:39.446 DNF
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+15   ESP  Robert A.Duncan              Ford Mustang     0  0:39.218 DNF
+                                                        0  0:37.605 
+                                                        0  0:36.687 
+                                                        0  0:36.082 
+
+90   ESP  ED GAGE                      90 MX-3          0  0:39.162 
+                                                        0  0:38.670 
+                                                        0  0:39.177 
+                                                        0  0:38.831 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+81   ESPN Peter Florance               BMW 528i         0  0:39.237 
+                                                        0  0:40.741 DNF
+                                                        0  0:38.074 
+                                                        0  0:38.499 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+28   FSP  Dave Sigler                  Camero           0  0:38.336 
+                                                        0  0:38.844 
+                                                        0  0:39.679 DNF
+                                                        0  0:38.684 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+33   FSPL Bridget Sigler               Kia Rio          0  0:39.009 
+                                                        0  0:38.323 
+                                                        0  0:38.852 DNF
+                                                        0  0:38.120 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+6    GS   Bruce Thompson               Honda S2000      0  0:36.707 
+                                                        0  0:36.478 
+                                                        0  0:36.278 
+                                                        0  0:35.953 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+92   GSN  JEREMY BERNHARDT             93 PROBE GT      0  0:41.321 
+                                                        0  0:41.915 DNF
+                                                        0  0:42.424 
+                                                        0  0:38.993 
+
+94   GSN  Matt Ellerbrock              GEO STORMIN      0  0:41.241 
+                                                        0  0:40.284 
+                                                        0  0:40.132 
+                                                        0  0:40.108 
+
+95   GSN  Sean Edwards                 CRX              4  0:46.324 DNF
+                                                        2  0:40.975 
+                                                        0  0:39.434 
+                                                        0  0:39.865 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+58   GSX  Adam Kapolka                 97 Neon          0  0:40.902 
+                                                        2  0:42.599 
+                                                        0  0:41.670 
+                                                        0  0:39.256 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+9    HSN  Jason Armstrong              1989 CRX si      0  0:46.833 DNF
+                                                        2  0:44.034 DNF
+                                                        0  0:41.312 
+                                                        0  0:40.246 DNF
+
+71   HSN  James Haltom                 Honda Civic EX   0  0:44.666 
+                                                        0  0:43.822 
+                                                        0  0:42.616 
+                                                        0  0:42.597 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+25   SM   Chad Merritt                 Eagle Talon      2  0:36.861 
+                                                        0  0:34.618 
+                                                        0  0:34.491 
+                                                        0  0:34.474 
+
+82   SM   William Johns                Moostang         0  0:34.869 
+                                                        0  0:34.541 
+                                                        0  0:33.844 
+                                                        0  0:33.830 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+16   SM2  Tony Palumbo                 Honda CRX        0  0:37.650 DNF
+                                                        2  0:39.222 DNF
+                                                        2  0:38.610 
+                                                        0  0:36.612 
+
+35   SM2  Dan Palumbo                  Honda CRX        0  0:41.613 DNF
+                                                        0  0:44.215 DNF
+                                                        0  0:38.874 
+                                                        2  0:41.864 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+49   SM2X Tony Acker                   Honda S2000      0  0:35.261 
+                                                        0  0:34.994 
+                                                        0  0:36.564 
+                                                        0  0:34.331 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+56   SMN  JAMES ADKINS                 Ford Escort      0  0:41.764 
+                                                        0  0:38.183 
+                                                        0  0:40.300 DNF
+                                                        0  0:37.824 
+
+91   SMN  ROME ARMAS                   91 SUPRA         2  0:45.700 DNF
+                                                        4  0:47.463 
+                                                        4  0:48.039 DNF
+                                                        2  0:42.183 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+36   SS   Dan Hill                     03 Corvette      0  0:37.783 
+                                                        0  0:37.517 DNF
+                                                        0  0:37.536 
+                                                        0  0:44.987 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+40   STS  CHris Maki                   elantra GT       0  0:37.941 DNF
+                                                        2  0:39.433 
+                                                        0  0:36.729 
+                                                        2  0:40.179 
+
+74   STS  Bernard Chmielewski          celica           0  0:38.226 
+                                                        0  0:37.999 
+                                                        2  0:40.762 DNF
+                                                        2  0:38.578 
+
+77   STS  Jim Herley                   Ford Ranger      4  0:43.768 
+                                                        0  0:38.041 
+                                                        0  0:37.546 
+                                                        2  0:39.911 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+37   STSN Michael Wersosky             Celica GT-S      0  0:39.678 DNF
+                                                        2  0:39.728 DNF
+                                                        0  0:37.869 DNF
+                                                        0  0:37.000 DNF
+
+69   STSN Sean Mccoy                   wrx              0  0:40.818 
+                                                        0  0:40.296 
+                                                        0  0:37.860 
+                                                        0  0:38.620 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+38   STX  Kevin Labat                  Subaru WRX       0  0:41.687 DNF
+                                                        0  0:40.064 
+                                                        0  0:38.960 
+                                                        0  0:37.808 
+
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:26.829
+24   CP   Kienan Weber                 Mustang GT       0  0:27.423
+2    BSP  Jeff Turner                  Corvette         0  0:27.523
+6    GS   Bruce Thompson               Honda S2000      0  0:28.115
+5    CP   Bret Weber                   Mustang GT       0  0:28.176
+82   SM   William Johns                Moostang         0  0:28.214
+54   CS   Les Banyas                   Miata            0  0:28.624
+39   ASP  Andrew Chisholm              Porsche 911E     0  0:28.648
+25   SM   Chad Merritt                 Eagle Talon      0  0:28.751
+40   STS  CHris Maki                   elantra GT       0  0:28.796
+31   AS   Greg Kilduff                 WRX STi          0  0:28.881
+8    CSP  Beno Rubin                   Honda Civic      0  0:29.086
+49   SM2X Tony Acker                   Honda S2000      0  0:29.216
+34   BSP  Tony Watson                  88 Chevy Corv    0  0:29.335
+77   STS  Jim Herley                   Ford Ranger      0  0:29.436
+21   BS   Michael Cacase               Honda Civic      0  0:29.543
+32   BSPL Georgana Turner              Corvette         0  0:29.587
+69   STSN Sean Mccoy                   wrx              0  0:29.682
+74   STS  Bernard Chmielewski          celica           0  0:29.791
+15   ESP  Robert A.Duncan              Ford Mustang     0  0:29.804
+3    CSPN Michael Arrigo               85 Fiero         0  0:29.857
+14   BSPN Bill Lakin                   88 Chevy Corv    0  0:30.083
+38   STX  Kevin Labat                  Subaru WRX       0  0:30.171
+92   GSN  JEREMY BERNHARDT             93 PROBE GT      0  0:30.493
+72   ASL  Susan Rascoe                 Corvette         0  0:30.513
+58   GSX  Adam Kapolka                 97 Neon          0  0:30.698
+95   GSN  Sean Edwards                 CRX              0  0:30.837
+45   CSPX Cameron Mccormick            Mazda Rx-7       0  0:30.854
+44   CSP  David Lee                    Honda CRX        0  0:30.875
+33   FSPL Bridget Sigler               Kia Rio          0  0:31.068
+70   BSX  KENNY EDWARDS                81 CORVETTE      0  0:31.103
+16   SM2  Tony Palumbo                 Honda CRX        0  0:31.157
+55   EP   ALLEN GOODE                  TRIUMPH TR4-A    0  0:31.240
+28   FSP  Dave Sigler                  Camero           0  0:31.244
+94   GSN  Matt Ellerbrock              GEO STORMIN      0  0:31.364
+36   SS   Dan Hill                     03 Corvette      0  0:31.418
+81   ESPN Peter Florance               BMW 528i         0  0:31.449
+56   SMN  JAMES ADKINS                 Ford Escort      0  0:31.545
+68   ESN  Ben Kitenko                  mr2              0  0:31.903
+66   CSPN Dennis Young                 Honda CRX        0  0:31.932
+90   ESP  ED GAGE                      90 MX-3          0  0:31.941
+61   ESN  Jason Hornberger             94 cavalier      0  0:31.995
+9    HSN  Jason Armstrong              1989 CRX si      0  0:32.141
+46   CSPX Keith Edwards                Honda CRX        0  0:32.536
+35   SM2  Dan Palumbo                  Honda CRX        0  0:33.082
+71   HSN  James Haltom                 Honda Civic EX   0  0:33.140
+75   BSN  Damien Desormeaux            BMW M3           0  0:33.211
+51   BSL  DEBBIE EDWARDS               81 CORVETTE      0  0:33.347
+73   CSPN Anthony Smith                CRX              0  0:34.977
+91   SMN  ROME ARMAS                   91 SUPRA         2  0:35.181
+76   CSPN Timothy Walters              fiero            2  0:35.689

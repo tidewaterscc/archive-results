@@ -1,0 +1,105 @@
+October 2001 TSCC Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan           0  0:56.877
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:57.872
+-----------------------------------------------------------------------
+31   ASP  Andrew Chisholm              Porsche 911E     0  0:56.757
+-----------------------------------------------------------------------
+11   BS   Marc Portanova               Miata            0  0:55.959
+19   BS   Rob Redanz                   Miata            0  1:00.028
+13   BS   Rob Hafley                   Miata            2  1:01.016
+34   BS   Jason Sinnard                Miata            0  1:03.861
+-----------------------------------------------------------------------
+15   BSP  John Hudnall                 BMW M3           0  0:56.259
+-----------------------------------------------------------------------
+20   CP   Kienan Weber                 Mustang GT       0  0:55.307
+5    CP   Bret Weber                   Mustang GT       0  0:57.623
+9    CP   David Sigler                 Mustang GT       0  0:58.945
+22   CP   Joyce Sanders                Mustang GT       0  1:01.445
+36   CP   Calvin Sanders               Mustang GT       2  1:01.516
+-----------------------------------------------------------------------
+46   CSP  Keith Edwards                Honda CRX        0  1:00.993
+-----------------------------------------------------------------------
+26   DS   Wallace Reed                 BMW 318is        0  1:09.747
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        2  0:57.173
+28   DSP  Forrest Rollins              VW Jetta         0  0:59.714
+24   DSP  Eric Thomas                  VW Jetta         0  1:00.792
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 916      0  0:52.628
+-----------------------------------------------------------------------
+33   FS   Bridget Sigler               Mustang GT       0  1:01.494
+32   FS   Jason Carp                   Mustang GT       0  1:02.610
+-----------------------------------------------------------------------
+17   GS   Curtis Staples               BMW 325is        0  0:57.866
+8    GS   Beno Rubin                   Celica GT-S      0  1:00.701
+-----------------------------------------------------------------------
+35   HS   Patrick Rollins              VW Golf          0  1:02.409
+-----------------------------------------------------------------------
+25   SM   Steven Lewis                 Miata            0  1:00.953
+-----------------------------------------------------------------------
+1    SS   Justin Wade                  Mazada RX7       0  0:55.511
+
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+27   SSL  Leah Wade                    Madza RX7        0  0:47.627
+
+
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+37   DSPN Tim Coop                     VW GTI           0  0:49.997
+39   GSN  Phillip Bunts                VW GTI           2  0:50.649
+38   DSPN Dana Rollins                 VW Jetta         0  0:51.378
+10   CSPN Chris Boling                 Miata            0  0:52.279
+30   CPN  Brianna Emery                Mustang GT       2  0:58.705
+51   FSN  Charlene Carp                Mustang GT       0  1:07.046
+
+
+
+Overall Pax Results
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+11   BS   Marc Portanova               Miata            0  0:45.495
+17   GS   Curtis Staples               BMW 325is        0  0:45.656
+1    SS   Justin Wade                  Mazada RX7       0  0:46.074
+43   DSP  Tom Bleh                     BMW 325is        2  0:46.825
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:47.281
+20   CP   Kienan Weber                 Mustang GT       0  0:47.343
+27   SSL  Leah Wade                    Madza RX7        0  0:47.627
+15   BSP  John Hudnall                 BMW M3           0  0:47.651
+50   EM   Bobby Smith                  Porsche 916      0  0:47.734
+8    GS   Beno Rubin                   Celica GT-S      0  0:47.893
+31   ASP  Andrew Chisholm              Porsche 911E     0  0:48.357
+35   HS   Patrick Rollins              VW Golf          0  0:48.741
+19   BS   Rob Redanz                   Miata            0  0:48.803
+28   DSP  Forrest Rollins              VW Jetta         0  0:48.906
+5    CP   Bret Weber                   Mustang GT       0  0:49.325
+13   BS   Rob Hafley                   Miata            2  0:49.606
+33   FS   Bridget Sigler               Mustang GT       0  0:49.626
+47   AP   John Sheally                 Morgan           0  0:49.710
+24   DSP  Eric Thomas                  VW Jetta         0  0:49.789
+37   DSPN Tim Coop                     VW GTI           0  0:49.997
+9    CP   David Sigler                 Mustang GT       0  0:50.457
+32   FS   Jason Carp                   Mustang GT       0  0:50.526
+39   GSN  Phillip Bunts                VW GTI           2  0:50.649
+25   SM   Steven Lewis                 Miata            0  0:51.322
+38   DSPN Dana Rollins                 VW Jetta         0  0:51.378
+46   CSP  Keith Edwards                Honda CRX        0  0:51.478
+34   BS   Jason Sinnard                Miata            0  0:51.919
+10   CSPN Chris Boling                 Miata            0  0:52.279
+22   CP   Joyce Sanders                Mustang GT       0  0:52.597
+36   CP   Calvin Sanders               Mustang GT       2  0:52.658
+26   DS   Wallace Reed                 BMW 318is        0  0:55.519
+30   CPN  Brianna Emery                Mustang GT       2  0:58.705
+51   FSN  Charlene Carp                Mustang GT       0  1:07.046
+
+
+

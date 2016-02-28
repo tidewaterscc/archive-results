@@ -1,0 +1,435 @@
+TSCC July 2005 Autocross
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+1    ESN  Richard Wade                 rx7              0  1:03.388 
+                                                        0  1:00.418 DNF
+                                                        0  0:59.719 
+                                                        0  0:59.094 
+
+2    GS   Sean McConnell               MINI S           0  0:59.352 
+                                                        0  0:57.557 
+                                                        0  0:57.564 
+                                                        0  0:56.833 
+
+6    ESPX Jim Herley                   Ford Ranger      0  0:58.607 
+                                                        0  0:58.141 
+                                                        0  0:57.029 
+                                                        0  0:57.372 
+
+7    DSX  Wes Michaels                 CrossFire        0  0:55.200 
+                                                        0  0:55.285 
+                                                        0  0:54.306 
+                                                        0  0:54.580 
+
+10   DSL  Carrie Hryniewich            BMW 330CI        0  1:02.464 DNF
+                                                        2  1:03.958 
+                                                        0  1:02.696 
+                                                        0  0:59.379 
+
+11   STSN Cecile Burg                  Nissan Sentra    0  1:02.141 
+                                                        0  0:59.558 
+                                                        0  0:59.162 
+                                                        0  0:57.921 
+
+12   BS   Jim ROBINSON                 Nissan350        0  0:53.354 
+                                                        0  0:52.813 
+                                                        0  0:52.846 
+                                                        2  0:54.885 
+
+13   BSPN Nick Talbot                  Nissan 350Z      0  0:59.930 
+                                                        0  0:58.205 
+                                                        0  0:56.217 
+                                                        0  0:54.675 
+
+14   CSP  Kevin Kulp                   Toyota MR2       0  0:55.846 
+                                                        0  0:54.256 
+                                                        0  0:53.978 
+                                                        0  0:56.863 
+
+15   BSPN Harry Bradley                1977 Datsun 2    0  1:03.200 
+                                                        0  0:58.732 
+                                                        0  0:57.401 
+                                                        0  0:57.295 
+
+16   ESP  Michael Arrigo               85 fiero         0  1:02.151 
+                                                        2  1:02.992 
+                                                        4  1:00.335 
+                                                        8  1:11.025 
+
+17   DSN  Lloyd Martinez               BMW 328 i        0  0:58.547 
+                                                        0  0:56.456 
+                                                        0  0:55.854 
+                                                        0  0:55.710 
+
+18   STS  Michael White                Superduperbug    0  1:03.644 
+                                                        0  1:01.509 
+                                                        0  1:00.863 
+                                                        0  1:00.788 
+
+19   DSP  Curtis Staples               BMW 325i         0  0:51.336 
+                                                        0  0:50.964 
+                                                        0  0:51.828 
+                                                        0  0:51.459 
+
+20   DSP  Terry Baker                  Porsche 924      0  0:49.483 
+                                                        0  0:49.120 
+                                                        0  0:49.211 
+                                                        0  0:48.540 
+
+21   ESX  Mike Keefe                   Miata            0  0:57.329 
+                                                        0  0:56.429 
+                                                        0  0:56.477 
+                                                        2  0:57.714 
+
+22   DSP  tom bleh                     BMW 325i         2  0:50.582 
+                                                        2  0:49.988 
+                                                        2  0:50.122 
+                                                        0  0:48.032 
+
+23   FJ4  Jason Lisner                 Sodi-Kart        0  0:47.692 
+                                                        0  0:45.976 
+                                                        0  0:45.631 
+                                                        0  0:45.064 
+
+24   BSN  AJ Johnson                   350 Z            2  0:58.165 
+                                                        4  0:59.167 
+                                                        0  0:54.206 
+                                                        0  0:56.544 
+
+25   STS  Chad Merritt                 Acura RSX        2  0:58.576 
+                                                        2  0:58.788 
+                                                        0  0:56.957 
+                                                        2  0:59.432 
+
+27   CS   AJ Belleville                Celica           2  1:02.059 
+                                                        0  0:51.415 
+                                                        6  1:10.034 
+                                                        0  0:51.700 
+
+28   ES   Ed Raymundo                  1994 Miata R     0  0:50.116 
+                                                        6  0:56.073 
+                                                        2  0:51.717 
+                                                        4  0:54.156 
+
+31   DSP  Doug Keiler                  BMW 328          0  0:49.615 
+                                                        6  0:55.454 
+                                                        2  0:51.910 
+                                                        0  0:49.358 
+
+33   STSN Matthew Knipple              Civic Lx         0  1:04.110 
+                                                        0  1:03.644 
+                                                        0  1:02.408 
+                                                        0  1:01.467 
+
+34   BSX  dustin mergi                 mazda rx8        0  0:54.626 
+                                                        0  0:54.720 
+                                                        0  0:54.372 
+                                                        0  0:54.067 
+
+35   BSP  Jim Setzer                   Nissan 350Z      0  0:53.781 
+                                                        0  0:51.849 
+                                                        0  0:52.079 
+                                                        0  0:51.883 
+
+37   SM2  RJ Hryniewich                Corvette         0  0:54.088 DNF
+                                                        0  0:53.497 
+                                                        4  1:09.607 
+                                                        2  1:10.923 
+
+38   ESN  Wayne Lewis                  Datsun 280Z      0  1:05.214 
+                                                        2  1:09.862 
+                                                        0  1:03.372 
+                                                        0  1:04.048 
+
+39   ASP  Andrew Chisholm              Porsche 911E     0  0:54.779 
+                                                        0  0:53.018 
+                                                        0  0:52.970 
+                                                        0  0:52.984 
+
+41   CM   Jim Haltom                   Miata            0  0:50.045 
+                                                        2  1:01.248 
+                                                        0  0:50.640 
+                                                        0  0:48.692 
+
+42   DSP  David Martin                 Prelude          0  0:51.423 
+                                                        0  0:51.037 
+                                                        0  0:51.262 
+                                                        0  0:51.375 
+
+43   DSP  Jeff Rooney                  Honda Prelude    0  0:52.563 
+                                                        0  0:52.580 
+                                                        0  0:52.559 
+                                                        0  0:52.461 
+
+45   CS   Andrew Ghosn                 Miata            2  1:06.972 
+                                                        2  1:10.141 
+                                                        0  1:01.337 
+                                                        0  1:00.821 
+
+47   FP   John Sheally                 Morgan Plus-8    0  0:52.107 
+                                                        0  0:51.155 
+                                                        0  0:51.027 
+                                                        0  0:50.871 
+
+48   STSN Rudy Kinzig                  Celica GT-S      0  1:08.349 
+                                                        0  1:03.981 
+                                                        0  1:02.886 
+                                                        6  1:11.274 
+
+49   ESPX Peter Florance               BMW Euro 528i    0  0:57.916 
+                                                        0  0:57.787 
+                                                        0  0:57.249 
+                                                        0  0:56.918 
+
+50   DSP  Michael Morgan               BMW 328Ci        0  1:00.266 
+                                                        2  0:59.633 
+                                                        0  0:57.134 DNF
+                                                        0  0:56.656 
+
+51   STX  Chris Perera                 Subaru WRX       2  0:55.977 
+                                                        0  0:53.830 DNF
+                                                        0  0:53.130 
+                                                        0  0:52.931 
+
+52   SM   Sean Ford                    Impreza L        0  0:53.663 
+                                                        0  0:52.831 
+                                                        0  0:52.758 
+                                                        0  0:52.363 
+
+53   STX  Chris Smidt                  Mini Cooper S    0  0:59.904 
+                                                        0  0:57.108 
+                                                        0  0:56.444 
+                                                        0  0:55.869 
+
+55   EPN  Joe Cecelic                  74 260z          0  1:05.121 
+                                                        0  1:01.570 
+                                                        0  1:04.347 
+                                                        0  1:00.643 
+
+56   CS   Shawn Lambert                Miata            2  0:53.532 
+                                                        0  0:51.900 DNF
+                                                        2  0:53.036 
+                                                        0  0:51.255 
+
+59   ESP  Robert Duncan                65 Mustang       2  0:55.518 
+                                                        0  0:52.445 
+                                                        2  0:53.598 
+                                                        0  0:52.472 
+
+60   EM   Bobby Smith                  Porsche 914      0  0:46.654 
+                                                        0  0:46.245 
+                                                        0  0:46.165 
+                                                        0  0:46.129 
+
+61   STS2 Pete Widas                   Mazda RX7        0  0:53.195 
+                                                        0  0:53.353 
+                                                        0  0:53.144 
+                                                        0  0:52.951 
+
+62   ASX  Rick Mariani                 CadillacCTS-V    0  0:55.791 
+                                                        0  0:55.617 
+                                                        0  0:55.751 
+                                                        0  0:55.633 
+
+63   STS2 Allen Smothers               Mazda/Miata      0  0:56.389 
+                                                        0  0:55.316 
+                                                        0  0:54.596 
+                                                        0  0:54.385 
+
+64   SMN  Chris Charles                Acura Integra    0  0:56.292 DNF
+                                                        0  0:57.841 
+                                                        0  0:58.651 
+                                                        0  0:57.079 
+
+68   STXN John Flick                   Subaru/WRX       0  1:05.235 
+                                                        0  1:00.108 
+                                                        0  0:59.288 
+                                                        0  0:59.873 
+
+74   EP   Frank Pinckney               74Datsun260Z     0  0:58.348 
+                                                        0  0:54.765 
+                                                        0  0:55.672 
+                                                        0  0:54.309 
+
+77   SMN  Manny Desantos               88 Formula       0  1:05.535 
+                                                        0  0:55.930 
+                                                        0  0:54.878 
+                                                        2  0:58.368 
+
+78   STS  Andy Turnbull                Nissan Sentra    0  0:53.787 
+                                                        0  0:53.792 
+                                                        0  0:53.298 
+                                                        0  0:53.009 
+
+79   CM   Stan Vann                    Caldwell D9      2  0:48.545 
+                                                        0  0:45.776 
+                                                        0  0:45.566 
+                                                        0  0:44.941 
+
+80   HSN  Douglas Arcidino             95 Civic HB      0  1:10.614 
+                                                        0  1:06.908 
+                                                        0  1:07.567 
+                                                        0  1:06.616 
+
+82   ASP  Rex Harris                   98 Corvette      0  0:52.184 
+                                                        0  0:51.692 
+                                                        0  0:51.729 
+                                                        0  0:49.720 
+
+84   DM   Larry Allamong               Triumph Spitf    0  0:50.698 
+                                                        0  0:49.401 
+                                                        0  0:49.302 
+                                                        0  0:48.833 
+
+85   BSN  curt philips                 2004 BMW Z4      0  1:07.545 
+                                                        0  1:03.478 
+                                                        0  0:59.779 
+                                                        0  0:58.982 
+
+87   STS  Mark Buckner                 Dodge Stratus    2  0:59.779 
+                                                        0  0:58.339 
+                                                        0  0:57.304 
+                                                        0  0:57.456 
+
+88   STU  Bob Newell                   Mitsu EVO        2  1:01.004 
+                                                        0  0:58.026 
+                                                        2  1:00.095 
+                                                        0  0:57.486 
+
+92   FSP  jay cumming                  toyota celica    2  0:59.479 
+                                                        0  0:58.125 
+                                                        0  0:56.151 
+                                                        0  0:55.734 
+
+94   CM   Dave Cutchins                Euroswift SE1    2  0:50.436 
+                                                        0  0:45.832 DNF
+                                                        0  0:46.911 
+                                                        0  0:46.077 
+
+95   ASP  Derek Colvin                 Honda S2K        0  0:58.332 
+                                                        0  0:59.840 
+                                                        0  1:01.095 
+                                                        0  0:58.397 
+
+101  ESN  chris buckland               rx7              0  1:01.264 
+                                                        0  1:01.740 
+                                                        0  0:59.474 
+                                                        0  0:58.189 
+
+102  STSN cary kravetz                 prelude          0  0:58.298 
+                                                        0  0:57.929 
+                                                        0  0:56.499 
+                                                        0  0:57.290 
+
+103  STS  Chris Noon                   RSX              0  0:59.146 
+                                                        0  0:58.642 
+                                                        0  0:58.466 
+                                                        0  0:57.872 
+
+104  STS  jason hornberger             sts              0  1:03.155 
+                                                        0  1:00.179 
+                                                        0  1:01.300 
+                                                        0  0:59.038 
+
+105  STX  Myron Ware                   Subaru           0  0:54.045 
+                                                        0  0:53.471 
+                                                        0  0:52.937 
+                                                        0  0:52.875 
+
+106  AS   tony culic                   m3               0  0:58.362 
+                                                        0  0:55.433 
+                                                        0  0:55.844 
+                                                        0  0:54.441 
+
+107  GS   nelson clark                 jetta            0  1:08.283 
+                                                        0  1:05.384 
+                                                        0  1:03.450 
+                                                        0  1:04.312 
+
+108  DSN  dave reisch                  328i             0  0:57.987 
+                                                        0  0:57.638 
+                                                        0  0:58.390 
+                                                        0  0:58.169 
+
+109  CSP  christopher samulski         miata            0  1:02.514 
+                                                        0  1:00.810 
+                                                        0  0:59.546 
+                                                        0  0:58.384 
+
+TSCC July 2005 Autocross
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+23   FJ4  Jason Lisner                 Sodi-Kart        0  0:37.493
+22   DSP  tom bleh                     BMW 325i         0  0:39.482
+20   DSP  Terry Baker                  Porsche 924      0  0:39.900
+28   ES   Ed Raymundo                  1994 Miata R     0  0:40.393
+31   DSP  Doug Keiler                  BMW 328          0  0:40.572
+79   CM   Stan Vann                    Caldwell D9      0  0:40.806
+60   EM   Bobby Smith                  Porsche 914      0  0:40.870
+56   CS   Shawn Lambert                Miata            0  0:41.517
+27   CS   AJ Belleville                Celica           0  0:41.646
+94   CM   Dave Cutchins                Euroswift SE1    0  0:41.838
+19   DSP  Curtis Staples               BMW 325i         0  0:41.892
+42   DSP  David Martin                 Prelude          0  0:41.952
+82   ASP  Rex Harris                   98 Corvette      0  0:42.262
+78   STS  Andy Turnbull                Nissan Sentra    0  0:42.354
+105  STX  Myron Ware                   Subaru           0  0:42.406
+51   STX  Chris Perera                 Subaru WRX       0  0:42.451
+61   STS2 Pete Widas                   Mazda RX7        0  0:42.520
+84   DM   Larry Allamong               Triumph Spitf    0  0:42.924
+43   DSP  Jeff Rooney                  Honda Prelude    0  0:43.123
+7    DSX  Wes Michaels                 CrossFire        0  0:43.228
+59   ESP  Robert Duncan                65 Mustang       0  0:43.320
+12   BS   Jim ROBINSON                 Nissan350        0  0:43.359
+35   BSP  Jim Setzer                   Nissan 350Z      0  0:43.501
+63   STS2 Allen Smothers               Mazda/Miata      0  0:43.671
+47   FP   John Sheally                 Morgan Plus-8    0  0:43.851
+52   SM   Sean Ford                    Impreza L        0  0:44.090
+41   CM   Jim Haltom                   Miata            0  0:44.212
+17   DSN  Lloyd Martinez               BMW 328 i        0  0:44.345
+34   BSX  dustin mergi                 mazda rx8        0  0:44.389
+2    GS   Sean McConnell               MINI S           0  0:44.443
+24   BSN  AJ Johnson                   350 Z            0  0:44.503
+53   STX  Chris Smidt                  Mini Cooper S    0  0:44.807
+39   ASP  Andrew Chisholm              Porsche 911E     0  0:45.024
+106  AS   tony culic                   m3               0  0:45.077
+102  STSN cary kravetz                 prelude          0  0:45.143
+92   FSP  jay cumming                  toyota celica    0  0:45.200
+14   CSP  Kevin Kulp                   Toyota MR2       0  0:45.234
+21   ESX  Mike Keefe                   Miata            0  0:45.482
+25   STS  Chad Merritt                 Acura RSX        0  0:45.509
+37   SM2  RJ Hryniewich                Corvette         0  0:45.579
+87   STS  Mark Buckner                 Dodge Stratus    0  0:45.786
+13   BSPN Nick Talbot                  Nissan 350Z      0  0:45.872
+108  DSN  dave reisch                  328i             0  0:45.880
+62   ASX  Rick Mariani                 CadillacCTS-V    0  0:46.051
+77   SMN  Manny Desantos               88 Formula       0  0:46.207
+103  STS  Chris Noon                   RSX              0  0:46.240
+11   STSN Cecile Burg                  Nissan Sentra    0  0:46.279
+50   DSP  Michael Morgan               BMW 328Ci        0  0:46.571
+74   EP   Frank Pinckney               74Datsun260Z     0  0:46.597
+101  ESN  chris buckland               rx7              0  0:46.900
+49   ESPX Peter Florance               BMW Euro 528i    0  0:47.014
+88   STU  Bob Newell                   Mitsu EVO        0  0:47.024
+6    ESPX Jim Herley                   Ford Ranger      0  0:47.106
+104  STS  jason hornberger             sts              0  0:47.171
+10   DSL  Carrie Hryniewich            BMW 330CI        0  0:47.266
+68   STXN John Flick                   Subaru/WRX       0  0:47.549
+1    ESN  Richard Wade                 rx7              0  0:47.630
+64   SMN  Chris Charles                Acura Integra    0  0:48.061
+15   BSPN Harry Bradley                1977 Datsun 2    0  0:48.071
+85   BSN  curt philips                 2004 BMW Z4      0  0:48.424
+18   STS  Michael White                Superduperbug    0  0:48.570
+109  CSP  christopher samulski         miata            0  0:48.926
+33   STSN Matthew Knipple              Civic Lx         0  0:49.112
+45   CS   Andrew Ghosn                 Miata            0  0:49.265
+95   ASP  Derek Colvin                 Honda S2K        0  0:49.582
+107  GS   nelson clark                 jetta            0  0:49.618
+16   ESP  Michael Arrigo               85 fiero         4  0:49.837
+48   STSN Rudy Kinzig                  Celica GT-S      0  0:50.246
+38   ESN  Wayne Lewis                  Datsun 280Z      0  0:51.078
+80   HSN  Douglas Arcidino             95 Civic HB      0  0:51.761
+55   EPN  Joe Cecelic                  74 260z          0  0:52.032
+

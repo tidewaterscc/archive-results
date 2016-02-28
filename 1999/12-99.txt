@@ -1,0 +1,170 @@
+TSCC WINTER 4 #2 AUTOCROSS           DEC 19, 1999
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+39   AM   Steve Klute                  Lola             0  0:38.459
+67   AM   Gene Cooley                  Tui Fsv          0  0:40.015
+57   AM   Bernard Cooley               Tui fsv          0  0:40.212
+63   AM   Ron Klute                    Lola             0  0:40.258
+20   AM   Jim Davis                    Lola             0  0:40.328
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Cobra            0  0:47.045
+-----------------------------------------------------------------------
+34   AS   Sam Strano                   Toyota           0  0:45.791
+40   AS   Bob Brochu                   99 BMW           0  0:47.278
+61   AS   Karl Bender                  Toyato MR2       0  0:47.424
+-----------------------------------------------------------------------
+50   ASP  Bobby Smith                  Porshe 911       0  0:45.205
+18   ASP  Deno Plumley                 Toyota MR2       0  0:46.349
+38   ASP  Bruce Plumley                Toyata MR2       0  0:47.005
+103  ASP  Mike Shimandle               Porshe           0  0:51.222
+-----------------------------------------------------------------------
+56   BS   Tim Aro                      Mazda            0  0:46.916
+75   BS   Ed Raymundo                  Miata            0  0:47.654
+98   BS   Eric Peterson                Mazda            0  0:49.153
+100  BS   Jeffrey Lloyd                96 BMW           0  0:49.851
+4    BS   Doug Rauch                   BMW              0  0:50.124
+-----------------------------------------------------------------------
+58   BSP  Roger Garrett                corvette         0  0:47.270
+-----------------------------------------------------------------------
+28   CP   David Sigler                 Mustang 23       0  0:48.647
+29   CP   Eric Bonnett                 Mustang          0  0:48.835
+-----------------------------------------------------------------------
+4   CS   Paul Hamilton                Porshe 944       0  0:54.348
+2   CS   Bill Conkling                Mazda rx7        0  0:54.852
+-----------------------------------------------------------------------
+13   CSP  Joe Graves                   Escort           0  0:45.446
+73   CSP  Eric Carman                  Honda Crx Si     0  0:46.008
+43   CSP  Thomas Bleh                  BMW 325is        0  0:48.456
+12   CSP  Beno Rubin                   Honda Civic      0  0:48.911
+90   CSP  Rod Mcgeorge                 Toyota           0  0:51.005
+-----------------------------------------------------------------------
+15   DP   John Maglieri                Triumph          0  0:43.542
+5    DP   Larry Allamong               Triumph          0  0:45.709
+53   DP   Allan Pebworth               Austin Healey    0  0:48.436
+-----------------------------------------------------------------------
+89   DSP  Steve Shell                  Datsun           0  0:47.787
+6    DSP  Bruce Thompson               VW Rabbit        0  0:48.205
+83   DSP  Charles Brooks               Datsun           0  0:50.488
+92   DSP  Bobby Hudson                 Colt             0  0:53.414
+-----------------------------------------------------------------------
+41   EM   Glenn Bunch                  Cobra            0  0:46.800
+-----------------------------------------------------------------------
+71   EP   Aaron Johnson                Porshe 924       0  0:48.713
+-----------------------------------------------------------------------
+106  ES   Heyward Wagner               Honda Civic      0  0:48.135
+46   ES   Keith Edwards                Honda Crx Si     0  0:50.580
+105  ES   Justin Sawyer                Neon             0  0:51.476
+107  ES   Mitchell Wagner              Honda Civic      0  0:52.012
+104  ES   Scott Sawyer                 Honda Civic      2  0:53.789
+-----------------------------------------------------------------------
+31   ESP  Bill Brochu                  BMW              2  0:47.398
+84   ESP  Scott Hitt                   Pontiac          0  0:53.166
+-----------------------------------------------------------------------
+60   FS   Brian Tiffany                Camaro           0  0:46.029
+72   FS   Pat Griffith                 Camaro Z28       0  0:46.243
+17   FS   Curtis Staples               Ford Mustang     0  0:49.776
+-----------------------------------------------------------------------
+11   GS   Axel Crimmins                Chevy Maliba     0  0:52.403
+87   GS   Rob Lowe                     olds             4  0:54.201
+-----------------------------------------------------------------------
+26   SS   Justin Wade                  Mazda RX-7       0  0:47.084
+8    SS   Jeff Wetzel                  Vette            6  0:53.799
+-----------------------------------------------------------------------
+16   ESPL Angie Brochu                 BMW              0  0:39.246
+36   SSL  Leah Wade                    Mazda            0  0:40.179
+64   ESL  Amy Edwards                  Honda Crx Si     0  0:43.564
+-----------------------------------------------------------------------
+45   BSX  Karen Kraus                  Mazda            0  0:38.874
+74   FSX  Marty Lentz                  99 Ford Cobra    0  0:39.063
+27   ASX  Scott Ferguson               Porshe           0  0:41.100
+25   BSX  Mike Gannon                  914              0  0:41.379
+62   ASX  David Robinson               Porshe 944       0  0:41.768
+66   DSPX Mark Chiu                    Mitsubishi       0  0:44.624
+86   ASX  Tim Hund                     Morgan            No Times
+-----------------------------------------------------------------------
+102  HSN  William Godwin               Mazda            0  0:41.355
+97   DSN  Jerry Mcgovern               Toyota mr2       0  0:42.017
+85   GSN  David Rice                   Pontiac          0  0:42.427
+69   CSPN Erik Watts                   Plymouth Neon    0  0:43.642
+108  CSPN Russell Wilbanks             Mazda rx7        0  0:44.629
+101  CSPN Robert Freeman               Honda CivicSi    0  0:44.724
+2    DSPN Mike Schneider               Toyota           0  0:45.281
+68   ESPN Joey Morato                  GMC              0  0:45.362
+1    CSN  Brian Elaswick               Mazda rx7         No Times
+70   ESN  Zane Cummings                Honda Prelude     No Times
+-----------------------------------------------------------------------
+
+OVERALL PAX  STANDINGS
+
+15   DP   John Maglieri                Triumph          0  0:37.141
+60   FS   Brian Tiffany                Camaro           0  0:37.145
+72   FS   Pat Griffith                 Camaro Z28       0  0:37.318
+34   AS   Sam Strano                   Toyota           0  0:37.320
+106  ES   Heyward Wagner               Honda Civic      0  0:37.834
+56   BS   Tim Aro                      Mazda            0  0:38.049
+13   CSP  Joe Graves                   Escort           0  0:38.356
+39   AM   Steve Klute                  Lola             0  0:38.459
+50   ASP  Bobby Smith                  Porshe 911       0  0:38.515
+40   AS   Bob Brochu                   99 BMW           0  0:38.532
+75   BS   Ed Raymundo                  Miata            0  0:38.647
+61   AS   Karl Bender                  Toyato MR2       0  0:38.651
+73   CSP  Eric Carman                  Honda Crx Si     0  0:38.831
+45   BSX  Karen Kraus                  Mazda            0  0:38.874
+31   ESP  Bill Brochu                  BMW              2  0:38.961
+5    DP   Larry Allamong               Triumph          0  0:38.990
+74   FSX  Marty Lentz                  99 Ford Cobra    0  0:39.063
+26   SS   Justin Wade                  Mazda RX-7       0  0:39.080
+89   DSP  Steve Shell                  Datsun           0  0:39.185
+16   ESPL Angie Brochu                 BMW              0  0:39.246
+18   ASP  Deno Plumley                 Toyota MR2       0  0:39.489
+6    DSP  Bruce Thompson               VW Rabbit        0  0:39.528
+46   ES   Keith Edwards                Honda Crx Si     0  0:39.756
+98   BS   Eric Peterson                Mazda            0  0:39.863
+58   BSP  Roger Garrett                corvette         0  0:39.990
+67   AM   Gene Cooley                  Tui Fsv          0  0:40.015
+38   ASP  Bruce Plumley                Toyata MR2       0  0:40.048
+17   FS   Curtis Staples               Ford Mustang     0  0:40.169
+36   SSL  Leah Wade                    Mazda            0  0:40.179
+57   AM   Bernard Cooley               Tui fsv          0  0:40.212
+63   AM   Ron Klute                    Lola             0  0:40.258
+20   AM   Jim Davis                    Lola             0  0:40.328
+100  BS   Jeffrey Lloyd                96 BMW           0  0:40.429
+105  ES   Justin Sawyer                Neon             0  0:40.460
+4    BS   Doug Rauch                   BMW              0  0:40.651
+107  ES   Mitchell Wagner              Honda Civic      0  0:40.881
+43   CSP  Thomas Bleh                  BMW 325is        0  0:40.897
+47   AP   John Sheally                 Cobra            0  0:40.976
+27   ASX  Scott Ferguson               Porshe           0  0:41.100
+12   CSP  Beno Rubin                   Honda Civic      0  0:41.281
+11   GS   Axel Crimmins                Chevy Maliba     0  0:41.294
+53   DP   Allan Pebworth               Austin Healey    0  0:41.316
+102  HSN  William Godwin               Mazda            0  0:41.355
+25   BSX  Mike Gannon                  914              0  0:41.379
+83   DSP  Charles Brooks               Datsun           0  0:41.400
+28   CP   David Sigler                 Mustang 23       0  0:41.690
+62   ASX  David Robinson               Porshe 944       0  0:41.768
+29   CP   Eric Bonnett                 Mustang          0  0:41.852
+97   DSN  Jerry Mcgovern               Toyota mr2       0  0:42.017
+104  ES   Scott Sawyer                 Honda Civic      2  0:42.278
+85   GSN  David Rice                   Pontiac          0  0:42.427
+71   EP   Aaron Johnson                Porshe 924       0  0:42.478
+41   EM   Glenn Bunch                  Cobra            0  0:42.541
+87   GS   Rob Lowe                     olds             4  0:42.710
+90   CSP  Rod Mcgeorge                 Toyota           0  0:43.048
+64   ESL  Amy Edwards                  Honda Crx Si     0  0:43.564
+44   CS   Paul Hamilton                Porshe 944       0  0:43.587
+103  ASP  Mike Shimandle               Porshe           0  0:43.641
+69   CSPN Erik Watts                   Plymouth Neon    0  0:43.642
+84   ESP  Scott Hitt                   Pontiac          0  0:43.702
+92   DSP  Bobby Hudson                 Colt             0  0:43.799
+24   CS   Bill Conkling                Mazda rx7        0  0:43.991
+66   DSPX Mark Chiu                    Mitsubishi       0  0:44.624
+108  CSPN Russell Wilbanks             Mazda rx7        0  0:44.629
+8    SS   Jeff Wetzel                  Vette            6  0:44.653
+101  CSPN Robert Freeman               Honda CivicSi    0  0:44.724
+2    DSPN Mike Schneider               Toyota           0  0:45.281
+68   ESPN Joey Morato                  GMC              0  0:45.362
+1    CSN  Brian Elaswick               Mazda rx7         No Times
+70   ESN  Zane Cummings                Honda Prelude     No Times
+86   ASX  Tim Hund                     Morgan            No Times

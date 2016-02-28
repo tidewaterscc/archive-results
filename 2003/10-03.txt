@@ -1,0 +1,125 @@
+TSCC Autocross Oct. 2003 at Little Creek ACU-4
+
+Open Classes
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+13   AP   Greg Warden                  65 Cobra         0  0:42.577
+47   AP   John Sheally                 Chevy Race Car   0  0:42.806
+92   AP   Brad Drummond                Cobra            0  0:44.393
+-----------------------------------------------------------------------
+52   BP   Roger Garrett                Corvette ZR-1    0  0:43.174
+-----------------------------------------------------------------------
+24   CP   Kienan Weber                 Mustang GT       0  0:38.398
+5    CP   Bret Weber                   Mustang GT       0  0:38.844
+-----------------------------------------------------------------------
+22   CS   Marc Portanova               Miata            0  0:40.093
+4    CS   Les Banyas                   Miata            0  0:42.423
+-----------------------------------------------------------------------
+58   CSP  Gary Edwards                 Mazda Miata      0  0:42.106
+96   CSP  Ross Benton                  Corolla          0  0:45.474
+-----------------------------------------------------------------------
+78   DM   Larry Allamong               Triumph Spitfire 0  0:38.870
+40   DM   Fred Camron                  Saab Sonett      0  0:45.067
+-----------------------------------------------------------------------
+84   DS   Jeremy Bailey                2001 Cougar      0  0:47.093
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:38.736
+29   DSP  James McIver                 BMW 325is        0  0:40.874
+17   DSP  Curtis Staples               BMW 325is        0  0:41.416
+-----------------------------------------------------------------------
+35   EM   Glenn Bunch                  Cobra 289        0  0:37.046
+-----------------------------------------------------------------------
+60   F125 Dave Cutchins                Shifter Kart     0  0:36.465
+-----------------------------------------------------------------------
+77   FS   Bob Lyytinen                 Mustang          0  0:44.975
+103  FS   Miguel Bonilla               Mustang          0  0:49.575
+-----------------------------------------------------------------------
+66   GS   Keath Marx                   02 Celica GT     0  0:41.137
+-----------------------------------------------------------------------
+34   HS   Jeff Chenery                 Honda Civic      0  0:42.541
+102  HS   Chris Maki                   Elantra          0  0:48.665
+115  HS   Joe Benhayon                 Dodge Ram        0  0:50.245
+-----------------------------------------------------------------------
+25   SM   Chad Merritt                 Eagle Talon      0  0:41.791
+21   SM   Michael Cacase               Honda Civic      0  0:43.811
+101  SM   Michael Olohnick             BMW 318i         0  0:44.487
+-----------------------------------------------------------------------
+90   SM2  David Riley                  94 Miata         0  0:38.921
+-----------------------------------------------------------------------
+33   STX  Brett Baker                  Nissan SE-R      0  0:41.818
+
+
+
+Ladies
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+76   GSL  Donna Marx                   02 Celica GT     0  0:33.020
+12   DSPL Lark Muir                    BMW 325is        0  0:38.363
+
+
+Street Tire
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+39   ASX  Greg Koteski                 91 Corvette      0  0:34.672
+31   CSPX Michael Harris               Honda CRX si     0  0:35.433
+19   ASX  Doug Keiler                  Porsche 993      0  0:36.275
+1    CSPX Travis Boyer                 Honda Del Sol    0  0:36.460
+
+
+Novice 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+54   ASPN John Freeman                 Dodge Viper      0  0:35.106
+49   FSN  Brian Foley                  Mustang          0  0:35.593
+63   ASN  Richard Merce                1987 Corvette    0  0:37.339
+87   ASN  Scott Merce                  1987 Corvette    0  0:37.374
+74   CSN  Cameron McCormick            Mazda Miata      0  0:37.
+
+
+All Drivers by PAX
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:31.686
+66   GS   Keath Marx                   02 Celica GT     0  0:32.169
+22   CS   Marc Portanova               Miata            0  0:32.636
+24   CP   Kienan Weber                 Mustang GT       0  0:32.753
+76   GSL  Donna Marx                   02 Celica GT     0  0:33.020
+34   HS   Jeff Chenery                 Honda Civic      0  0:33.097
+90   SM2  David Riley                  94 Miata         0  0:33.122
+5    CP   Bret Weber                   Mustang GT       0  0:33.134
+35   EM   Glenn Bunch                  Cobra 289        0  0:33.304
+33   STX  Brett Baker                  Nissan SE-R      0  0:33.371
+29   DSP  James McIver                 BMW 325is        0  0:33.435
+17   DSP  Curtis Staples               BMW 325is        0  0:33.878
+60   F125 Dave Cutchins                Shifter Kart     0  0:34.204
+4    CS   Les Banyas                   Miata            0  0:34.532
+78   DM   Larry Allamong               Triumph Spitfire 0  0:34.633
+39   ASX  Greg Koteski                 91 Corvette      0  0:34.672
+25   SM   Chad Merritt                 Eagle Talon      0  0:34.854
+54   ASPN John Freeman                 Dodge Viper      0  0:35.106
+58   CSP  Gary Edwards                 Mazda Miata      0  0:35.327
+31   CSPX Michael Harris               Honda CRX-si     0  0:35.433
+49   FSN  Brian Foley                  Mustang          0  0:35.593
+77   FS   Bob Lyytinen                 Mustang          0  0:36.250
+19   ASX  Doug Keiler                  Porsche 993      0  0:36.275
+1    CSPX Travis Boyer                 Honda Del Sol    0  0:36.460
+21   SM   Michael Cacase               Honda Civic      0  0:36.538
+13   AP   Greg Warden                  65 Cobra         0  0:37.085
+47   AP   John Sheally                 Chevy Race Car   0  0:37.284
+63   ASN  Richard Merce                1987 Corvette    0  0:37.339
+52   BP   Roger Garrett                Corvette ZR-1    0  0:37.346
+87   ASN  Scott Merce                  1987 Corvette    0  0:37.374
+74   CSN  Cameron McCormick            Mazda Miata      0  0:37.439
+84   DS   Jeremy Bailey                2001 Cougar      0  0:37.439
+102  HS   Chris Maki                   Elantra          0  0:37.861
+96   CSP  Ross Benton                  Corolla          0  0:38.153
+12   DSPL Lark Muir                    BMW 325is        0  0:38.363
+115  HS   Joe Benhayon                 Dodge Ram        0  0:39.091
+40   DM   Fred Camron                  Saab Sonett      0  0:40.155
+
+

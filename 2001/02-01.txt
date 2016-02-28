@@ -1,0 +1,129 @@
+February 2001 Autocross (Winter Four #3)
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan           0  0:55.098
+-----------------------------------------------------------------------
+20   AS   Deno Plumly                  MR2 Turbo        0  0:57.600
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:58.142
+-----------------------------------------------------------------------
+30   ASP  Andrew Chisholm              Porsche 911E     0  0:56.919
+38   ASP  Bruce Plumly                 Toyota MR2       0  1:00.302
+-----------------------------------------------------------------------
+15   BS   Mike Gannon                  Porsche 914      0  1:00.220
+-----------------------------------------------------------------------
+6    CM   Chuck Berger                 Honda Civic      0  1:04.181
+-----------------------------------------------------------------------
+26   CP   Bill Brochu                  BMW 535i         0  0:55.454
+19   CP   Kienan Webber                Mustang          0  0:55.528
+28   CP   Bret Webber                  Mustang          0  0:57.236
+29   CP   Eric Bonnet                  Mustang          0  0:59.914
+33   CP   Bridget Sigler               Mustang 2.3      0  1:02.348
+21   CP   David Sigler                 Mustang 2.3      0  1:02.535
+-----------------------------------------------------------------------
+44   CS   Paul Hamilton                Porsche 944      0  1:01.810
+56   CS   Calvin Sanders               Mazda RX7        0  1:01.864
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Civic Si         0  0:58.306
+11   CSP  Rob Redanz                   Miata (909)      0  1:04.047
+12   CSP  Jim Griswold                 Miata (606)      0  1:06.300
+27   CSP  Mike Roach                   Miata            2  1:06.446
+-----------------------------------------------------------------------
+32   DSP  Tom Bleh                     BMW 325is        0  0:56.749
+24   DSP  Andy Clark                   Celica GTS       0  1:00.472
+31   DSP  Forrest Rollins              VW GTI           0  1:02.775
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 914      0  0:52.130
+22   EM   Glenn Bunch                  289 Cobra        0  0:55.578
+-----------------------------------------------------------------------
+3    ESP  John Hudnall                 BMW M3           0  0:58.180
+-----------------------------------------------------------------------
+18   FS   Jason Carp                   Mustang          0  1:01.399
+-----------------------------------------------------------------------
+14   FSP  Larry Allamong               MGB              0  1:01.436
+10   FSP  Mike Schneider               Corolla GTS      0  1:01.872
+-----------------------------------------------------------------------
+17   GS   Curtis Staples               BMW 325is        0  1:00.196
+-----------------------------------------------------------------------
+34   SS   Rick Jenkins                 BMW M Roadstr    0  0:57.778
+-----------------------------------------------------------------------
+4    STS  Dustin Earnhardt             Nissan 240SX     0  1:04.446
+43   STS  Ian Buckley                  Integra          2  1:09.558
+
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+16   ESPL Angie Brochu                 BMW 535i         0  0:47.464
+36   BSL  Leah Wade                    Miata            0  0:49.314
+13   GSL  Lark Muir                    BMW 325is        0  0:53.344
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+2    BSX  Andrew Warren                Miata            0  0:50.689
+1    BSX  Ned Egan                     Miata            0  0:51.187
+
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+48   CSN  Chris Hamilton               Porsche 944      0  0:50.731
+42   DSPN Lee Sendeh                   NX2000           0  0:51.065
+7    DSPN Jordan Waverly               Acura Integra    0  0:52.609
+37   BSN  Michael Peterson             MR2 Spyder       0  0:52.663
+41   DSPN Eric Thomas                  VW Golf          2  0:53.137
+5    SSN  Steve Kennedy                Covette          0  0:53.430
+25   CSPN Steve Mulholland             Porsche 944      0  0:53.475
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR           PEN    PAX
+-----------------------------------------------------------------------
+32   DSP  Tom Bleh                     BMW 325is        0  0:46.477
+20   AS   Deno Plumly                  MR2 Turbo        0  0:46.944
+50   EM   Bobby Smith                  Porsche 914      0  0:47.334
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:47.386
+16   ESPL Angie Brochu                 BMW 535i         0  0:47.464
+17   GS   Curtis Staples               BMW 325is        0  0:47.495
+26   CP   Bill Brochu                  BMW 535i         0  0:47.524
+19   CP   Kienan Webber                Mustang          0  0:47.587
+3    ESP  John Hudnall                 BMW M3           0  0:47.824
+34   SS   Rick Jenkins                 BMW M Roadstr    0  0:47.956
+47   AP   John Sheally                 Morgan           0  0:48.045
+30   ASP  Andrew Chisholm              Porsche 911E     0  0:48.495
+15   BS   Mike Gannon                  Porsche 914      0  0:48.899
+28   CP   Bret Webber                  Mustang          0  0:49.051
+8    CSP  Beno Rubin                   Civic Si         0  0:49.210
+36   BSL  Leah Wade                    Miata            0  0:49.314
+24   DSP  Andy Clark                   Celica GTS       0  0:49.527
+18   FS   Jason Carp                   Mustang          0  0:49.549
+44   CS   Paul Hamilton                Porsche 944      0  0:49.695
+56   CS   Calvin Sanders               Mazda RX7        0  0:49.739
+14   FSP  Larry Allamong               MGB              0  0:50.193
+4    STS  Dustin Earnhardt             Nissan 240SX     0  0:50.461
+22   EM   Glenn Bunch                  289 Cobra        0  0:50.465
+10   FSP  Mike Schneider               Corolla GTS      0  0:50.549
+2    BSX  Andrew Warren                Miata            0  0:50.689
+48   CSN  Chris Hamilton               Porsche 944      0  0:50.731
+42   DSPN Lee Sendeh                   NX2000           0  0:51.065
+1    BSX  Ned Egan                     Miata            0  0:51.187
+29   CP   Eric Bonnet                  Mustang          0  0:51.346
+38   ASP  Bruce Plumly                 Toyota MR2       0  0:51.377
+31   DSP  Forrest Rollins              VW GTI           0  0:51.413
+7    DSPN Jordan Waverly               Acura Integra    0  0:52.609
+37   BSN  Michael Peterson             MR2 Spyder       0  0:52.663
+41   DSPN Eric Thomas                  VW Golf          2  0:53.137
+13   GSL  Lark Muir                    BMW 325is        0  0:53.344
+5    SSN  Steve Kennedy                Covette          0  0:53.430
+33   CP   Bridget Sigler               Mustang          0  0:53.432
+25   CSPN Steve Mulholland             Porsche 944      0  0:53.475
+21   CP   David Sigler                 Mustang 2.3      0  0:53.592
+11   CSP  Rob Redanz                   Miata (909)      0  0:54.056
+43   STS  Ian Buckley                  Integra          2  0:54.464
+12   CSP  Jim Griswold                 Miata (606)      0  0:55.957
+45   ASN  Jeffri Peters                Porsche 911      0  0:57.222
+6    CM   Chuck Berger                 Honda Civic      0  0:59.303
+

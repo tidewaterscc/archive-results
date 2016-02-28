@@ -1,0 +1,114 @@
+June 2000 TSCC Autocross Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+39   AM   Steve Klute                  Lola T252        0  0:54.418
+59   AM   Bernard Cooley               Tui              0  0:54.667
+89   AM   Gene Cooley                  Tui FSV          0  0:55.319
+48   AM   Allen Goode                  A Sport Racer    0  0:58.961
+20   AM   Jim Davis                    Lola T252        0  0:59.170
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  1:04.360
+-----------------------------------------------------------------------
+18   ASP  Deno Plumley                 Toyota MR2       0  1:03.683
+38   ASP  Bruce Plumley                Toyota MR2       0  1:05.302
+-----------------------------------------------------------------------
+22   CP   Calvin Sanders               Saleen Mustang   0  1:03.415
+29   CP   Eric Bonnett                 Saleen Mustang   0  1:03.607
+10   CP   Kienan Weber                 Mustang GT       0  1:07.816
+28   CP   David Sigler                 Mustang 2.3      0  1:08.892
+19   CP   Bret Webber                  Mustang GT       0  1:09.294
+-----------------------------------------------------------------------
+44   CS   D. Hamilton                  Porsche 944      0  1:10.371
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Honda civic      0  1:05.115
+-----------------------------------------------------------------------
+34   DP   John Maglieri                Spitfire         0  1:01.982
+2    DP   Larry Allamong               Spitfire         0  1:03.009
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  1:04.166
+23   DSP  Engelbert Muelhaupt          Ford Escort      0  1:07.719
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                Honda CRX        0  1:08.957
+65   ES   Mike Schneider               Corolla GTS      0  1:13.307
+5    ES   Brad Adams                   Ford             2  1:15.080
+-----------------------------------------------------------------------
+33   FS   Bridget Sigler               Mustang GT       0  1:07.779
+62   FS   Jay Gugino                   Firebird         0  1:07.818
+63   FS   Bob Chatters                 Supra            0  1:09.366
+-----------------------------------------------------------------------
+73   FSP  Eril Stadig                  Sunfire          0  1:10.936
+-----------------------------------------------------------------------
+17   GS   Curtis Staples               BMW 325is        0  1:06.756
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+64   ESL  Amy Edwards                  Honda CRX        0  1:10.917
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+11   GSX  Biff Jennings                BMW 535i         0  0:55.188
+24   BSX  Ryan Compston                Mazada Miata     0  0:55.919
+
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+15   DSPN Ryan Cavey                   Nissan 240sx     0  0:51.101
+25   GSN  Aaron Jennings               BMW 535i         0  0:57.923
+61   CSPN Barnard Palmer               Honda Prelude    0  0:58.049
+48   CSN  Chris Hamilton               Porsche 944      2  0:58.261
+3    DSPN Dustin Earnhardt             Nissan 240sx     0  0:58.735
+79   CSPN Allen Lai                    Unknown          0  0:59.242
+36   BSN  Ned Egan                     Miata            0  1:02.247
+42   HSN  Chris Tynch                  Cavalier         0  1:02.318
+41   CSN  Carl Stone                   Mazada RX7       0  1:04.773
+
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR           PEN    PAX
+-----------------------------------------------------------------------
+15   DSPN Ryan Cavey                   Nissan 240sx     0  0:51.101
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:52.453
+43   DSP  Tom Bleh                     BMW 325is        0  0:52.552
+17   GS   Curtis Staples               BMW 325is        0  0:52.670
+34   DP   John Maglieri                Spitfire         0  0:52.871
+2    DP   Larry Allamong               Spitfire         0  0:53.747
+46   ES   Keith Edwards                Honda CRX        0  0:54.200
+18   ASP  Deno Plumley                 Toyota MR2       0  0:54.258
+22   CP   Calvin Sanders               Saleen Mustang   0  0:54.347
+39   AM   Steve Klute                  Lola T252        0  0:54.418
+29   CP   Eric Bonnett                 Saleen Mustang   0  0:54.511
+59   AM   Bernard Cooley               Tui FSV          0  0:54.667
+33   FS   Bridget Sigler               Mustang GT       0  0:54.698
+62   FS   Jay Gugino                   Firebird         0  0:54.729
+11   GSX  Biff Jennings                BMW 535i         0  0:55.188
+89   AM   Gene Cooley                  Tui FSV          0  0:55.319
+23   DSP  Engelbert Muelhaupt          Ford Escort      0  0:55.462
+38   ASP  Bruce Plumley                Toyota MR2       0  0:55.637
+64   ESL  Amy Edwards                  Honda CRX        0  0:55.741
+24   BSX  Ryan Compston                Mazada Miata     0  0:55.919
+63   FS   Bob Chatters                 Supra            0  0:55.978
+65   ES   Mike Schneider               Corolla GTS      0  0:57.619
+25   GSN  Aaron Jennings               BMW 535i         0  0:57.923
+73   FSP  Eril Stadig                  Sunfire          0  0:57.955
+61   CSPN Barnard Palmer               Honda Prelude    0  0:58.049
+10   CP   Kienan Weber                 Mustang GT       0  0:58.118
+48   CSN  Chris Hamilton               Porsche 944      2  0:58.261
+3    DSPN Dustin Earnhardt             Nissan 240sx     0  0:58.735
+48   AM   Allen Goode                  A Sport Racer    0  0:58.961
+5    ES   Brad Adams                   Ford             2  0:59.013
+28   CP   David Sigler                 Mustang 2.3      0  0:59.040
+20   AM   Jim Davis                    Lola T252        0  0:59.170
+79   CSPN Allen Lai                    Unknown          0  0:59.242
+19   CP   Bret Webber                  Mustang GT       0  0:59.385
+36   BSN  Ned Egan                     Miata            0  1:02.247
+42   HSN  Chris Tynch                  Cavalier         0  1:02.318
+41   CSN  Carl Stone                   Mazada RX7       0  1:04.773
+
+

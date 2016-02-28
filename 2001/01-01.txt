@@ -1,0 +1,143 @@
+January 2001 Autocross (Winter Four #2)
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+68   AM   Gene Cooley                  Tui              0  0:40.046
+89   AM   Bernard Cooley               Tui              0  0:40.070
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan           0  0:43.159
+592  AP   Matt Purvis                  Porsche 944      0  0:49.933
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:44.162
+21   AS   Terry Baker                  BMW M3           0  0:44.944
+-----------------------------------------------------------------------
+25   ASP  Andy Chisolm                 Porsche 911      0  0:43.485
+18   ASP  Deno Plumley                 Toyota MR2       0  0:45.760
+38   ASP  Bruce Plumley                Toyota MR2       0  0:46.227
+-----------------------------------------------------------------------
+36   BS   Leah Wade                    Miata            0  0:46.429
+20   BS   Mark Portanova               Miata            0  0:47.064
+-----------------------------------------------------------------------
+200  BSP  Roger Garrett                Corvette         0  0:44.602
+-----------------------------------------------------------------------
+10   CP   Kenan Weber                  Mustang          0  0:43.608
+2    CP   Bret Weber                   Mustang          0  0:45.627
+5    CP   Chad Merrit                  Talon            0  0:46.059
+29   CP   Eric Bonnet                  Mustang          0  0:46.654
+-----------------------------------------------------------------------
+42   CS   Calvin Saunders              Mazada RX7       0  0:47.044
+44   CS   Paul Hamilton                Porsche 944      0  0:49.402
+-----------------------------------------------------------------------
+9    CSP  Beno Rubin                   Honda Civic      0  0:44.191
+13   CSP  Allen Stratten               Honda CRX        0  0:46.800
+909  CSP  Rob Redanz                   Miata            0  0:48.328
+-----------------------------------------------------------------------
+77   DS   Josh Ward                    Neon             0  0:46.857
+71   DS   John Wallace                 Nissan           0  0:47.380
+7    DS   Andy Turnball                Sentra           0  0:48.006
+72   DS   Bill Ward                    Neon             0  0:49.772
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:44.710
+6    DSP  Wade Jackson                 Nissan           0  0:46.753
+8    DSP  Andy Clark                   Toyota           0  0:47.612
+75   DSP  Forrest Rollins sr.          Jetta            0  0:48.045
+73   DSP  Oliver Fray                  Volksa           0  0:48.815
+70   DSP  Forest Rollins               VW               2  0:50.546
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 914      0  0:39.983
+-----------------------------------------------------------------------
+79   ES   Mike Schineder               Toyota           0  0:47.329
+46   ES   Keith Edwards                Honda CRX si     0  0:47.465
+-----------------------------------------------------------------------
+311  ESP  Bill Brochu                  BMW 535          0  0:43.359
+125  ESP  Curt Kiser                   BMW M5           0  0:44.991
+12   ESP  Scott Willard                Talon            0  0:47.313
+-----------------------------------------------------------------------
+11   FSP  Larry Allamong               MGB              0  0:47.845
+14   FSP  Jim Course                   Datsun           0  0:52.441
+-----------------------------------------------------------------------
+17   GS   Curtis Staples               BMW 325is        0  0:48.305
+-----------------------------------------------------------------------
+26   SS   Justin Wade                  Mazda RX7        0  0:44.633
+111  SS   Rick Jenkins                 M3               0  0:47.847
+112  SS   Tano Maenza                  BMW M Roadstr    0  0:48.374
+
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+64   ESL  Amy Edwards                  Honda CRX si     0  0:38.865
+74   DSL  Dana Forrest                 BMW 318ti        0  0:41.588
+1    GSL  Lark Muir                    BMW 325is        0  0:42.513
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+69   BSX  Ned Igen                     Miata            0  0:40.053
+49   BSX  Micheal Roach                Miata            0  0:40.254
+80   SSX  David Wright                 Trans AM         0  0:40.900
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+78   DSPN Eric Thomas                  Golf             0  0:40.261
+
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR           PEN    PAX
+-----------------------------------------------------------------------
+311  ESP  Bill Brochu                  BMW 535          0  0:35.641
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:35.992
+50   EM   Bobby Smith                  Porsche 914      0  0:36.305
+43   DSP  Tom Bleh                     BMW 325is        0  0:36.617
+21   AS   Terry Baker                  BMW M3           0  0:36.629
+125  ESP  Curt Kiser                   BMW M5           0  0:36.983
+26   SS   Justin Wade                  Mazda RX7        0  0:37.045
+25   ASP  Andy Chisolm                 Porsche 911      0  0:37.049
+79   ES   Mike Schineder               Toyota           0  0:37.201
+9    CSP  Beno Rubin                   Honda Civic      0  0:37.297
+46   ES   Keith Edwards                Honda CRX si     0  0:37.307
+10   CP   Kenan Weber                  Mustang          0  0:37.372
+77   DS   Josh Ward                    Neon             0  0:37.439
+47   AP   John Sheally                 Morgan           0  0:37.635
+36   BS   Leah Wade                    Miata            0  0:37.700
+200  BSP  Roger Garrett                Corvette         0  0:37.778
+42   CS   Calvin Saunders              Mazada RX7       0  0:37.823
+71   DS   John Wallace                 Nissan           0  0:37.857
+17   GS   Curtis Staples               BMW 325is        0  0:38.113
+20   BS   Mark Portanova               Miata            0  0:38.216
+6    DSP  Wade Jackson                 Nissan           0  0:38.291
+7    DS   Andy Turnball                Sentra           0  0:38.357
+64   ESL  Amy Edwards                  Honda CRX si     0  0:38.865
+12   ESP  Scott Willard                Talon            0  0:38.891
+18   ASP  Deno Plumley                 Toyota MR2       0  0:38.988
+8    DSP  Andy Clark                   Toyota           0  0:38.994
+2    CP   Bret Weber                   Mustang          0  0:39.102
+75   DSP  Forrest Rollins sr.          Jetta            0  0:39.349
+38   ASP  Bruce Plumley                Toyota MR2       0  0:39.385
+5    CP   Chad Merrit                  Talon            0  0:39.473
+13   CSP  Allen Stratten               Honda CRX        0  0:39.499
+111  SS   Rick Jenkins                 M3               0  0:39.713
+44   CS   Paul Hamilton                Porsche 944      0  0:39.719
+72   DS   Bill Ward                    Neon             0  0:39.768
+73   DSP  Oliver Fray                  Volksa           0  0:39.979
+29   CP   Eric Bonnet                  Mustang          0  0:39.982
+68   AM   Gene Cooley                  Tui              0  0:40.046
+69   BSX  Ned Igen                     Miata            0  0:40.053
+89   AM   Bernard Cooley               Tui              0  0:40.070
+112  SS   Tano Maenza                  BMW M Roadstr    0  0:40.150
+49   BSX  Micheal Roach                Miata            0  0:40.254
+78   DSPN Eric Thomas                  Golf             0  0:40.261
+909  CSP  Rob Redanz                   Miata            0  0:40.789
+80   SSX  David Wright                 Trans AM         0  0:40.900
+70   DSP  Forest Rollins               VW               2  0:41.397
+74   DSL  Dana Forrest                 BMW 318ti        0  0:41.588
+1    GSL  Lark Muir                    BMW 325is        0  0:42.513
+592  AP   Matt Purvis                  Porsche 944      0  0:43.542
+11   FSP  Larry Allamong               MGB              0  0:47.845
+14   FSP  Jim Course                   Datsun           0  0:52.441
+

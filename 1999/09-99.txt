@@ -1,0 +1,186 @@
+TSCC  Back to School Autocross Results ,  19 Sept 99
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+105  AM   Gene Cooley                  Tui FSX          0  1:01.554
+20   AM   Steve Klute                  Lola T252        0  1:02.140
+57   AM   Bernard Cooley               Tui FSV          0  1:02.648
+39   AM   Jim Davis                    Lola T 252       0  1:05.316
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   99 BMW CPE       0  1:13.003
+95   AS   David Robinson               944 Porshe       0  1:21.548
+-----------------------------------------------------------------------
+28   CP   David Sigler                 Mustang 2.3      0  1:13.939
+5    CP   Bruce Turlington             65 Mustang       0  1:14.013
+61   CP   Donnie Turlington            65 Mustang       0  1:14.466
+21   CP   Chad Merrit                  Talon            0  1:18.561
+29   CP   Eric Bennett                 Mustang          0  1:18.772
+-----------------------------------------------------------------------
+44   CS   Paul Hamilton                Porshe 944       0  1:23.848
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   87 Civic Si      0  1:14.557
+59   CSP  Dave Brochu                  BMW 325 ES       0  1:16.153
+2    CSP  Wade Jackson                 Nissan 200       0  1:16.611
+-----------------------------------------------------------------------
+47   DM   John Sheally                 Saab Sonnett     0  1:11.309
+7    DM   Glenn Bunch                  Saab Sonett      0  1:14.296
+-----------------------------------------------------------------------
+6    DSP  Bruce Thompson               VW Rabbit Wag    0  1:11.425
+19   DSP  Larry Allamong               MGB              0  1:20.373
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                86 CRX si        0  1:19.448
+-----------------------------------------------------------------------
+31   ESP  Bill Brochu                  BMW 353i         0  1:13.134
+52   ESP  Marc Portanova               71 Mach I        0  1:13.911
+62   ESP  Curt Kiser                   BMW M5           0  1:17.032
+10   ESP  Robert Duncan                65 Mustang Fa    0  1:19.497
+41   ESP  Steve Grossen                71 Mach I        0  1:20.630
+-----------------------------------------------------------------------
+72   F125 Troy Blanton                 F-125 Kart       0  1:03.225
+58   F125 Dave Cutchins                F-125 Kart       0  1:03.393
+-----------------------------------------------------------------------
+17   FS   Curtis Staples               Mustang GT       0  1:14.982
+-----------------------------------------------------------------------
+23   GS   Dave Hinde                   Eclipse GT       0  1:22.506
+-----------------------------------------------------------------------
+22   SS   Gil Smith                    Vette            0  1:11.065
+26   SS   Justin Wade                  Mazda rx7        0  1:13.103
+51   SS   Jeffrey Wetzel               Chevy Corv       0  1:13.991
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+
+-----------------------------------------------------------------------
+45   SSL  Roberta Wetzel               Chevy Corv       0  1:00.782
+33   FSL  Bridget Sigler               Mustang GT       0  1:01.749
+16   ESPL Angie Brochu                 BMW 535i         0  1:02.252
+36   SSL  Leah Wade                    Mazda rx7        0  1:02.628
+64   ESL  Amy Edwards                  86 CRX si        0  1:09.372
+-----------------------------------------------------------------------
+96   SSX  Rick Jenkins                 BMW Roadster     0  1:02.437
+27   ASX  Scott Ferguson               Porshe           0  1:03.114
+90   ESPX Fred Prickett                90 Mustang LX    0  1:05.856
+49   SSX  David Guild                  86 Covette       0  1:06.030
+91   HSX  Harry Leach                  92 Ford Festi    0  1:07.187
+11   BSPX Axel Crimmins                corvette         2  1:13.467
+-----------------------------------------------------------------------
+94   DSN  Marty Lentz                  Dodge Neon       0  1:01.281
+92   DSN  Ryan Howlett                 98 Neon          0  1:02.239
+88   HSN  Ryan Compston                Suburu Imprez    0  1:03.449
+93   DSN  Angie Howlett                98 Dodge Neon    0  1:05.149
+1    ESN  Robert Freeman               89 H Civic Si    2  1:05.453
+48   CSN  Chris Hamilton               Porshe 944       0  1:07.415
+53   DSPN Bobby Hudson                 Colt             0  1:08.732
+15   DSPN Mark Chiu                    Mitsubishi Ec   10  1:08.800
+78   EPN  Bob Vandyke                  68 MGB           0  1:09.665
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+6    DSP  Bruce Thompson               VW Rabbit Wag    0  0:58.568
+22   SS   Gil Smith                    Vette            0  0:58.984
+40   AS   Bob Brochu                   99 BMW CPE       0  0:59.497
+31   ESP  Bill Brochu                  BMW 353i         0  1:00.116
+17   FS   Curtis Staples               Mustang GT       0  1:00.510
+26   SS   Justin Wade                  Mazda rx7        0  1:00.675
+52   ESP  Marc Portanova               71 Mach I        0  1:00.755
+45   SSL  Roberta Wetzel               Chevy Corv       0  1:00.782
+94   DSN  Marty Lentz                  Dodge Neon       0  1:01.281
+51   SS   Jeffrey Wetzel               Chevy Corv       0  1:01.413
+105  AM   Gene Cooley                  Tui FSX          0  1:01.554
+33   FSL  Bridget Sigler               Mustang GT       0  1:01.749
+20   AM   Steve Klute                  Lola T252        0  1:02.140
+92   DSN  Ryan Howlett                 98 Neon          0  1:02.239
+16   ESPL Angie Brochu                 BMW 535i         0  1:02.252
+96   SSX  Rick Jenkins                 BMW Roadster     0  1:02.437
+46   ES   Keith Edwards                86 CRX si        0  1:02.446
+36   SSL  Leah Wade                    Mazda rx7        0  1:02.628
+57   AM   Bernard Cooley               Tui FSV          0  1:02.648
+8    CSP  Beno Rubin                   87 Civic Si      0  1:02.926
+27   ASX  Scott Ferguson               Porshe           0  1:03.114
+72   F125 Troy Blanton                 F-125 Kart       0  1:03.225
+62   ESP  Curt Kiser                   BMW M5           0  1:03.320
+28   CP   David Sigler                 Mustang 2.3      0  1:03.366
+58   F125 Dave Cutchins                F-125 Kart       0  1:03.393
+5    CP   Bruce Turlington             65 Mustang       0  1:03.429
+88   HSN  Ryan Compston                Suburu Imprez    0  1:03.449
+61   CP   Donnie Turlington            65 Mustang       0  1:03.817
+47   DM   John Sheally                 Saab Sonnett     0  1:04.178
+59   CSP  Dave Brochu                  BMW 325 ES       0  1:04.273
+2    CSP  Wade Jackson                 Nissan 200       0  1:04.660
+23   GS   Dave Hinde                   Eclipse GT       0  1:05.015
+93   DSN  Angie Howlett                98 Dodge Neon    0  1:05.149
+39   AM   Jim Davis                    Lola T 252       0  1:05.316
+10   ESP  Robert Duncan                65 Mustang Fa    0  1:05.347
+1    ESN  Robert Freeman               89 H Civic Si    2  1:05.453
+90   ESPX Fred Prickett                90 Mustang LX    0  1:05.856
+19   DSP  Larry Allamong               MGB              0  1:05.906
+49   SSX  David Guild                  86 Covette       0  1:06.030
+41   ESP  Steve Grossen                71 Mach I        0  1:06.278
+95   AS   David Robinson               944 Porshe       0  1:06.462
+7    DM   Glenn Bunch                  Saab Sonett      0  1:06.866
+91   HSX  Harry Leach                  92 Ford Festi    0  1:07.187
+44   CS   Paul Hamilton                Porshe 944       0  1:07.246
+21   CP   Chad Merrit                  Talon            0  1:07.327
+48   CSN  Chris Hamilton               Porshe 944       0  1:07.415
+29   CP   Eric Bennett                 Mustang          0  1:07.508
+53   DSPN Bobby Hudson                 Colt             0  1:08.732
+15   DSPN Mark Chiu                    Mitsubishi Ec   10  1:08.800
+64   ESL  Amy Edwards                  86 CRX si        0  1:09.372
+78   EPN  Bob Vandyke                  68 MGB           0  1:09.665
+11   BSPX Axel Crimmins                corvette         2  1:13.467
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+1    ESN  Robert Freeman               89 H Civic Si    0  1:25.085   0  1:24.481  2  1:23.726   2  1:23.274 
+2    CSP  Wade Jackson                 Nissan 200       0  1:18.660   0  1:17.497  0  1:17.296   0  1:16.611 
+5    CP   Bruce Turlington             65 Mustang       0  1:16.3DNF  0  1:16.407  0  1:16.241   0  1:14.013 
+6    DSP  Bruce Thompson               VW Rabbit Wag    2  1:14.305   0  1:12.023  0  1:11.425   0  1:16.2DNF
+7    DM   Glenn Bunch                  Saab Sonett      0  1:14.972   0  1:14.296  2  1:17.354   0  1:17.450 
+8    CSP  Beno Rubin                   87 Civic Si      2  1:17.949   0  1:15.618  0  1:14.557   0  1:14.979 
+10   ESP  Robert Duncan                65 Mustang Fa    0  1:30.7DNF  2  1:23.512  0  1:20.355   0  1:19.497 
+11   BSPX Axel Crimmins                corvette         2  1:27.870   0  1:25.4DNF 2  1:26.840   4  1:29.157 
+15   DSPN Mark Chiu                    Mitsubishi Ec    0  1:36.061   0  1:24.9DNF 0  1:24.0DNF 10  1:23.903 
+16   ESPL Angie Brochu                 BMW 535i         2  1:20.530   0  1:17.719  0  1:15.973   0  1:15.732 
+17   FS   Curtis Staples               Mustang GT       0  1:17.182   0  1:16.886  0  1:14.982   0  1:15.437 
+19   DSP  Larry Allamong               MGB              6  1:26.968   0  1:20.373  0  0:00.DNS
+20   AM   Steve Klute                  Lola T252        0  1:03.595   4  1:06.423  0  1:02.140   0  1:02.291 
+21   CP   Chad Merrit                  Talon            0  1:21.387   0  1:20.345  0  1:19.227   0  1:18.561 
+22   SS   Gil Smith                    Vette            0  1:11.290   0  1:11.065  2  1:19.038   0  1:11.867 
+23   GS   Dave Hinde                   Eclipse GT       0  1:22.918   0  1:22.506  4  1:25.127   4  1:26.568 
+26   SS   Justin Wade                  Mazda rx7        0  1:13.5DNF  0  1:13.103  0  1:07.6DNF  0  1:13.439 
+27   ASX  Scott Ferguson               Porshe           0  1:19.739   0  1:18.739  2  1:19.393   0  1:17.441 
+28   CP   David Sigler                 Mustang 2.3      6  1:21.117   0  1:13.939  2  1:16.915   4  1:20.034 
+29   CP   Eric Bennett                 Mustang          4  1:25.093   0  1:19.477  0  1:19.069   0  1:18.772 
+31   ESP  Bill Brochu                  BMW 353i         0  1:13.134   4  1:17.220  0  1:13.259   2  1:14.201 
+33   FSL  Bridget Sigler               Mustang GT       0  1:18.3DNF  2  1:19.022  2  1:19.163   0  1:16.517 
+36   SSL  Leah Wade                    Mazda rx7        0  1:16.036   0  1:15.770  0  1:15.456   4  1:20.265 
+39   AM   Jim Davis                    Lola T 252       0  1:05.2DNF  0  1:05.6DNF 0  1:05.468   0  1:05.316 
+40   AS   Bob Brochu                   99 BMW CPE       0  1:13.811   0  1:13.204  0  1:13.406   0  1:13.003 
+41   ESP  Steve Grossen                71 Mach I        0  1:23.831   0  1:22.120  0  1:20.630   0  1:21.491 
+44   CS   Paul Hamilton                Porshe 944       0  1:25.015   0  1:23.2DNF 0  1:23.848   0  1:24.060 
+45   SSL  Roberta Wetzel               Chevy Corv       2  1:18.4DNF  2  1:18.792  0  1:14.874   0  1:13.231 
+46   ES   Keith Edwards                86 CRX si        0  1:20.600   0  1:19.448  0  1:20.289   0  1:19.555 
+47   DM   John Sheally                 Saab Sonnett     0  1:13.2DNF  0  1:12.605  0  1:11.309   6  1:34.625 
+48   CSN  Chris Hamilton               Porshe 944       4  1:29.0DNF  0  1:24.058  4  1:26.436   0  1:22.553 
+49   SSX  David Guild                  86 Covette       2  1:21.896   2  1:20.283  0  1:19.554   0  1:15.679 
+51   SS   Jeffrey Wetzel               Chevy Corv       0  1:13.991   0  1:14.260  0  1:17.398   0  1:15.368 
+52   ESP  Marc Portanova               71 Mach I        0  1:14.287   0  1:13.911  0  1:29.4DNF  0  1:25.4DNF
+53   DSPN Bobby Hudson                 Colt             0  1:23.820   0  1:24.1DNF
+57   AM   Bernard Cooley               Tui FSV          0  1:03.2DNF  0  1:03.120  0  1:02.648   0  1:03.042 
+58   F125 Dave Cutchins                F-125 Kart       0  1:05.653   0  1:04.7DNF 0  1:03.424   0  1:03.393 
+59   CSP  Dave Brochu                  BMW 325 ES       0  1:17.5DNF  0  1:16.153  0  1:18.141   0  1:15.3DNF
+61   CP   Donnie Turlington            65 Mustang       0  1:38.2DNF  0  1:17.870  0  1:14.581   0  1:14.466 
+62   ESP  Curt Kiser                   BMW M5           2  1:19.536   2  1:18.269  0  1:17.032   4  1:23.107 
+64   ESL  Amy Edwards                  86 CRX si        0  1:28.259   0  1:31.6DNF 0  1:32.481   4  1:30.993 
+72   F125 Troy Blanton                 F-125 Kart       0  1:05.2DNF  0  1:04.158  0  1:03.225   0  1:08.122 
+78   EPN  Bob Vandyke                  68 MGB           0  1:33.000   0  1:19.891  2  1:20.0DNF
+88   HSN  Ryan Compston                Suburu Imprez    0  1:26.217   0  1:22.252  0  1:20.827   0  1:20.966 
+90   ESPX Fred Prickett                90 Mustang LX    0  1:21.856   0  1:21.681  0  1:21.315   0  1:20.117 
+91   HSX  Harry Leach                  92 Ford Festi    0  1:32.547   0  1:28.471  0  1:28.142   0  1:25.588 
+92   DSN  Ryan Howlett                 98 Neon          0  1:20.7DNF  0  1:21.5DNF 0  1:18.101   0  1:17.799 
+93   DSN  Angie Howlett                98 Dodge Neon    0  1:20.5DNF  0  1:18.6DNF 0  1:21.887   0  1:21.436 
+94   DSN  Marty Lentz                  Dodge Neon       2  1:20.916   0  1:18.315  0  1:18.743   0  1:16.601 
+95   AS   David Robinson               944 Porshe       0  1:22.169   0  1:21.548  2  1:22.710   6  1:27.614 
+96   SSX  Rick Jenkins                 BMW Roadster     0  1:19.8DNF  0  1:26.638  0  1:15.619   0  1:15.225 
+105  AM   Gene Cooley                  Tui FSX          2  1:04.213   0  1:02.850  0  1:01.554   0  1:01.933 
+
+

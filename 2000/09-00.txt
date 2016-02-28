@@ -1,0 +1,151 @@
+September 2000 TSCC Autocross Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+60   AM   Allen Goode                  A-sport Racer    0  0:55.114
+-----------------------------------------------------------------------
+47   AP   John Shealy                  Morgan           0  1:00.094
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  1:02.133
+-----------------------------------------------------------------------
+38   ASP  Bruce Plumley                Toyota           0  1:00.862
+61   ASP  Andrew Chisholm              Porshe 911       0  1:01.038
+6    ASP  Bruce Thompson               Porsche 944T     2  1:04.863
+-----------------------------------------------------------------------
+59   BP   Bruce Turlington             Mustang          0  1:03.386
+15   BP   Mark Portanova               Mustang          0  1:03.794
+-----------------------------------------------------------------------
+29   CP   Eric Bonnett                 Mustang          0  1:00.579
+28   CP   David Sigler                 Mustang          0  1:01.885
+59   CP   Bruce Turlington             Mustang          0  1:03.890
+42   CP   Calvin Sanders               Mustang          2  1:04.629
+19   CP   Chad Merritt                 Talon            0  1:05.605
+10   CP   Kienan Weber                 Mustang GT       0  1:05.899
+21   CP   Bret Weber                   Mustang GT       0  1:07.401
+22   CP   Matt Purvis                  Porsche 944      0  1:08.466
+9    CP   Donnie Turlington            1965 Mustang      No Times
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Honda Civic      0  1:02.372
+-----------------------------------------------------------------------
+12   DP   John Maglieri                Triumph          0  0:58.538
+51   DP   Larry Allamong               Triumph          0  0:58.815
+18   DP   Bruce Plumley                Toyota           0  1:01.926
+-----------------------------------------------------------------------
+13   DSP  Joe Graves                   Escort           0  0:59.005
+43   DSP  Thomas Bleh                  BMW 325is        0  0:59.855
+23   DSP  Dustin Earnhardt             Nissan           0  1:06.789
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 914      0  0:54.464
+-----------------------------------------------------------------------
+34   EP   Aaron Johnson                Porsche 924      0  1:02.649
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                Honda Crx Si     0  1:07.014
+49   ES   John Trindle                 Honda Crx        0  1:11.167
+-----------------------------------------------------------------------
+17   GS   Curtis Staples               BMW 325is        0  1:04.219
+-----------------------------------------------------------------------
+24   HS   Bill Conkling                Tracer Wagon     0  1:14.376
+-----------------------------------------------------------------------
+79   EV   Brandon Whitlow              Half Pint EV     0  1:14.703
+73   EV   John Sheally                 Half Pint EV     0  1:15.221
+89   EV   Rickey Ringer                Half Pint EV      No Times
+-----------------------------------------------------------------------
+26   SS   Justin Wade                  RX-7             0  1:00.975
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+33   FSL  Bridget Sigler               Mustang GT       0  0:52.444
+36   SSL  Leah Wade                    RX-7             0  0:52.525
+64   ESL  Amy Edwards                  Honda CRX Si     0  0:53.933
+65   ESL  Tedi Trindle                 Honda CRX        0  1:01.501
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+87   GSX  Biff Jennings                BMW 535i         0  0:52.558
+82   ESPX Timothy Gould                Eclipse          0  0:53.056
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+54   GSN  William Johnston             Talon            0  0:52.340
+83   GSN  Andy Clark                   Celica           0  0:52.823
+88   GSN  Aaron Jennings               BMW 535i         0  0:54.092
+72   BSN  Micheal Roach                Miata            0  0:54.134
+90   GSN  Jay Jelich                   Toyota           0  0:54.656
+85   DSN  Ryan Howlett                 Neon             0  0:54.752
+70   GSN  Andrew Turnbull              Acura Integra    0  0:55.024
+52   FSN  Tim Sigler                   Mustang          0  0:55.930
+67   BSN  Ned Egan                     Miata            0  0:56.579
+68   ESN  Richard Oss                  Toyota Celica    0  0:57.226
+71   DSPN Lee Sandek                   92 NX coupe      0  0:57.810
+86   CSN  Carl Stone                   RX-7             0  0:58.072
+76   HSN  Christina Osborne            Mercury          0  1:00.630
+69   ASN  Mark Schalow                 Porsche 911       No Times
+77   HSN  Rae Bage                     Mercury           No Times
+
+
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR           PEN    PAX
+-----------------------------------------------------------------------
+13   DSP  Joe Graves                   Escort           0  0:48.325
+43   DSP  Thomas Bleh                  BMW 325is        0  0:49.021
+50   EM   Bobby Smith                  Porsche 914      0  0:49.453
+12   DP   John Maglieri                Triumph          0  0:49.933
+51   DP   Larry Allamong               Triumph          0  0:50.169
+26   SS   Justin Wade                  RX7              0  0:50.609
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:50.638
+17   GS   Curtis Staples               BMW 325is        0  0:50.669
+38   ASP  Bruce Plumley                Toyota           0  0:51.854
+29   CP   Eric Bonnett                 Mustang          0  0:51.916
+61   ASP  Andrew Chisholm              Porsche 911      0  0:52.004
+54   GSN  William Johnston             Talon            0  0:52.340
+47   AP   John Shealy                  Morgan           0  0:52.402
+33   FSL  Bridget Sigler               Mustang GT       0  0:52.444
+36   SSL  Leah Wade                    RX-7             0  0:52.525
+87   GSX  Biff Jennings                BMW 535i         0  0:52.558
+8    CSP  Beno Rubin                   Honda Civic      0  0:52.642
+46   ES   Keith Edwards                Honda Crx Si     0  0:52.673
+18   DP   Bruce Plumley                Toyota           0  0:52.823
+83   GSN  Andy Clark                   Celica           0  0:52.823
+28   CP   David Sigler                 Mustang GT       0  0:53.035
+82   ESPX Timothy Gould                Mitso Eclipse    0  0:53.056
+64   ESL  Amy Edwards                  Honda CRX Si     0  0:53.933
+88   GSN  Aaron Jennings               BMW 535i         0  0:54.092
+72   BSN  Micheal Roach                Miata            0  0:54.134
+90   GSN  Jay Jelich                   Toyota           0  0:54.656
+34   EP   Aaron Johnson                Porsche 924      0  0:54.693
+23   DSP  Dustin Earnhardt             Nissan           0  0:54.700
+85   DSN  Ryan Howlett                 Neon             0  0:54.752
+59   CP   Bruce Turlington             Mustang          0  0:54.754
+70   GSN  Andrew Turnbull              Acura Integra    0  0:55.024
+60   AM   Allen Goode                  A-sport Racer    0  0:55.114
+6    ASP  Bruce Thompson               Porsche 944T     2  0:55.263
+42   CP   Calvin Sanders               Mustang          2  0:55.387
+59   BP   Bruce Turlington             Mustang          0  0:55.399
+15   BP   Mark Portanova               Mustang          0  0:55.756
+52   FSN  Tim Sigler                   Mustang          0  0:55.930
+49   ES   John Trindle                 Honda CRX        0  0:55.937
+19   CP   Chad Merritt                 Talon            0  0:56.223
+10   CP   Kienan Weber                 Mustang GT       0  0:56.475
+67   BSN  Ned Egan                     Miata            0  0:56.579
+68   ESN  Richard Oss                  Toyota Celica    0  0:57.226
+21   CP   Bret Weber                   Mustang GT       0  0:57.763
+71   DSPN Lee Sandek                   92 NX coupe      0  0:57.810
+86   CSN  Carl Stone                   RX7              0  0:58.072
+24   HS   Bill Conkling                Tracer Wagon     0  0:58.088
+22   CP   Matt Purvis                  Porshe 944       0  0:58.675
+76   HSN  Christina Osborne            Mercury          0  1:00.630
+65   ESL  Tedi Trindle                 Honda CRX        0  1:01.501
+79   OSP  Brandon Whitlow              Half Pint EV     0  1:02.377
+73   OSP  John Sheally                 Half Pint EV     0  1:02.810
+9    CP   Donnie Turlington            1965 Mustang      No Times
+69   ASN  Mark Schalow                 Porsche 911       No Times
+77   HSN  Rae Bage                     Mercury           No Times
+89   OSP  Rickey Ringer                Half Pint         No Times
+

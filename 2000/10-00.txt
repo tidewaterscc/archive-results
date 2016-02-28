@@ -1,0 +1,108 @@
+TSCC October 2000 Event
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+24   AM   Allen Goode                  A Sport Racer    0  1:06.657
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan           0  1:13.328
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  1:15.450
+-----------------------------------------------------------------------
+28   ASP  William Whitehead            Porsche 911      0  1:11.866
+18   ASP  Deno Plumley                 Toyota MR2       0  1:13.567
+38   ASP  Bruce Plumley                Toyota MR2       0  1:14.157
+-----------------------------------------------------------------------
+48   BP   Roger Garrett                Corvette         0  1:11.191
+-----------------------------------------------------------------------
+29   CP   Eric Bonnett                 Saleen Mustang   0  1:13.379
+68   CP   Matt Purvis                  Porsche 944      0  1:21.103
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Civic SI         0  1:14.523
+-----------------------------------------------------------------------
+13   DSP  Joe Graves                   Escort           0  1:10.782
+43   DSP  Tom Bleh                     BMW 325is        0  1:12.671
+65   DSP  Wade Jackson                 Nissan           0  1:17.403
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 914      0  1:06.436 FTD
+-----------------------------------------------------------------------
+67   ESP  Bryan Gater                  Chevy Camaro     0  1:27.265
+-----------------------------------------------------------------------
+33   FS   Bridget Sigler               Mustang GT       0  1:18.527
+-----------------------------------------------------------------------
+6    FSP  Bruce Thompson               VW Rabbit GTi    0  1:17.447
+-----------------------------------------------------------------------
+17   GS   Curtis Staples               BMW 325is        0  1:17.294
+4    GS   Doug Rauch                   BMW 323i         0  1:20.481
+-----------------------------------------------------------------------
+51   SS   Ed Kulbis                    Corvette         0  1:11.996
+26   SS   Justin Wade                  Mazda RX-7       2  1:17.013
+-----------------------------------------------------------------------
+23   STS  Dustin Earnhardt             Nissan           0  1:21.151
+69   STS  Gerhard Hartl                2000 Eclipse     0  1:23.197
+
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+64   ESL  Amy Edwards                  Honda CRX        0  1:07.834
+
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+46   ESX  Keith Edwards                Honda CRX        0  1:02.610
+1    BSX  Ned Egaw                     Mazda Miata      0  1:06.247
+5    FSX  Larry Allamong               MGB              0  1:06.500
+
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+70   GSN  Andrew Clark                 Celica GTS       0  1:02.140
+15   ESPN John Hadnall                 BMW M3           0  1:02.671
+12   BSN  Mike Roach                   Mazda Miata      0  1:05.957
+133  FSN  Tim Sigler                   Mustang GT       0  1:06.348
+66   ESN  John Tepfenhart              87 Fiero         0  1:07.212
+10   DSPN Lee Sendek                   NX 2000          0  1:08.382
+7    ESN  Richard Oss                  Toyota Celica    0  1:08.524
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+13   DSP  Joe Graves                   Escort           0  0:57.970
+43   DSP  Tom Bleh                     BMW 325is        0  0:59.518
+50   EM   Bobby Smith                  Porsche 914      0  1:00.324
+17   GS   Curtis Staples               BMW 325is        0  1:00.985
+28   ASP  William Whitehead            Porsche 911      0  1:01.230
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  1:01.492
+70   GSN  Andrew Clark                 Celica GTS       0  1:02.140
+48   BP   Roger Garrett                Corvette         0  1:02.221
+46   ESX  Keith Edwards                Honda CRX        0  1:02.610
+15   ESPN John Hadnall                 BMW M3           0  1:02.671
+18   ASP  Deno Plumley                 Toyota MR2       0  1:02.679
+29   CP   Eric Bonnett                 Saleen Mustang   0  1:02.886
+8    CSP  Beno Rubin                   Civic Si         0  1:02.897
+38   ASP  Bruce Plumley                Toyota           0  1:03.182
+6    FSP  Bruce Thompson               VW Rabbit GTi    0  1:03.274
+33   FS   Bridget Sigler               Mustang GT       0  1:03.371
+65   DSP  Wade Jackson                 Nissan           0  1:03.393
+4    GS   Doug Rauch                   BMW 323i         0  1:03.500
+23   STS  Dustin Earnhardt             Nissan           0  1:03.541
+26   SS   Justin Wade                  Mazda RX-7       2  1:03.921
+47   AP   John Sheally                 Morgan           0  1:03.942
+69   STS  Gerhard Hartl                2000 Eclipse     0  1:05.143
+12   BSN  Mike Roach                   Mazda Miata      0  1:05.957
+1    BSX  Ned Egaw                     Mazda Miata      0  1:06.247
+133  FSN  Tim Sigler                   Mustang GT       0  1:06.348
+5    FSX  Larry Allamong               MGB              0  1:06.500
+24   AM   Allen Goode                  A Sport Racer    0  1:06.657
+66   ESN  John Tepfenhart              87 Fiero         0  1:07.212
+64   ESL  Amy Edwards                  Honda CRX        0  1:07.834
+10   DSPN Lee Sendek                   NX 2000          0  1:08.382
+7    ESN  Richard Oss                  Toyota Celica    0  1:08.524
+68   CP   Matt Purvis                  Porsche 944      0  1:09.505
+67   ESP  Bryan Gater                  Chevy Camaro     0  1:11.732
+

@@ -1,0 +1,126 @@
+TSCC November 2000 Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+3    AP   Mark Lisner                  Porsche 911      0  1:04.435
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  1:03.187
+30   AS   Terry Baker                  BMW M3           0  1:08.212
+61   AS   Steven Brochu                BMW Z3 Coupe     0  1:11.651
+-----------------------------------------------------------------------
+6    ASP  Bruce Thompson               Porsche 944      0  1:05.722
+45   ASP  Andrew Chrisholm             Porsche 911      0  1:07.333
+18   ASP  Deno Plumley                 Toyota MR2       0  1:09.713
+38   ASP  Bruce Plumley                Toyota MR2       0  1:12.951
+-----------------------------------------------------------------------
+34   CP   Kienan Weber                 89 Mustang       0  1:03.025
+5    CP   Bret Weber                   89 Mustang       0  1:03.982
+28   CP   David Sigler                 Mustang GT       0  1:07.125
+31   CP   Bill Brochu                  BMW              0  1:08.170
+19   CP   Chad Merritt                 Eagle Talon      0  1:09.569
+29   CP   Eric Bonnett                 Saleen Mustang   0  1:14.147
+-----------------------------------------------------------------------
+42   CS   Calvin Sanders               Mazda RX7        0  1:17.311
+44   CS   Paul Hamilton                Porsche 944      0  1:17.624
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   87 Civic Si      0  1:01.879
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  1:10.678
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 911s     0  1:14.921
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                Honda CRX Si     0  1:14.158
+22   ES   Mike Schneider               Corolla GTS      0  1:14.285
+-----------------------------------------------------------------------
+10   ESP  John Hudnall                 BMW              0  1:06.631
+-----------------------------------------------------------------------
+68   F125 Michael Skeen                Kart             0  1:05.608
+69   F125 Mark Skeen                   Kart              No Times
+-----------------------------------------------------------------------
+23   FS   Brian Tiffany                Mustang GT       0  1:14.931
+-----------------------------------------------------------------------
+15   GS   Andy Clark                   Celica GTS       0  1:07.051
+2    GS   Dave Hinde                   Eclipse GT       0  1:08.862
+91   GS   Alan Stratton                Mitsubishi       2  1:12.246
+17   GS   Curtis Staples               BMW 325is        0  1:15.851
+-----------------------------------------------------------------------
+26   SS   Justin Wade                  Mazda RX7        0  0:59.947
+-----------------------------------------------------------------------
+21   STS  Dustin Earnhardt             Nissan 240SX     0  1:18.382
+7    STS  Richard Oss                  Toyota Celica    0  1:24.380
+
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+36   SSL  Leah Wade                    Mazda RX7        0  0:53.337
+64   ESL  Amy Edwards                  Honda CRX Si     0  0:59.823
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+63   BSX  Marc Partanova               Mazda Miata      0  0:52.714
+4    GSX  Doug Rauch                   BMW 323i         0  0:53.138
+51   SSX  David Wright                 Trans AM         0  1:02.792
+1    FSPX Larry Allamong               MGB              0  1:06.498
+
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+60   ASN  Robert Everleish             BMW M3           0  0:55.047
+62   GSN  William Johnston             Eagle Talon      0  0:56.557
+16   ESPN Angie Brochu                 BMW              0  0:58.080
+48   CSN  Chris Hamilton               Porsche          0  1:01.591
+9    GSN  Lark Muir                    BMW 325is        0  1:06.707
+67   HSN  Jim Cawrse                   Datsun            No Times
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+26   SS   Justin Wade                  Mazda Rx7        0  0:49.756
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:51.497
+8    CSP  Beno Rubin                   87 Civic Si      0  0:52.226
+63   BSX  Marc Partanova               Mazda Miata      0  0:52.714
+15   GS   Andy Clark                   Celica           0  0:52.903
+4    GSX  Doug Rauch                   BMW 323i         0  0:53.138
+36   SSL  Leah Wade                    Mazda RX7        0  0:53.337
+34   CP   Kienan Weber                 89 Mustang       0  0:54.012
+2    GS   Dave Hinde                   Eclipse GT       0  0:54.332
+10   ESP  John Hudnall                 95 BMW           0  0:54.771
+5    CP   Bret Weber                   89 Mustang       0  0:54.833
+60   ASN  Robert Everleish             BMW M3           0  0:55.047
+30   AS   Terry Baker                  BMW M3           0  0:55.593
+6    ASP  Bruce Thompson               Porsche 944      0  0:55.995
+3    AP   Mark Lisner                  Porsche 911      0  0:56.187
+62   GSN  William Johnston             Eagle Talon      0  0:56.557
+91   GS   Alan Stratton                Mitsubishi       2  0:57.002
+45   ASP  Andrew Chrisholm             Porsche 911      0  0:57.368
+28   CP   David Sigler                 Mustang GT       0  0:57.526
+43   DSP  Tom Bleh                     BMW 325is        0  0:57.885
+16   ESPN Angie Brochu                 BMW              0  0:58.080
+46   ES   Keith Edwards                Honda CRX Si     0  0:58.288
+22   ES   Mike Schneider               Corolla GTS      0  0.58.388
+61   AS   Steven Brochu                BMW Z3 Coupe     0  0:58.396
+31   CP   Bill Brochu                  BMW              0  0:58.422
+18   ASP  Deno Plumley                 Toyota MR2       0  0:59.395
+19   CP   Chad Merritt                 Talon            0  0:59.621
+64   ESL  Amy Edwards                  Honda CRX Si     0  0:59.823
+17   GS   Curtis Staples               BMW 325is        0  0:59.846
+23   FS   Brian Tiffany                Mustang GT       0  1:00.469
+21   STS  Dustin Earnhardt             Nissan 240SX     0  1:01.373
+48   CSN  Chris Hamilton               Porsche 944      0  1:01.591
+38   ASP  Bruce Plumley                Toyota MR2       0  1:02.154
+42   CS   Calvin Sanders               Mazda RX7        0  1:02.158
+68   F125 Michael Skeen                Kart             0  1:02.196
+44   CS   Paul Hamilton                Porsche 944      0  1:02.410
+51   SSX  David Wright                 Trans AM         0  1:02.792
+29   CP   Eric Bonnett                 Saleen Mustang   0  1:03.544
+7    STS  Richard Oss                  Toyota Celica    0  1:06.070
+1    FSPX Larry Allamong               MGB              0  1:06.498
+9    GSN  Lark Muir                    BMW 325is        0  1:06.707
+50   EM   Bobby Smith                  Porsche 911      0  1:08.028
+67   HSN  Jim Cawrse                   Datsun            No Times
+69   F125 Mark Skeen                   Kart              No Times
+

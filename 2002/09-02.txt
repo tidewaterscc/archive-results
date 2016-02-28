@@ -1,0 +1,202 @@
+TSCC September 2002 Autocross - Little Creek ACU-4
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan Plus 8    0  0:43.807
+-----------------------------------------------------------------------
+93   AS   Rich Waer                    Porsche 911      0  0:47.786
+-----------------------------------------------------------------------
+104  ASP  Jeff Curtis                  Porsche 911      0  0:43.714
+-----------------------------------------------------------------------
+7    BS   Russ Meeker                  Nissan 300ZX     0  0:45.706
+-----------------------------------------------------------------------
+2    BSP  James McIver                 BMW M3           0  0:47.135
+-----------------------------------------------------------------------
+49   CM   Stan Vann                    Caldwell D-9     0  0:37.982
+-----------------------------------------------------------------------
+24   CP   Kienan Weber                 Mustang GT       0  0:39.979
+5    CP   Bret Weber                   Mustang GT       0  0:42.446
+29   CP   Eric Bonnet                  SS Camaro        0  0:45.107
+28   CP   David Sigler                 SS Camaro        0  0:45.498
+19   CP   Chad Merritt                 Eagle Talon      0  0:47.848
+-----------------------------------------------------------------------
+1    CS   Ed Raymundo                  Mazda Miata R    0  0:42.729
+22   CS   Marc Portanova               Miata            0  0:43.375
+81   CS   Glen Zobel                   Mazda Miata      0  0:45.867
+35   CS   Les Banyas                   Mazda Miata      0  0:48.631
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Honda Civic      0  0:43.476
+99   CSP  Rob Redanz                   Miata            0  0:44.505
+45   CSP  Brandon Gaurmer              Acura  ITR       0  0:46.462
+46   CSP  Keith Edwards                Honda CRX        0  0:47.089
+51   CSP  Phillip Perry                Datsun Fairlady  0  0:47.113
+39   CSP  Jason Sinnard                Mazda Miata      0  0:47.311
+56   CSP  Carl Stone                   Mazda RX-7       0  0:48.624
+-----------------------------------------------------------------------
+105  DS   Brandon Meadows              Acura            0  0:50.630
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:40.190
+17   DSP  Curtis Staples               BMW 325is        0  0:41.695
+57   DSP  Chris Rollins                2000 VW Jetta    0  0:44.295
+53   DSP  Eric Thomas                  VW Jetta         0  0:45.213
+37   DSP  Trip Tanner                  BMW 325          0  0:46.096
+-----------------------------------------------------------------------
+50   EM   Bobby Smith                  Porsche 914      0  0:38.147
+-----------------------------------------------------------------------
+16   ES   Michael Rehbaum              Mazda Miata      0  0:45.833
+4    ES   Chris Boling                 Mazda Miata      0  0:47.604
+-----------------------------------------------------------------------
+9    ESP  Michael Powers               Nissan 300ZX     0  0:44.377
+58   ESP  Robert Chatters              Toyota Supra     0  0:44.705
+13   ESP  Dale Maurice                 Mustang GT       0  0:45.831
+108  ESP  David Wright                 Trans-AM         0  0:48.751
+-----------------------------------------------------------------------
+83   F125 Dave Cutchins                1998 / Birel     0  0:37.595
+109  F125 Bobby Smith (Fun Run)        Go_Kart          0  0:40.262
+-----------------------------------------------------------------------
+33   FS   Bridget Sigler               SS Camaro        0  0:46.342
+14   FS   Chris Casimir                Nissan 300zx     0  0:47.565
+106  FS   Jason Weaver                 Firebird         0  0:51.256
+-----------------------------------------------------------------------
+27   FSP  Bob Brochu                   BMW 318          0  0:46.621
+-----------------------------------------------------------------------
+82   GS   Keath Marx                   Toyota Celica    0  0:44.747
+-----------------------------------------------------------------------
+80   HS   Jeff Chenery                 Honda Civic S    0  0:46.278
+84   HS   Sean Yoder                   02 VW Beetle     0  0:48.186
+79   HS   Audrey Chenery               Honda Civic S    0  0:48.326
+-----------------------------------------------------------------------
+21   SM   Michael Cacase               Honda Civic      0  0:46.937
+107  SM   Bryan Schwartz               Subaru           0  0:49.427
+-----------------------------------------------------------------------
+69   STS  Josh Ward                    Dodge Neon       0  0:45.925
+44   STS  David Martin                 Honda Accord     0  0:47.352
+42   STS  Brett Baker                  Nissan SE-R      0  0:47.726
+77   STS  Louis Pardo                  Subaru WRX       0  0:47.775
+88   STS  Mark Wilson                  Neon ACR Seda    0  0:48.353
+66   STS  Forrest Rollins              VW Rabbit        0  0:49.798
+38   STS  Jackie Brown,                Pontiac SunFire  0  0:50.040
+100  STS  Deryl Taylor                 Honda Civic      0  0:50.581
+
+
+Ladies
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+62   ESL  Brianna Emery                Mazda RX7        0  0:41.928
+52   ESL  Regina Sanders               Mazda RX7        0  0:44.298
+
+Novice
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+86   ASN  Doug Keiler                  Porsche 993      0  0:39.067
+36   BSPN Jerry Crabtree               BMW M3           0  0:39.193
+96   STSN Robert King                  Honda Prelude    0  0:39.461
+73   GSN  Mike Twiford                 99 Civic Si      0  0:39.504
+70   CSN  Kevin Kulp                   Toyota  MR2      0  0:39.513
+41   STSN Charles Richardson           Honda Civic      0  0:39.714
+74   DSN  Matthew Sawyer               02 Subaru WRX    0  0:39.723
+65   GSN  Andy Lambert                 2002 Impala      0  0:39.779
+68   STSN Andrew Kumjian               Nissan Sentra    0  0:39.806
+34   SMN  Steve Foltz                  Nissan Sentra    0  0:39.968
+11   CSN  Don Bray                     Mazda Miata      0  0:40.063
+40   SMN  Sean Hawkins                 Mitsu Eclipse    0  0:40.310
+103  GSN  Ryan Mccrillis               BMW 323          0  0:41.658
+101  GSN  James Villers                Acura Legend     0  0:42.653
+71   GSN  Earl Vess                    2002 Impala      0  0:43.945
+
+
+Street Tire
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+
+18   SMX  Steven Lewis                 Miata            0  0:36.824
+94   CSX  James Siros                  Mazda RX-7       0  0:38.758
+76   ESX  George Elsasser              Mazda Miata      0  0:38.847
+32   ESX  Calvin Sanders               Mazda RX7        0  0:39.620
+102  CSX  Ned Egan                     miata            0  0:40.258
+97   CSPX Tony Culic                   Mazda Miata      0  0:40.613
+
+
+Overall Pax Results
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:32.956
+17   DSP  Curtis Staples               BMW 325is        0  0:34.190
+24   CP   Kienan Weber                 Mustang GT       0  0:34.222
+50   EM   Bobby Smith                  Porsche 914      0  0:34.485
+1    CS   Ed Raymundo                  Mazda Miata R    0  0:34.696
+49   CM   Stan Vann                    Caldwell D-9     0  0:34.905
+83   F125 Dave Cutchins                1998 / Birel     0  0:35.039
+82   GS   Keath Marx                   Toyota Celica    0  0:35.126
+22   CS   Marc Portanova               Miata            0  0:35.221
+69   STS  Josh Ward                    Dodge Neon       0  0:36.005
+80   HS   Jeff Chenery                 Honda Civic S    0  0:36.051
+57   DSP  Chris Rollins                2000 VW Jetta    0  0:36.322
+5    CP   Bret Weber                   Mustang GT       0  0:36.334
+8    CSP  Beno Rubin                   Honda Civic      0  0:36.607
+9    ESP  Michael Powers               Nissan 300ZX     0  0:36.655
+16   ES   Michael Rehbaum              Mazda Miata      0  0:36.758
+18   SMX  Steven Lewis                 Miata            0  0:36.824
+58   ESP  Robert Chatters              Toyota Supra     0  0:36.926
+104  ASP  Jeff Curtis                  Porsche 911      0  0:36.982
+53   DSP  Eric Thomas                  VW Jetta         0  0:37.075
+44   STS  David Martin                 Honda Accord     0  0:37.124
+81   CS   Glen Zobel                   Mazda Miata      0  0:37.244
+42   STS  Brett Baker                  Nissan SE-R      0  0:37.417
+77   STS  Louis Pardo                  Subaru WRX       0  0:37.456
+33   FS   Bridget Sigler               SS Camaro        0  0:37.491
+109  F125 Bobby Smith                  Go_Kart          0  0:37.524
+84   HS   Sean Yoder                   02 VW Beetle     0  0:37.537
+79   HS   Audrey Chenery               Honda Civic S    0  0:37.646
+7    BS   Russ Meeker                  Nissan 300ZX     0  0:37.799
+37   DSP  Trip Tanner                  BMW 325          0  0:37.799
+13   ESP  Dale Maurice                 Mustang GT       0  0:37.856
+88   STS  Mark Wilson                  Neon ACR Seda    0  0:37.909
+27   FSP  Bob Brochu                   BMW 318          0  0:38.089
+4    ES   Chris Boling                 Mazda Miata      0  0:38.178
+47   AP   John Sheally                 Morgan Plus 8    0  0:38.287
+14   FS   Chris Casimir                Nissan 300zx     0  0:38.480
+29   CP   Eric Bonnet                  SS Camaro        0  0:38.612
+94   CSX  James Siros                  Mazda RX-7       0  0:38.758
+76   ESX  George Elsasser              Mazda Miata      0  0:38.847
+28   CP   David Sigler                 SS Camaro        0  0:38.946
+66   STS  Forrest Rollins              VW Rabbit        0  0:39.042
+86   ASN  Doug Keiler                  Porsche 993      0  0:39.067
+45   CSP  Brandon Gaurmer              Acura  ITR       0  0:39.121
+21   SM   Michael Cacase               Honda Civic      0  0:39.145
+36   BSPN Jerry Crabtree               BMW M3           0  0:39.193
+38   STS  Jackie Brown,                Pont S-Fire      0  0:39.231
+96   STSN Robert King                  Honda Prelude    0  0:39.461
+35   CS   Les Banyas                   Mazda/Miata      0  0:39.488
+73   GSN  Mike Twiford                 99 Civic Si      0  0:39.504
+70   CSN  Kevin Kulp                   Toyota  MR2      0  0:39.513
+2    BSP  James McIver                 BMW M3           0  0:39.593
+32   ES   Calvin Sanders               Mazda RX7        0  0:39.620
+46   CSP  Keith Edwards                Honda CRX        0  0:39.649
+100  STS  Deryl Taylor                 Honda Civic      0  0:39.656
+51   CSP  Phillip Perry                Datsun fairla    0  0:39.669
+41   STSN Charles Richardson           Honda Civic      0  0:39.714
+74   DSN  Matthew Sawyer               02 Subaru WRX    0  0:39.723
+65   GSN  Andy Lambert                 2002 Impala      0  0:39.779
+68   STSN Andrew Kumjian               Nissan Sentra    0  0:39.806
+39   CSP  Jason Sinnard                Mazda Miata      0  0:39.836
+34   SMN  Steve Foltz                  Nissan Sentra    0  0:39.968
+11   CSN  Don Bray                     Mazda Miata      0  0:40.063
+102  CSX  Ned Egan                     miata            0  0:40.258
+108  ESP  David Wright                 Trans-AM         0  0:40.268
+40   SMN  Sean Hawkins                 Mitsu Eclipse    0  0:40.310
+105  DS   Brandon Meadows              Acura            0  0:40.403
+97   CSPX Tony Culic                   Mazda Miata      0  0:40.613
+56   CSP  Carl Stone                   Mazda RX-7       0  0:40.941
+19   CP   Chad Merritt                 Eagle Talon      0  0:40.958
+107  SM   Bryan Schwartz               Subaru           0  0:41.222
+106  FS   Jason Weaver                 Firebird         0  0:41.466
+103  GSN  Ryan Mccrillis               BMW 323          0  0:41.658
+62   ESL  Brianna Emery                Mazda RX7        0  0:41.928
+101  GSN  James Villers                Acura Legend     0  0:42.653
+71   GSN  Earl Vess                    2002 Impala      0  0:43.945
+52   ESL  Regina Sanders               Mazda RX7        0  0:44.298

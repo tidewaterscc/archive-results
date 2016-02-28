@@ -1,0 +1,92 @@
+TSCC April 2001 Autocross Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan           0  1:04.927
+-----------------------------------------------------------------------
+50   ASP  Bobby Smith                  Porsche 911      0  1:04.277
+-----------------------------------------------------------------------
+24   BS   Marc Portanova               Miata            0  1:08.308
+-----------------------------------------------------------------------
+5    CP   Bret Webber                  Mustang GT       0  1:07.895
+10   CP   Chad Merritt                 Eagle Talon      0  1:12.129
+-----------------------------------------------------------------------
+44   CS   Paul Hamilton                Porsche 944      0  1:12.175
+-----------------------------------------------------------------------
+24   CSP  Travis Boyer                 94 Honda Civi    0  1:10.144
+52   CSP  Michael Peterson             MR2 Spyder       0  1:12.473
+-----------------------------------------------------------------------
+23   EP   Terry Vermillion             Porsche 924      0  1:17.680
+34   EP   Mike Luther                  Porsche 924       No Times
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                Honda CRX        0  1:11.513
+51   ES   John Trindle                 Honda CRX        0  1:16.899
+-----------------------------------------------------------------------
+30   ESP  Terry Baker                  Camaro           0  1:03.596
+-----------------------------------------------------------------------
+29   FS   Eric Bonnett                 Mustang GT       0  1:10.665
+-----------------------------------------------------------------------
+8    GS   Beno Rubin                   Celica GT-S      0  1:09.336
+48   GS   Alan Stratton                Eclipse          0  1:09.426
+17   GS   Curtis Staples               BMW325is         0  1:09.670
+-----------------------------------------------------------------------
+13   HS   James Caudill                VW GTi           0  1:19.764
+32   HS   Levi Hankins                 Isuzu Impulse    0  1:22.876
+-----------------------------------------------------------------------
+22   STS  Andy Clark                   Celica GT-S      0  1:10.348
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+33   FSL  Bridget Sigler               Mustang GT       0  0:59.203
+12   GSL  Lark Muir                    BMW 325is        0  1:03.481
+21   ESL  Tedi Trindle                 Honda CRX        0  1:06.232
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+9    GSX  William Johnston             Eagle Talon      0  0:57.184
+45   CSPX Mike Roach                   Miata            0  0:59.970
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+15   SSN  Jeff Turner                  Corvette         0  0:59.722
+14   HSN  Lane Blaylock                Isuzu Impulse    0  1:01.129
+36   FSN  Kevin Cooper                 Camaro Z28       0  1:02.289
+19   FSN  Stella Cooper                Z28 Camaro       0  1:04.627
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR           PEN    PAX
+-----------------------------------------------------------------------
+30   ESP  Terry Baker                  Camaro           0  0:52.276
+8    GS   Beno Rubin                   Celica GT-S      0  0:54.706
+50   ASP  Bobby Smith                  Porsche 911      0  0:54.764
+48   GS   Alan Stratton                Eclipse          0  0:54.777
+17   GS   Curtis Staples               BMW325is         0  0:54.970
+22   STS  Andy Clark                   Celica GT-S      0  0:55.012
+24   BS   Marc Portanova               Miata            0  0:55.534
+46   ES   Keith Edwards                Honda CRX        0  0:56.209
+47   AP   John Sheally                 Morgan           0  0:56.746
+29   FS   Eric Bonnett                 Mustang GT       0  0:57.027
+9    GSX  William Johnston             Eagle Talon      0  0:57.184
+44   CS   Paul Hamilton                Porsche 944      0  0:58.029
+5    CP   Bret Webber                  Mustang GT       0  0:58.118
+24   CSP  Travis Boyer                 94 Honda Civi    0  0:59.202
+33   FSL  Bridget Sigler               Mustang GT       0  0:59.203
+15   SSN  Jeff Turner                  Corvette         0  0:59.722
+45   CSPX Mike Roach                   Miata            0  0:59.970
+51   ES   John Trindle                 Honda CRX        0  1:00.443
+14   HSN  Lane Blaylock                Isuzu Impulse    0  1:01.129
+52   CSP  Michael Peterson             MR2 Spyder       0  1:01.167
+10   CP   Chad Merritt                 Eagle Talon      0  1:01.742
+36   FSN  Kevin Cooper                 Camaro Z28       0  1:02.289
+13   HS   James Caudill                VW GTi           0  1:02.296
+12   GSL  Lark Muir                    BMW 325is        0  1:03.481
+19   FSN  Stella Cooper                Z28 Camaro       0  1:04.627
+32   HS   Levi Hankins                 Isuzu Impulse    0  1:04.726
+21   ESL  Tedi Trindle                 Honda CRX        0  1:06.232
+23   EP   Terry Vermillion             Porsche 924      0  1:07.815
+34   EP   Mike Luther                  Porsche 924       No Times

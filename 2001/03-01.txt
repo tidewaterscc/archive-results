@@ -1,0 +1,144 @@
+March 2001  Winter Four #4
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+58   AM   Allen Goode                  A Sport Racer    0  0:51.411
+-----------------------------------------------------------------------
+24   AP   John Shealy                  Morgan Plus 8    0  0:55.451
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:57.678
+5    AS   Bob Everleigh                BMW M3           0  0:58.173
+57   AS   Terry Vermillion             Mercedes         0  1:05.384
+-----------------------------------------------------------------------
+02   ASP  Justin Wade                  RX-7             0  0:53.688
+51   ASP  Andy Chisholm                Porsche 911E     0  0:55.653
+6    ASP  Bruce Thompson               Honda S2000      0  1:01.574
+-----------------------------------------------------------------------
+14   BS   Mike Gannon                  Porsche 914      0  0:59.578
+11   BS   Ned Egan                     Miata            0  1:00.608
+-----------------------------------------------------------------------
+9    BSP  Axel Crimmis                 Corvette         0  1:03.008
+-----------------------------------------------------------------------
+29   CP   Eric Bonnet                  Saleen           0  0:53.798
+31   CP   Bill Brochu                  BMW 535i         0  0:55.014
+20   CP   Kienan Webber                Mustang GT       0  0:55.793
+10   CP   Bret Webber                  Mustang GT       0  0:56.378
+-----------------------------------------------------------------------
+44   CS   Paul Hamilton                Porsche 944      0  1:00.741
+-----------------------------------------------------------------------
+8    CSP  Beno Rubin                   Civic Si         0  0:56.633
+42   CSP  Calvin Saunders              Mazda RX7        0  1:00.004
+-----------------------------------------------------------------------
+59   DS   Travis Boyer                 Honda Del Sol    0  1:00.350
+-----------------------------------------------------------------------
+61   DSP  Forrest Rollins              VW Jetta         0  1:02.159
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                Honda CRX        0  1:00.833
+54   ES   Jeremy Wright                Honda Civic      0  1:03.024
+12   ES   Jim Cawrse                   Datsun 1600      0  1:06.675
+-----------------------------------------------------------------------
+30   ESP  Terry Baker                  Camaro Z-28      0  0:55.635
+1    ESP  John Hudnall                 BMW M3           0  0:56.680
+-----------------------------------------------------------------------
+45   F125 Dave Cutchins                Shifter cart     0  0:49.215
+-----------------------------------------------------------------------
+3    FP   Marc Lisner                  Porsche 911       No Times
+-----------------------------------------------------------------------
+43   GS   Tom Bleh                     BMW 325is        0  0:56.671
+17   GS   Curtis Staples               BMW 325is        0  0:59.133
+53   GS   Sean Tuttle                  Ford Contour     0  1:01.897
+-----------------------------------------------------------------------
+63   HS   Patrick Rollins              VW Golf          0  1:02.197
+-----------------------------------------------------------------------
+69   SS   David Wright                 Trans Am         0  1:01.133
+64   SS   Jerimiah Johnson             Honda S2000      0  1:16.333
+-----------------------------------------------------------------------
+21   STS  Andy Clark                   Celica GTS       0  1:01.082
+23   STS  Dustin Earnhardt             240sx            0  1:01.703
+60   STS  Gerhard Hartl                2000 Eclipse     2  1:02.652
+52   STS  Scott Suttle                 Acura Integra     No Times
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+16   ESPL Angie Brochu                 BMW 535i         0  0:47.092
+94   ESL  Amy Edwards                  Honda CRX        0  0:48.607
+26   BSL  Leah Wade                    Miata            0  0:49.264
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+18   GSX  William Johnston             Talon            2  0:50.627
+
+
+Novice
+#   CLASS     DRIVER                     CAR           PEN   TOTAL
+-----------------------------------------------------------------------
+56   BSN  Michael Peterson             MR2 Spyder       0  0:49.586
+22   FSN  Dan Neuland                  MB 500 SL        0  0:50.438
+15   SSN  Jeff Turner                  Corvette         0  0:51.000
+62   DSPN Alex Rollins                 VW Jetta         0  0:52.357
+48   HSN  Levi Hankins                 Isuzu Impulse    0  0:54.571
+71   ASN  Jeff Peterson                Porsche 911      0  0:53.541
+65   SSN  James Herman                 red neon?        0  0:55.223
+34   CSPN Steve Mulholland             Porche 944       2  0:55.312
+19   SSN  Ed Phillips                  Corvette         0  0:55.782
+32   ASPN Lane Blaylock                Mazda RX-7       0  1:02.524
+
+
+Overall PAX Results
+#   CLASS     DRIVER                     CAR           PEN    PAX
+-----------------------------------------------------------------------
+43   GS   Tom Bleh                     BMW 325is        0  0:44.713
+30   ESP  Terry Baker                  Camaro Z-28      0  0:45.732
+02   ASP  Justin Wade                  RX-7             0  0:45.742
+29   CP   Eric Bonnet                  Saleen           0  0:46.105
+1    ESP  John Hudnall                 BMW M3           0  0:46.591
+17   GS   Curtis Staples               BMW 325is        0  0:46.656
+45   F125 Dave Cutchins                Shifter cart     0  0:46.656
+40   AS   Bob Brochu                   BMW Z3 Coupe     0  0:47.008
+16   ESPL Angie Brochu                 BMW 535i         0  0:47.092
+31   CP   Bill Brochu                  BMW 535i         0  0:47.147
+5    AS   Bob Everleigh                BMW M3           0  0:47.411
+51   ASP  Andy Chisholm                Porsche 911E     0  0:47.416
+8    CSP  Beno Rubin                   Civic Si         0  0:47.798
+20   CP   Kienan Webber                Mustang GT       0  0:47.815
+46   ES   Keith Edwards                Honda CRX        0  0:47.815
+21   STS  Andy Clark                   Celica GTS       0  0:47.827
+59   DS   Travis Boyer                 Honda Del Sol    0  0:48.220
+23   STS  Dustin Earnhardt             240sx            0  0:48.313
+10   CP   Bret Webber                  Mustang GT       0  0:48.316
+24   AP   John Shealy                  Morgan Plus 8    0  0:48.353
+14   BS   Mike Gannon                  Porsche 914      0  0:48.377
+63   HS   Patrick Rollins              VW Golf          0  0:48.576
+94   ESL  Amy Edwards                  Honda CRX        0  0:48.607
+44   CS   Paul Hamilton                Porsche 944      0  0:48.836
+53   GS   Sean Tuttle                  Ford Contour     0  0:48.837
+60   STS  Gerhard Hartl                2000 Eclipse     2  0:49.057
+11   BS   Ned Egan                     Miata            0  0:49.214
+26   BSL  Leah Wade                    Miata            0  0:49.264
+54   ES   Jeremy Wright                Honda Civic      0  0:49.537
+56   BSN  Michael Peterson             MR2 Spyder       0  0:49.586
+22   FSN  Dan Neuland                  MB 500 SL        0  0:50.438
+18   GSX  William Johnston             Talon            2  0:50.627
+42   CSP  Calvin Saunders              Mazda RX7        0  0:50.643
+69   SS   David Wright                 Trans Am         0  0:50.740
+61   DSP  Forrest Rollins              VW Jetta         0  0:50.908
+15   SSN  Jeff Turner                  Corvette         0  0:51.000
+58   AM   Allen Goode                  A Sport Racer    0  0:51.411
+62   DSPN Alex Rollins                 VW Jetta         0  0:52.357
+12   ES   Jim Cawrse                   Datsun 1600      0  0:52.407
+6    ASP  Bruce Thompson               Honda S2000      0  0:52.461
+57   AS   Terry Vermillion             Mercedes         0  0:53.288
+9    BSP  Axel Crimmis                 Corvette         0  0:53.368
+71   ASN  Jeff Peterson                Porsche 911      0  0:53.541
+48   HSN  Levi Hankins                 Isuzu Impulse    0  0:54.571
+65   SSN  James Herman                 red neon?        0  0:55.223
+34   CSPN Steve Mulholland             Porche 944       2  0:55.312
+19   SSN  Ed Phillips                  Corvette         0  0:55.782
+32   ASPN Lane Blaylock                Mazda RX-7       0  1:02.524
+64   SS   Jerimiah Johnson             Honda S2000      0  1:03.356
+3    FP   Marc Lisner                  Porsche 911       No Times
+52   STS  Scott Suttle                 Acura Integra     No Times

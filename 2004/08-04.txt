@@ -1,0 +1,412 @@
+August 2004 Results
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan Plus-8    0  1:35.395 DNF
+                                                        0  1:01.575 
+                                                        0  1:01.828 
+                                                        2  1:02.862 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+9    AS   Xavier Calderon              Acura NSX        0  1:04.727 
+                                                        0  1:04.446 
+                                                        4  1:09.933 
+                                                        0  1:04.046 
+
+106  AS   Doug Keiler                  Porsche 996      0  1:06.563 
+                                                        0  1:06.671 
+                                                        0  1:06.386 
+                                                        0  1:07.312 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+32   ASP  Daniel Hill                  03 Corvette      0  1:06.361 
+                                                        0  1:05.918 
+                                                        0  1:04.530 
+                                                        0  1:05.910 
+
+101  ASP  Rex Harris                   Corvette         0  1:09.799 
+                                                        0  1:09.959 
+                                                        0  1:08.338 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+6    BS   Bruce Thompson               S2000           10  1:15.302 
+                                                       10  1:15.001 
+                                                        0  1:03.866 
+                                                        0  1:02.946 
+
+98   BS   Chris Perera                 S2000            0  1:03.907 
+                                                        0  1:03.594 
+                                                        2  1:14.517 
+                                                        0  1:03.671 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+88   BSN  John Tatum                   02 Honda S2K     2  1:17.049 
+                                                        0  1:09.183 
+                                                        0  1:11.064 
+                                                        0  1:07.615 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+22   BSX  Mike Thompson                Porsche 944S2    2  1:17.274 
+                                                        0  1:15.383 
+                                                        0  1:14.176 
+                                                        0  1:11.916 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+33   CS   Les Banyas                   Miata            0  1:05.510 
+                                                        0  1:03.800 
+                                                        0  1:03.808 
+                                                        0  1:02.327 
+
+58   CS   Rick Foye                    Mazda Miata      0  1:08.982 DNF
+                                                        0  1:07.057 
+                                                        0  1:06.308 
+                                                        4  1:10.827 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+63   CSN  John Spencer                 Miata           10  1:23.046 
+                                                        0  1:10.251 
+                                                        0  1:07.563 
+                                                        0  1:06.919 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+18   CSP  David Lee                    Honda CRX        0  1:05.492 
+                                                        0  1:03.134 
+                                                        0  1:12.439 
+                                                        0  1:01.751 
+
+38   CSP  Dennis Young                 Honda CRX       10  1:17.007 
+                                                       10  1:15.009 
+                                                        4  1:06.809 
+                                                        0  1:03.343 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+17   CSPX Rick Elsasser                Mazda Miata      0  1:07.784 
+                                                        0  1:07.692 
+                                                        0  1:05.571 
+                                                        0  1:05.023 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+15   CSX  mike kefe                    Mazda Miata      0  1:13.322 
+                                                        0  1:07.280 
+                                                        2  1:07.692 
+                                                        0  1:06.060 
+
+87   CSX  Jim Haltom                   Mazda Miata      0  1:11.008 DNF
+                                                        0  1:07.279 
+                                                        0  1:06.364 
+                                                        0  1:09.076 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+8    DS   Beno Rubin                   Celica           0  1:07.546 
+                                                        0  1:06.015 
+                                                        0  1:06.840 
+                                                        0  1:06.182 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+14   DSP  Jeff Rooney                  Honda Prelude    2  1:04.284 
+                                                        6  1:06.763 
+                                                        0  1:01.117 
+                                                        0  0:59.882 
+
+21   DSP  Curtis Staples               BMW              0  1:03.294 
+                                                        0  1:02.497 
+                                                        0  1:01.257 
+                                                        0  1:01.652 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+11   DSX  Myron Ware                   Subaru WRX       0  1:03.108 
+                                                        0  1:02.191 
+                                                        2  1:03.481 
+                                                        2  1:04.151 
+
+20   DSX  Wes Michaels                 Chr Crossfire    0  1:12.600 
+                                                        0  1:10.344 
+                                                        0  1:05.817 
+                                                       10  1:14.244 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+96   EM   James Hardesty               Mazda RX-7       0  1:14.736 DNF
+                                                        0  1:10.743 DNF
+                                                        0  1:15.340 
+                                                        0  1:10.344 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+104  EP   Jason Fuller                 Civic            0  1:11.530 
+                                                        0  1:05.214 
+                                                        0  1:05.539 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+51   ESP  John Settle                  Mustang          0  1:12.161 
+                                                        0  1:09.438 
+                                                        0  1:09.900 
+                                                        0  1:07.873 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+68   ESPN Stephen Powell               Ford Mustang     0  1:14.511 DNF
+                                                        0  1:15.039 
+                                                       10  1:31.999 
+                                                        0  1:11.309 
+
+69   ESPN Dave Chambers                Mustang          0  1:21.745 
+                                                        0  1:17.307 
+                                                        0  1:17.879 
+                                                       12  1:35.297 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+50   FSP  David Martin                 Honda Accord     0  1:00.410 
+                                                        0  1:00.672 
+                                                        8  1:12.632 
+                                                        0  1:07.917 DNF
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+19   FSPX Chris Maki                   elantra GT       0  1:07.193 
+                                                        0  1:06.204 
+                                                        0  1:06.514 
+                                                        0  1:14.059 
+
+57   FSPX Scott Belleville             79 Celica        0  1:08.204 
+                                                        0  1:08.540 
+                                                        0  1:07.146 
+                                                        0  1:06.218 
+
+77   FSPX Aj Belleville                Celica           0  1:06.372 
+                                                        8  1:18.187 
+                                                        0  1:06.323 DNF
+                                                        4  1:15.499 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+48   GS   Jeff Chenery                 Celica           0  1:08.298 
+                                                        0  1:08.873 
+                                                        0  1:07.734 
+                                                        0  1:06.679 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+35   GSL  Audie Chenery                Celica           0  1:07.835 
+                                                        0  1:09.191 
+                                                       10  1:26.270 
+                                                        0  1:08.816 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+103  GSN  Chad Swaim                   Neon             0  1:14.793 
+                                                        0  1:14.343 
+                                                        0  1:12.914 
+                                                        0  1:12.049 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+10   HS   Terry Baker                  Mazda 3          0  1:08.489 
+                                                        0  1:12.595 
+                                                        0  1:07.894 
+                                                        0  1:06.918 
+
+108  HS   Carey Hardesty               Datson 510       0  1:22.858 DNF
+                                                        0  1:17.613 DNF
+                                                        0  2:06.045 DNF
+                                                        0  1:10.065 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+109  HSN  Mike Boyd                    Saturn ION       0  1:24.133 
+                                                        0  1:15.153 
+                                                        0  1:13.361 
+                                                        0  1:12.087 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+31   SM   Eliot Faircloth              Evo VIII         0  1:11.845 DNF
+                                                        0  1:09.463 
+                                                        0  1:07.507 
+                                                        2  1:08.949 
+
+102  SM   Peter French                 Lancer EVO       0  1:04.083 
+                                                        0  1:02.621 
+                                                        4  1:24.116 
+                                                        0  1:02.305 
+
+107  SM   Damien Desormeaux            BMW M3           0  1:14.935 
+                                                        0  1:16.588 DNF
+                                                        0  1:27.240 
+                                                        0  1:15.621 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+3    SM2  William Johns                mustang          0  1:09.038 
+                                                        0  1:07.805 
+                                                        0  1:08.943 
+                                                        0  1:08.619 
+
+25   SM2  Chad Merritt                 Mustang          0  1:10.899 
+                                                        0  1:11.009 
+                                                        0  1:08.466 
+                                                        0  1:09.025 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+36   STS  Michael Harris               91 Civic Si      0  1:04.210 DNF
+                                                        2  1:06.976 DNF
+                                                        0  1:03.532 
+                                                        0  1:03.036 DNF
+
+56   STS  Brent Carson                 89 Civic Si      0  1:03.789 
+                                                        0  1:01.662 
+                                                        0  1:01.105 
+                                                        0  1:00.887 
+
+79   STS  Andy Turnbull                Nissan Sentra    0  1:04.044 
+                                                        0  1:03.589 
+                                                        0  1:03.346 
+                                                        2  1:04.566 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+54   STS2 Cameron Mccormi              Rx7              0  1:11.252 DNF
+                                                        0  0:00.000 DNS
+
+72   STS2 David Luthy                  Mazda Miata      0  1:04.900 
+                                                        0  1:05.121 
+                                                        0  1:02.724 
+                                                        2  1:04.552 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+7    STSN Stuart Patterson             Acura RSX-S      0  1:08.409 
+                                                        0  1:06.344 
+                                                        0  1:05.202 
+                                                        2  1:08.313 
+
+105  STSN Andrew Rendel                Escort           0  1:24.025 DNF
+                                                        0  1:23.705 DNF
+                                                        0  1:17.983 DNF
+                                                        0  1:12.300 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+23   STX  Sean Ford                    SubaruImpreza    0  1:08.667 
+                                                        0  1:08.350 
+                                                        0  1:07.505 
+                                                        0  1:07.667 
+
+40   STX  Alan Stratton                Cooper S        10  1:12.513 
+                                                       10  1:12.146 
+                                                        6  1:08.695 
+                                                        0  1:02.498 
+
+78   STX  Brett Baker                  Nissan SE-R      0  1:07.306 DNF
+                                                        0  1:03.199 DNF
+                                                        0  1:02.859 
+                                                        0  1:02.825 
+
+123  STX  Kevin Lebat                  WRX              0  1:07.393 
+                                                        0  1:06.192 
+                                                        0  1:05.617 
+                                                        0  1:05.553 
+
+
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+56   STS  Brent Carson                 89 Civic Si      0  0:48.162
+14   DSP  Jeff Rooney                  Honda Prelude    0  0:49.043
+50   FSP  David Martin                 Honda Accord     0  0:49.113
+11   DSX  Myron Ware                   Subaru WRX       0  0:49.380
+40   STX  Alan Stratton                Cooper S         0  0:49.686
+78   STX  Brett Baker                  Nissan SE-R      0  0:49.946
+79   STS  Andy Turnbull                Nissan Sentra    0  0:50.107
+21   DSP  Curtis Staples               BMW              0  0:50.169
+36   STS  Michael Harris               91 Civic Si      0  0:50.254
+33   CS   Les Banyas                   Miata            0  0:50.547
+72   STS2 David Luthy                  Mazda Miata      0  0:50.806
+7    STSN Stuart Patterson             Acura RSX-S      0  0:51.575
+18   CSP  David Lee                    Honda CRX        0  0:51.686
+10   HS   Terry Baker                  Mazda 3          0  0:51.928
+6    BS   Bruce Thompson               S2000            0  0:51.993
+48   GS   Jeff Chenery                 Celica           0  0:52.076
+123  STX  Kevin Lebat                  WRX              0  0:52.115
+102  SM   Peter French                 Lancer EVO       0  0:52.212
+20   DSX  Wes Michaels                 Chr Crossfire    0  0:52.259
+8    DS   Beno Rubin                   Celica           0  0:52.416
+98   BS   Chris Perera                 S2000            0  0:52.529
+35   GSL  Audie Chenery                Celica           0  0:52.979
+38   CSP  Dennis Young                 Honda CRX        0  0:53.018
+9    AS   Xavier Calderon              Acura NSX        0  0:53.030
+47   AP   John Sheally                 Morgan Plus-8    0  0:53.447
+15   CSX  mike kefe                    Mazda Miata      0  0:53.575
+23   STX  Sean Ford                    SubaruImpreza    0  0:53.666
+58   CS   Rick Foye                    Mazda Miata      0  0:53.776
+87   CSX  Jim Haltom                   Mazda Miata      0  0:53.821
+19   FSPX Chris Maki                   elantra GT       0  0:53.824
+57   FSPX Scott Belleville             79 Celica        0  0:53.835
+77   FSPX Aj Belleville                Celica           0  0:53.960
+63   CSN  John Spencer                 Miata            0  0:54.271
+108  HS   Carey Hardesty               Datson 510       0  0:54.370
+17   CSPX Rick Elsasser                Mazda Miata      0  0:54.424
+32   ASP  Daniel Hill                  03 Corvette      0  0:54.721
+106  AS   Doug Keiler                  Porsche 996      0  0:54.968
+88   BSN  John Tatum                   02 Honda S2K     0  0:55.850
+51   ESP  John Settle                  Mustang          0  0:55.927
+109  HSN  Mike Boyd                    Saturn ION       0  0:55.940
+104  EP   Jason Fuller                 Civic            0  0:56.149
+103  GSN  Chad Swaim                   Neon             0  0:56.270
+31   SM   Eliot Faircloth              Evo VIII         0  0:56.571
+105  STSN Andrew Rendel                Escort           0  0:57.189
+3    SM2  William Johns                mustang          0  0:57.566
+101  ASP  Rex Harris                   Corvette         0  0:57.951
+25   SM2  Chad Merritt                 Mustang          0  0:58.128
+68   ESPN Stephen Powell               Ford Mustang     0  0:58.759
+22   BSX  Mike Thompson                Porsche 944S2    0  0:59.403
+107  SM   Damien Desormeaux            BMW M3           0  1:02.796
+96   EM   James Hardesty               Mazda RX-7       0  1:02.888
+69   ESPN Dave Chambers                Mustang          0  1:03.701
+54   STS2 Cameron Mccormi              Rx7               No Times

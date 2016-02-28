@@ -1,0 +1,77 @@
+TSCC May 2003 Autocross - Fentress NALF
+
+Open
+#   CLASS     DRIVER                     CAR           PEN  TOTAL
+-----------------------------------------------------------------------
+23   AS   Doug Keiler                  Porsche 993      0  0:48.029
+-----------------------------------------------------------------------
+51   BS   Clay Wilson                  Porsche 911      0  0:48.200
+-----------------------------------------------------------------------
+28   CP   Dave Sigler                  Camaro Z28       0  0:48.806
+-----------------------------------------------------------------------
+55   CS   Oliver Frey                  Toyota Spyder    0  0:48.179
+30   CS   Don Bray                     Miata Sport      0  0:49.395
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:45.329
+17   DSP  Curtis Staples               BMW 325is        0  0:47.792
+20   DSP  Will Johnston                Eagle Talon      0  0:48.000
+-----------------------------------------------------------------------
+61   FS   Adam Chesley                 Camaro           0  0:52.727
+-----------------------------------------------------------------------
+06   GS   Bruce Thompson               Mini Cooper S    0  0:47.284
+-----------------------------------------------------------------------
+37   HS   Chris Bolling                Mini Cooper      0  0:46.261
+-----------------------------------------------------------------------
+36   SM   Sean Yoder                   Beetle Turbo     0  0:47.646
+16   SM   James Mciver                 BMW M3           0  0:47.943
+-----------------------------------------------------------------------
+09   SS   Shawn Lee                    Acura NSX        0  0:50.733
+-----------------------------------------------------------------------
+38   STS  John Wallace                 Sentra Se-r      0  0:49.785
+
+
+Ladies
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+12   GSL  Lark Muir                    BMW 318ti        0  0:38.999
+
+
+Street Tire
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+
+07   GSX  David Riley                  Audi Allroad     0  0:38.022
+13   CSX  Kevin Kulp                   Toyota MR2       0  0:42.684
+
+
+Novice
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+42   GSN  Chris Staples                BMW 318ti        0  0:39.741
+04   SMN  Robert Holzhauer             Subaru Outback   0  0:48.849
+
+
+Overall Pax
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+37   HS   Chris Bolling                Mini             0  0:36.037
+06   GS   Bruce Thompson               Mini Cooper S    0  0:37.118
+43   DSP  Tom Bleh                     BMW 325is        0  0:37.170
+07   GSX  David Riley                  Audi Allroad     0  0:38.022
+12   GSL  Lark Muir                    BMW 318ti        0  0:38.999
+38   STS  John Wallace                 Sentra Se-r      0  0:39.031
+55   CS   Oliver Frey                  Toyota Spyder    0  0:39.121
+17   DSP  Curtis Staples               BMW 325is        0  0:39.189
+20   DSP  Will Johnston                Eagle Talon      0  0:39.360
+36   SM   Sean Yoder                   Beetle Turbo     0  0:39.737
+42   GSN  Chris Staples                BMW 318ti        0  0:39.741
+23   AS   Doug Keiler                  Porsche 993      0  0:39.768
+51   BS   Clay Wilson                  Porsche 911      0  0:39.861
+16   SM   James Mciver                 BMW M3           0  0:39.984
+30   CS   Don Bray                     Miata Sport      0  0:40.109
+28   CP   Dave Sigler                  Camaro Z28       0  0:41.680
+09   SS   Shawn Lee                    Acura NSX        0  0:42.413
+61   FS   Adam Chesley                 Camaro           0  0:42.656
+13   CSX  Kevin Kulp                   Toyota MR2       0  0:42.684
+04   SMN  Robert Holzhauer             Subaru Outbac    0  0:48.849
+

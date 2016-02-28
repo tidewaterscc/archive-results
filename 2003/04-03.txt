@@ -1,0 +1,378 @@
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+47   AP   John Sheally                 Morgan Plus 8    0  0:43.759 
+47   AP   John Sheally                 Morgan Plus 8    4  0:48.703 
+47   AP   John Sheally                 Morgan Plus 8    0  0:44.466 
+47   AP   John Sheally                 Morgan Plus 8    0  0:44.322 
+47   AP   John Sheally                 Morgan Plus 8    0  0:46.642 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+1    AS   Gil Smith                    chevy  vette     0  0:45.801 
+1    AS   Gil Smith                    chevy  vette     2  0:45.095 
+1    AS   Gil Smith                    chevy  vette     0  0:43.364 
+1    AS   Gil Smith                    chevy  vette     8  0:57.277 
+1    AS   Gil Smith                    chevy  vette     0  0:42.228 
+76   AS   Tony Watson                  Corvette         0  0:48.600 DNF
+76   AS   Tony Watson                  Corvette         0  0:48.347 
+76   AS   Tony Watson                  Corvette         4  1:01.107 
+76   AS   Tony Watson                  Corvette         0  0:49.100 
+76   AS   Tony Watson                  Corvette         0  0:47.869 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+26   ASP  Bob Buxbaum                  Triumph TR8      0  0:46.966 
+26   ASP  Bob Buxbaum                  Triumph TR8      0  0:45.800 
+26   ASP  Bob Buxbaum                  Triumph TR8      0  0:54.535 
+26   ASP  Bob Buxbaum                  Triumph TR8      0  0:44.830 
+26   ASP  Bob Buxbaum                  Triumph TR8      0  0:47.326 DNF
+35   ASP  Andrew Chisholm              911              0  0:44.609 
+35   ASP  Andrew Chisholm              911              0  0:44.529 
+35   ASP  Andrew Chisholm              911              0  0:43.833 
+35   ASP  Andrew Chisholm              911              0  0:44.726 
+35   ASP  Andrew Chisholm              911              0  0:45.215 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+32   ASX  Doug Keiler                  993 Porsche      0  0:47.154 
+32   ASX  Doug Keiler                  993 Porsche      0  0:47.044 
+32   ASX  Doug Keiler                  993 Porsche      2  0:47.949 
+32   ASX  Doug Keiler                  993 Porsche      2  0:49.598 
+32   ASX  Doug Keiler                  993 Porsche      0  0:47.330 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+58   BP   roger garrett                chevy vette      0  0:47.141 
+58   BP   roger garrett                chevy vette      0  0:45.779 
+58   BP   roger garrett                chevy vette      0  0:46.378 
+58   BP   roger garrett                chevy vette      2  0:46.560 
+58   BP   roger garrett                chevy vette      0  0:44.529 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+21   BS   Michael Cacase               Honda Civic      0  0:50.476 
+21   BS   Michael Cacase               Honda Civic      0  0:49.959 
+21   BS   Michael Cacase               Honda Civic      2  0:51.078 
+21   BS   Michael Cacase               Honda Civic      0  0:48.238 
+21   BS   Michael Cacase               Honda Civic      0  0:47.677 
+34   BS   Terry Baker                  Nissan 350z      0  0:42.455 
+34   BS   Terry Baker                  Nissan 350z      0  0:42.020 
+34   BS   Terry Baker                  Nissan 350z      2  0:43.815 
+34   BS   Terry Baker                  Nissan 350z      2  0:44.008 
+34   BS   Terry Baker                  Nissan 350z      0  0:42.774 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+68   BSL  Elaine Wong                  BMW/M3           0  0:48.465 
+68   BSL  Elaine Wong                  BMW/M3           0  0:47.046 
+68   BSL  Elaine Wong                  BMW/M3           0  0:46.246 
+68   BSL  Elaine Wong                  BMW/M3           0  0:46.639 
+68   BSL  Elaine Wong                  BMW/M3           0  0:46.312 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+31   BSP  Jeff Turner                  vette            0  0:44.281 
+31   BSP  Jeff Turner                  vette            0  0:43.569 
+31   BSP  Jeff Turner                  vette            0  0:43.913 
+31   BSP  Jeff Turner                  vette            0  0:44.549 
+31   BSP  Jeff Turner                  vette            0  0:44.415 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+5    CP   Bret Weber                   Mustang GT       0  0:44.817 
+5    CP   Bret Weber                   Mustang GT       0  0:43.637 
+5    CP   Bret Weber                   Mustang GT       0  0:42.989 
+5    CP   Bret Weber                   Mustang GT       0  0:43.141 
+5    CP   Bret Weber                   Mustang GT       0  0:43.287 
+24   CP   Kienan Weber                 Mustang GT       4  0:44.653 
+24   CP   Kienan Weber                 Mustang GT       4  0:44.105 
+24   CP   Kienan Weber                 Mustang GT       0  0:40.912 
+24   CP   Kienan Weber                 Mustang GT       0  0:40.389 
+24   CP   Kienan Weber                 Mustang GT       0  0:40.423 
+28   CP   Dave Sigler                  Mustang GT       0  0:46.719 
+28   CP   Dave Sigler                  Mustang GT       0  0:45.013 
+28   CP   Dave Sigler                  Mustang GT       0  0:45.226 
+28   CP   Dave Sigler                  Mustang GT       4  0:50.162 
+28   CP   Dave Sigler                  Mustang GT       2  0:47.172 
+29   CP   Eric Bonnet                  Saleen           0  0:45.183 
+29   CP   Eric Bonnet                  Saleen           2  0:44.949 
+29   CP   Eric Bonnet                  Saleen           0  0:43.664 
+29   CP   Eric Bonnet                  Saleen           0  0:43.141 
+29   CP   Eric Bonnet                  Saleen           0  0:42.801 
+
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+4    CS   Les Banyas                   Mazda/Miata      2  0:49.565 
+4    CS   Les Banyas                   Mazda/Miata      0  0:48.287 
+4    CS   Les Banyas                   Mazda/Miata      0  0:46.667 
+4    CS   Les Banyas                   Mazda/Miata      0  0:45.630 
+4    CS   Les Banyas                   Mazda/Miata      0  0:45.837 
+22   CS   Marc Portanova               Miata            0  0:45.713 
+22   CS   Marc Portanova               Miata            0  0:45.384 
+22   CS   Marc Portanova               Miata            0  0:44.695 
+22   CS   Marc Portanova               Miata            0  0:44.529 
+22   CS   Marc Portanova               Miata            0  0:45.244 
+23   CS   Don Bray                     Miata SP         0  0:57.223 
+23   CS   Don Bray                     Miata SP         0  0:50.832 
+23   CS   Don Bray                     Miata SP         0  0:50.916 
+23   CS   Don Bray                     Miata SP         0  0:51.879 
+23   CS   Don Bray                     Miata SP         0  0:49.722 
+53   CS   Andy Mckay                   MR2 Spyder       0  1:00.376 
+53   CS   Andy Mckay                   MR2 Spyder       0  0:51.195 
+53   CS   Andy Mckay                   MR2 Spyder       0  0:50.133 
+53   CS   Andy Mckay                   MR2 Spyder       0  0:51.177 
+53   CS   Andy Mckay                   MR2 Spyder       0  0:48.840 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+16   CSP  David Riley                  94 Mazda Miat    0  0:50.085 
+16   CSP  David Riley                  94 Mazda Miat    0  0:47.864 
+16   CSP  David Riley                  94 Mazda Miat    0  0:46.596 
+16   CSP  David Riley                  94 Mazda Miat    0  0:46.466 
+16   CSP  David Riley                  94 Mazda Miat    0  0:46.818 
+46   CSP  Keith Edwards                Honda CRX        0  0:48.297 
+46   CSP  Keith Edwards                Honda CRX        0  0:47.232 
+46   CSP  Keith Edwards                Honda CRX        0  0:48.506 
+46   CSP  Keith Edwards                Honda CRX        0  0:51.036 
+46   CSP  Keith Edwards                Honda CRX        0  0:53.072 
+73   CSP  Tim Aro                      Toyota MR2       0  0:42.186 
+73   CSP  Tim Aro                      Toyota MR2       0  0:40.935 
+73   CSP  Tim Aro                      Toyota MR2       8  0:48.820 
+73   CSP  Tim Aro                      Toyota MR2       2  0:42.323 
+73   CSP  Tim Aro                      Toyota MR2       2  0:42.314 
+81   CSP  Rod Mcgeorge                 Toyota MR2       0  0:43.929 
+81   CSP  Rod Mcgeorge                 Toyota MR2       2  0:44.424 
+81   CSP  Rod Mcgeorge                 Toyota MR2       0  0:41.961 
+81   CSP  Rod Mcgeorge                 Toyota MR2       0  0:41.575 
+81   CSP  Rod Mcgeorge                 Toyota MR2       0  0:41.519 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+17   DSP  Curtis Staples               BMW 325is        2  0:46.789 
+17   DSP  Curtis Staples               BMW 325is        0  0:46.387 
+17   DSP  Curtis Staples               BMW 325is        0  0:45.107 
+17   DSP  Curtis Staples               BMW 325is        0  0:44.405 
+17   DSP  Curtis Staples               BMW 325is        0  0:45.008 
+43   DSP  Tom Bleh                     BMW 325is        2  0:44.202 
+43   DSP  Tom Bleh                     BMW 325is        4  0:47.535 
+43   DSP  Tom Bleh                     BMW 325is        2  0:44.161 
+43   DSP  Tom Bleh                     BMW 325is        4  0:46.807 
+43   DSP  Tom Bleh                     BMW 325is        2  0:54.538 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+12   DSPL Lark Muir                    BMW 325is        0  0:53.403 
+12   DSPL Lark Muir                    BMW 325is        0  0:52.093 
+12   DSPL Lark Muir                    BMW 325is        0  0:50.830 
+12   DSPL Lark Muir                    BMW 325is        0  0:49.620 
+12   DSPL Lark Muir                    BMW 325is        2  0:51.998 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+71   DSPN Christopher Staples          BMW              2  0:51.596 
+71   DSPN Christopher Staples          BMW              0  0:48.370 
+71   DSPN Christopher Staples          BMW              0  0:48.268 DNF
+71   DSPN Christopher Staples          BMW              0  0:50.711 DNF
+71   DSPN Christopher Staples          BMW              2  0:51.202 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+36   EM   Glenn Bunch                  289 Cobra        0  0:42.572 
+36   EM   Glenn Bunch                  289 Cobra        0  0:43.208 
+36   EM   Glenn Bunch                  289 Cobra        0  0:42.607 
+36   EM   Glenn Bunch                  289 Cobra        0  0:43.506 
+36   EM   Glenn Bunch                  289 Cobra        0  0:44.084 
+50   EM   Bobby Smith                  Porsche 911      0  0:40.113 
+50   EM   Bobby Smith                  Porsche 911      0  0:40.229 
+50   EM   Bobby Smith                  Porsche 911      0  0:41.219 
+50   EM   Bobby Smith                  Porsche 911      0  0:55.555 
+50   EM   Bobby Smith                  Porsche 911      0  0:41.481 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+69   F125 Dave Cutchins                shifter kart     0  0:40.720 
+69   F125 Dave Cutchins                shifter kart     0  0:39.738 
+69   F125 Dave Cutchins                shifter kart     0  0:39.190 
+69   F125 Dave Cutchins                shifter kart     0  0:38.799 
+69   F125 Dave Cutchins                shifter kart     0  0:38.047 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+33   FSL  Bridget Sigler               Mustang GT       0  0:46.652 
+33   FSL  Bridget Sigler               Mustang GT       0  0:45.256 
+33   FSL  Bridget Sigler               Mustang GT       0  0:45.867 
+33   FSL  Bridget Sigler               Mustang GT       2  0:48.547 
+33   FSL  Bridget Sigler               Mustang GT       0  0:47.271 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+27   FSP  Bob Brochu                   BMW 318          0  0:48.854 
+27   FSP  Bob Brochu                   BMW 318          0  0:48.199 
+27   FSP  Bob Brochu                   BMW 318          0  0:48.860 
+27   FSP  Bob Brochu                   BMW 318          0  0:48.600 
+27   FSP  Bob Brochu                   BMW 318          0  0:47.979 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+8    GS   Keath Marx                   2001 Celica      0  0:57.960 
+8    GS   Keath Marx                   2001 Celica      2  0:56.371 
+8    GS   Keath Marx                   2001 Celica      0  0:47.585 
+8    GS   Keath Marx                   2001 Celica      0  0:48.382 
+8    GS   Keath Marx                   2001 Celica      0  0:47.302 
+79   GS   Andy Turnbull                Toyota           0  0:51.778 
+79   GS   Andy Turnbull                Toyota           0  0:49.306 
+79   GS   Andy Turnbull                Toyota           0  0:45.572 
+79   GS   Andy Turnbull                Toyota           2  0:46.917 
+79   GS   Andy Turnbull                Toyota           2  0:47.149 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+41   GSL  Donna Marx                   2001 Celica      0  0:48.825 
+41   GSL  Donna Marx                   2001 Celica      0  0:48.261 
+41   GSL  Donna Marx                   2001 Celica      0  0:49.714 
+41   GSL  Donna Marx                   2001 Celica      0  0:58.427 
+41   GSL  Donna Marx                   2001 Celica      0  0:50.838 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+37   GSX  Jim Harris                   Honda CRX        0  0:49.662 DNF
+37   GSX  Jim Harris                   Honda CRX        0  0:48.547 
+37   GSX  Jim Harris                   Honda CRX        0  0:47.634 
+37   GSX  Jim Harris                   Honda CRX        0  0:47.769 
+37   GSX  Jim Harris                   Honda CRX        0  0:48.028 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+11   HS   Jeff Chenery                 1990 Civic       0  0:50.764 
+11   HS   Jeff Chenery                 1990 Civic       0  0:49.633 
+11   HS   Jeff Chenery                 1990 Civic       0  0:48.819 
+11   HS   Jeff Chenery                 1990 Civic       0  0:48.572 
+11   HS   Jeff Chenery                 1990 Civic       0  0:50.645 
+45   HS   Chris Boling                 MINI Cooper      0  0:46.082 
+45   HS   Chris Boling                 MINI Cooper      0  0:46.489 
+45   HS   Chris Boling                 MINI Cooper      2  0:48.379 
+45   HS   Chris Boling                 MINI Cooper      2  0:48.482 
+45   HS   Chris Boling                 MINI Cooper      2  0:49.173 
+48   HS   Ed Raymundo                  MINI Cooper      0  0:44.306 
+48   HS   Ed Raymundo                  MINI Cooper      0  0:44.846 
+48   HS   Ed Raymundo                  MINI Cooper      0  0:44.049 
+48   HS   Ed Raymundo                  MINI Cooper      2  0:45.916 
+48   HS   Ed Raymundo                  MINI Cooper      0  0:44.303 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+38   HSL  Audie Chenery                1990 Civic       0  0:49.527 
+38   HSL  Audie Chenery                1990 Civic       0  0:48.067 
+38   HSL  Audie Chenery                1990 Civic       0  0:49.470 
+38   HSL  Audie Chenery                1990 Civic       2  0:52.073 
+38   HSL  Audie Chenery                1990 Civic       0  0:50.770 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+19   SM   Chad Merritt                 Eagle Talon      0  0:49.054 
+19   SM   Chad Merritt                 Eagle Talon      0  0:48.047 
+19   SM   Chad Merritt                 Eagle Talon      0  0:48.993 
+19   SM   Chad Merritt                 Eagle Talon      0  0:48.157 
+19   SM   Chad Merritt                 Eagle Talon      0  0:48.200 
+57   SM   Jimmy Hayes                  Honda Civic      2  0:54.378 
+57   SM   Jimmy Hayes                  Honda Civic      0  0:49.442 
+57   SM   Jimmy Hayes                  Honda Civic      2  1:07.750 
+57   SM   Jimmy Hayes                  Honda Civic      4  1:18.682 
+57   SM   Jimmy Hayes                  Honda Civic      0  0:49.846 
+61   SM   Ron Katona                   BMW M3           0  0:43.269 
+61   SM   Ron Katona                   BMW M3           2  0:44.319 
+61   SM   Ron Katona                   BMW M3           0  0:41.785 
+61   SM   Ron Katona                   BMW M3           0  0:41.596 
+61   SM   Ron Katona                   BMW M3           0  0:40.970 
+77   SM   Marlon Johnsom               Honda Civic      2  0:58.020 
+77   SM   Marlon Johnsom               Honda Civic      0  0:50.449 
+77   SM   Marlon Johnsom               Honda Civic      0  0:49.334 
+77   SM   Marlon Johnsom               Honda Civic      0  0:48.506 
+77   SM   Marlon Johnsom               Honda Civic      4  0:53.248 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+62   SMN  Peter Florance               BMW              0  0:57.320 
+62   SMN  Peter Florance               BMW              2  0:56.647 
+62   SMN  Peter Florance               BMW              0  0:55.461 
+62   SMN  Peter Florance               BMW              0  0:54.973 
+62   SMN  Peter Florance               BMW              0  0:54.238 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+72   STS  Mitch Jones                  Suburo           0  0:49.854 
+72   STS  Mitch Jones                  Suburo           0  0:49.361 
+72   STS  Mitch Jones                  Suburo           0  0:49.078 
+72   STS  Mitch Jones                  Suburo           0  0:49.201 
+72   STS  Mitch Jones                  Suburo           0  0:49.747 
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+30   STX  Brett Baker                  Nissan SE-R      0  0:50.001 
+30   STX  Brett Baker                  Nissan SE-R      0  0:48.849 
+30   STX  Brett Baker                  Nissan SE-R      0  0:48.614 
+30   STX  Brett Baker                  Nissan SE-R      0  0:47.611 
+30   STX  Brett Baker                  Nissan SE-R      2  0:49.471 
+40   STX  Richard West                 COOPER           0  0:43.992 
+40   STX  Richard West                 COOPER           0  0:43.428 
+40   STX  Richard West                 COOPER           0  0:43.590 
+40   STX  Richard West                 COOPER           0  0:45.331 
+40   STX  Richard West                 COOPER           2  0:46.887 
+44   STX  Michael Harris               Nissan SpecV     0  0:48.060 
+44   STX  Michael Harris               Nissan SpecV     0  0:46.323 
+44   STX  Michael Harris               Nissan SpecV     0  0:49.104 
+44   STX  Michael Harris               Nissan SpecV     0  0:50.069 
+44   STX  Michael Harris               Nissan SpecV     0  0:51.563 
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+61   SM   Ron Katona                   BMW M3           0  0:34.169
+48   HS   Ed Raymundo                  MINI Cooper      0  0:34.270
+73   CSP  Tim Aro                      Toyota MR2       0  0:34.344
+24   CP   Kienan Weber                 Mustang GT       0  0:34.452
+40   STX  Richard West                 COOPER           0  0:34.656
+34   BS   Terry Baker                  Nissan 350z      0  0:34.666
+81   CSP  Rod Mcgeorge                 Toyota MR2       0  0:34.834
+1    AS   Gil Smith                    chevy  vette     0  0:34.965
+79   GS   Andy Turnbull                Toyota           0  0:35.637
+69   F125 Dave Cutchins                shifter kart     0  0:35.688
+45   HS   Chris Boling                 MINI Cooper      0  0:35.852
+50   EM   Bobby Smith                  Porsche 911      0  0:36.062
+43   DSP  Tom Bleh                     BMW 325is        2  0:36.124
+22   CS   Marc Portanova               Miata            0  0:36.247
+17   DSP  Curtis Staples               BMW 325is        0  0:36.323
+33   FSL  Bridget Sigler               Mustang GT       0  0:36.476
+29   CP   Eric Bonnet                  Saleen           0  0:36.509
+31   BSP  Jeff Turner                  vette            0  0:36.598
+5    CP   Bret Weber                   Mustang GT       0  0:36.670
+44   STX  Michael Harris               Nissan SpecV     0  0:36.966
+8    GS   Keath Marx                   2001 Celica      0  0:36.990
+35   ASP  Andrew Chisholm              911              0  0:37.083
+4    CS   Les Banyas                   Mazda/Miata      0  0:37.143
+37   GSX  Jim Harris                   Honda CRX        0  0:37.250
+38   HSL  Audie Chenery                1990 Civic       0  0:37.396
+41   GSL  Donna Marx                   2001 Celica      0  0:37.740
+11   HS   Jeff Chenery                 1990 Civic       0  0:37.789
+26   ASP  Bob Buxbaum                  Triumph TR8      0  0:37.926
+30   STX  Brett Baker                  Nissan SE-R      0  0:37.994
+47   AP   John Sheally                 Morgan Plus 8    0  0:38.114
+68   BSL  Elaine Wong                  BMW/M3           0  0:38.153
+36   EM   Glenn Bunch                  289 Cobra        0  0:38.272
+28   CP   Dave Sigler                  Mustang GT       0  0:38.396
+72   STS  Mitch Jones                  Suburo           0  0:38.477
+58   BP   roger garrett                chevy vette      0  0:38.518
+32   ASX  Doug Keiler                  993 Porsche      0  0:38.952
+16   CSP  David Riley                  94 Mazda Miat    0  0:38.985
+27   FSP  Bob Brochu                   BMW 318          0  0:39.103
+21   BS   Michael Cacase               Honda Civic      0  0:39.334
+71   DSPN Christopher Staples          BMW              0  0:39.567
+46   CSP  Keith Edwards                Honda CRX        0  0:39.628
+76   AS   Tony Watson                  Corvette         0  0:39.636
+53   CS   Andy Mckay                   MR2 Spyder       0  0:39.756
+19   SM   Chad Merritt                 Eagle Talon      0  0:40.071
+77   SM   Marlon Johnsom               Honda Civic      0  0:40.454
+23   CS   Don Bray                     Miata SP         0  0:40.474
+12   DSPL Lark Muir                    BMW 325is        0  0:40.589
+57   SM   Jimmy Hayes                  Honda Civic      0  0:41.235
+62   SMN  Peter Florance               BMW              0  0:45.234

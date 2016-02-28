@@ -1,0 +1,238 @@
+TSCC WINTER 4 #1 AUTOCROSS       NOVEMBER 1999
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+53   AM   Gene Cooley                  Tui              0  0:35.748
+90   AM   Bernard Cooley               Tui              0  0:36.449
+20   AM   Steve Klute                  Lola-T-252       0  0:36.454
+39   AM   Jim Davis                    Lola             0  0:38.331
+71   AM   Allen Goode75                A-Sport racer    0  0:41.033
+
+-----------------------------------------------------------------------
+47   AP   John Sheally                 cobra            0  0:41.825
+
+-----------------------------------------------------------------------
+40   AS   Bob Brochu                   99 BMW           0  0:42.718
+35   AS   John Woodlock                BMW              0  0:43.436
+
+-----------------------------------------------------------------------
+50   ASP  Bobby Smith                  Porshe           0  0:41.925
+18   ASP  Deno Plumley                 88 Toyota        0  0:42.590
+78   ASP  Andrew Chisholm              Porshe 911       0  0:43.466
+38   ASP  Bruce Plumley                88 Toyota        0  0:43.683
+
+-----------------------------------------------------------------------
+66   BS   Ed Raymundo                  miata            0  0:42.533
+
+-----------------------------------------------------------------------
+41   BSP  Roger Garrett                Corvette         0  0:42.379
+114  BSP  Ben Scarborugh               datsun z         0  0:47.644
+113  BSP  John Yancey                  Datsun Z         0  0:50.769
+
+-----------------------------------------------------------------------
+29   CP   Eric Bonnett                 Mustang          0  0:42.637
+94   CP   Jeff Coluin                  Mustang          0  0:43.291
+28   CP   David Sadler                 mustang          0  0:43.377
+60   CP   Bruce Turlington             Mustang          0  0:43.586
+21   CP   Marc Portanova               Mach 1           0  0:44.470
+52   CP   Steve Grossen                Mach 1           0  0:45.264
+32   CP   Jason Carp                   mustang          0  0:46.995
+19   CP   Chad Merritt                 Talon            0  0:47.804
+
+-----------------------------------------------------------------------
+4    CS   Doug Rauch                   BMW              0  0:46.665
+44   CS   Paul Hamilton                Porshe 944       0  0:47.679
+57   CS   John Trindle                 Mazda            0  0:49.812
+
+-----------------------------------------------------------------------
+13   CSP  Joe Graves                   Escort           0  0:41.683
+91   CSP  Eric Carmen                  91 Honda Crx     0  0:42.182
+43   CSP  Tom Bleh                     325              0  0:43.649
+93   CSP  Courtney Cormier             Neon             0  0:44.032
+8    CSP  Beno Rubin                   civic            0  0:45.344
+115  CSP  Richard Castane              Mazda            2  0:52.079
+
+-----------------------------------------------------------------------
+15   DP   John Maglieri                spitfire         0  0:39.836
+23   DP   Larry Allamong               Spitfire         2  0:41.872
+
+-----------------------------------------------------------------------
+5    DS   Robert Hafley                Nissan           0  0:48.567
+
+-----------------------------------------------------------------------
+70   DSP  Charles Brooks               Datsun 510       0  0:47.699
+62   DSP  Bobby Hudson                 Colt             0  0:47.931
+9    DSP  Tony Cespedes                Toyota           0  0:48.626
+
+-----------------------------------------------------------------------
+7    EM   G Bunch                      Cobra            0  0:42.939
+
+-----------------------------------------------------------------------
+111  EP   Aaron Johnson                Porsche          0  0:46.948
+
+-----------------------------------------------------------------------
+46   ES   Keith Edwards                Honda CRX        0  0:45.349
+
+-----------------------------------------------------------------------
+30   ESP  Terry Baker                  Camaro           0  0:40.763
+31   ESP  Bill Brochu                  Chev. Z28        0  0:41.792
+83   ESP  Bill Brochu                  black bmw        0  0:41.904
+69   ESP  Scott Hitt                   Pontiac          0  0:46.021
+77   ESP  Miles Beam                   Pontiac Trans    0  0:47.038
+
+-----------------------------------------------------------------------
+105  F125 Dave Cutchins                Shifter Kart     0  0:40.459
+
+-----------------------------------------------------------------------
+88   FM   Bob Van dyke                 Adams Aero       0  0:46.362
+
+-----------------------------------------------------------------------
+54   FS   Brian Tiffany                Camaro           0  0:42.024
+34   FS   Karen Kraus                  Chevy Camaro     0  0:42.664
+72   FS   Pat Griffith                 Camaro           1  0:44.435
+17   FS   Curtis Staples               mustang          0  0:46.750
+
+-----------------------------------------------------------------------
+92   GS   Sam Strano                   eclipse          0  0:43.083
+85   GS   John Pacsai                  mistubushi       0  0:43.939
+
+-----------------------------------------------------------------------
+26   SS   Justin Wade                  Mazda RX-7       0  0:42.525
+51   SS   Jeffrey Wetzel               Chevy Corv       0  0:43.042
+45   SS   Roberta Wetzel               Chevy Corv       0  0:43.680
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+86   BSX  Tim Aro                      Mazda Miata      0  0:34.501
+104  FSX  Marty Lentz                  99 Ford Cobia    0  0:36.152
+27   ASX  Scott Ferguson               Porshe 944       0  0:37.944
+1    GSX  Dave Hinda                   eclipse          0  0:38.187
+25   BSX  Mike Gannon                  914              0  0:38.215
+100  GSX  Dave Rice                    99 Pontiac       0  0:38.245
+109  HSX  Keith Leach                  Ford Festiva     0  0:38.956
+59   DSPX Mark Chiu                    Mitsubishi       0  0:40.498
+11   BSX  Axel Crimmins                Corvette         0  0:41.654
+116  ASX  Tim Hund                     Morgan           0  0:42.370
+117  SSX  David Wright                 Trans Am         0  0:42.558
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+36   SSL  Leah Wade                    Mazda RX-7       0  0:36.934
+16   ESPL Angie Brochu                 BMW 535i         0  0:37.399
+33   FSL  Bridget Sigler               mustang          0  0:40.590
+64   ESL  Amy Edwards                  Honda CRX        0  0:41.132
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+97   HSN  Ryan Cumpston                Suburu           0  0:37.745
+101  HSN  William Godwin               mazda            0  0:38.259
+96   ESN  Patrick Rollins              VW Golf          0  0:38.651
+108  HSN  Harry Leach                  Ford Festiva     0  0:38.792
+106  CSPN Barnard Palmer               Acura Integra    0  0:39.413
+10   CSPN Nick Webb                    Corolla GTS      0  0:40.298
+48   CSN  Chris Hamilton               Porshe           2  0:41.021
+2    ASPN Doug Cochran                 Porshe 944       0  0:41.058
+68   CSPN Erik Watts                   Plymouth Neon    0  0:41.460
+107  DSPN Mike Schneider               Tercel           0  0:42.080
+82   CSN  Brian Eswick                 Mazda            0  0:42.179
+103  ESPN Joey Morato                  GMC 94           0  0:42.531
+76   DSPN Charles Gray                 Datsun           0  0:43.693
+58   DSN  Ryan Hafley                  Nissan           0  0:45.006
+12   CSPN Charles Nursh                Toyota           2  0:45.470
+112  CSPN Horace Linton                Truck            0  0:45.929
+75   ESN  Tedi Melton                  Honda del Sol    0  0:46.067
+
+		       OVERALL	PAX STANDINGS
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+30   ESP  Terry Baker                  Camaro           0  0:33.833
+92   GS   Sam Strano                   eclipse          0  0:34.208
+54   FS   Brian Tiffany                Camaro           0  0:34.250
+15   DP   John Maglieri                spitfire         0  0:34.299
+86   BSX  Tim Aro                      Mazda Miata      0  0:34.501
+31   ESP  Bill Brochu                  Chev. Z28        0  0:34.687
+34   FS   Karen Kraus                  Chevy Camaro     0  0:34.771
+83   ESP  Bill Brochu                  black bmw        0  0:34.780
+66   BS   Ed Raymundo                  miata            0  0:34.835
+85   GS   John Pacsi                   mistubushi       0  0:34.888
+40   AS   Bob Brochu                   99 BMW           0  0:35.242
+13   CSP  Joe Graves                   Escort           0  0:35.431
+26   SS   Justin Wade                  Mazda RX-7       0  0:35.678
+53   AM   Gene Cooley                  Tui              0  0:35.748
+35   AS   John Woodlock                BMW              0  0:35.835
+91   CSP  Eric Carmen                  91 Honda Crx     0  0:35.855
+46   ES   Keith Edwards                Honda CRX        0  0:35.871
+50   ASP  Bobby Smith                  Porshe           0  0:36.014
+23   DP   Larry Allamong               Spitfire         2  0:36.052
+51   SS   Jeffrey Wetzel               Chevy Corv       0  0:36.112
+41   BSP  Roger Garrett                Corvette         0  0:36.149
+104  FSX  Marty Lentz                  99 Ford Cobia    0  0:36.152
+72   FS   Pat Griffith                 Camaro           1  0:36.215
+90   AM   Bernard Cooley               Tui              0  0:36.449
+20   AM   Steve Klute                  Lola-T-252       0  0:36.454
+18   ASP  Deno Plumley                 88 Toyota        0  0:36.585
+45   SS   Roberta Wetzel               Chevy Corv       0  0:36.648
+29   CP   Eric Bonnett                 Mustang          0  0:36.796
+36   SSL  Leah Wade                    Mazda RX-7       0  0:36.934
+47   AP   John Sheally                 cobra            0  0:36.973
+43   CSP  Tom Bleh                     325              0  0:37.102
+78   ASP  Andrew Chisholm              Porshe 911       0  0:37.337
+94   CP   Jeff Coluin                  Mustang          0  0:37.360
+16   ESPL Angie Brochu                 BMW 535i         0  0:37.399
+93   CSP  Courtney Cormier             Neon             0  0:37.427
+28   CP   David Sadler                 mustang          0  0:37.434
+38   ASP  Bruce Plumley                88 Toyota        0  0:37.524
+60   CP   Bruce Turlington             Mustang          0  0:37.615
+97   HSN  Ryan Cumpston                Suburu           0  0:37.745
+4    CS   Doug Rauch                   BMW              0  0:37.752
+27   ASX  Scott Ferguson               Porshe 944       0  0:37.944
+17   FS   Curtis Staples               mustang          0  0:38.101
+1    GSX  Dave Hinda                   eclipse          0  0:38.187
+69   ESP  Scott Hitt                   Pontiac          0  0:38.197
+25   BSX  Mike Gannon                  914              0  0:38.215
+100  GSX  Dave Rice                    99 Pontiac       0  0:38.245
+101  HSN  William Godwin               mazda            0  0:38.259
+39   AM   Jim Davis                    Lola             0  0:38.331
+21   CP   Marc Portanova               Mach 1           0  0:38.378
+8    CSP  Beno Rubin                   civic            0  0:38.542
+44   CS   Paul Hamilton                Porshe 944       0  0:38.572
+96   ESN  Patrick Rollins              VW Golf          0  0:38.651
+108  HSN  Harry Leach                  Ford Festiva     0  0:38.792
+109  HSX  Keith Leach                  Ford Festiva     0  0:38.956
+77   ESP  Miles Beam                   Pontiac Trans    0  0:39.042
+5    DS   Robert Hafley                Nissan           0  0:39.048
+52   CP   Steve Grossen                Mach 1           0  0:39.063
+7    EM   G Bunch                      Cobra            0  0:39.375
+106  CSPN Barnard Palmer               Acura Integra    0  0:39.413
+70   DSP  Charles Brooks               Datsun 510       0  0:39.686
+62   DSP  Bobby Hudson                 Colt             0  0:39.879
+10   CSPN Nick Webb                    Corolla GTS      0  0:40.298
+57   CS   John Trindle                 Mazda            0  0:40.298
+9    DSP  Tony Cespedes                Toyota           0  0:40.457
+105  F125 Dave Cutchins                Shifter Kart     0  0:40.459
+59   DSPX Mark Chiu                    Mitsubishi       0  0:40.498
+32   CP   Jason Carp                   mustang          0  0:40.557
+33   FSL  Bridget Sigler               mustang          0  0:40.590
+48   CSN  Chris Hamilton               Porshe           2  0:41.021
+71   AM   Allen Goode75                A-Sport racer    0  0:41.033
+2    ASPN Doug Cochran                 Porshe 944       0  0:41.058
+64   ESL  Amy Edwards                  Honda CRX        0  0:41.132
+111  EP   Aaron Johnson                Porsche          0  0:41.220
+19   CP   Chad Merritt                 Talon            0  0:41.255
+68   CSPN Erik Watts                   Plymouth Neon    0  0:41.460
+11   BSX  Axel Crimmins                Corvette         0  0:41.654
+88   FM   Bob Van dyke                 Adams Aero       0  0:41.958
+107  DSPN Mike Schneider               Tercel           0  0:42.080
+82   CSN  Brian Eswick                 Mazda            0  0:42.179
+116  ASX  Tim Hund                     Morgan           0  0:42.370
+103  ESPN Joey Morato                  GMC 94           0  0:42.531
+117  SSX  David Wright                 Trans Am         0  0:42.558
+76   DSPN Charles Gray                 Datsun           0  0:43.693
+115  CSP  Richard Castane              Mazda            2  0:44.267
+58   DSN  Ryan Hafley                  Nissan           0  0:45.006
+12   CSPN Charles Nursh                Toyota           2  0:45.470
+112  CSPN Horace Linton                Truck            0  0:45.929
+75   ESN  Tedi Melton                  Honda del Sol    0  0:46.067
+
+

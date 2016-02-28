@@ -1,0 +1,187 @@
+TSCC January 2003 Autocross - Fentress NALF
+
+#   CLASS     DRIVER                     CAR         PEN   TOTAL
+-----------------------------------------------------------------------
+73   AS   Tony Watson                  Corvette         0  0:42.403
+-----------------------------------------------------------------------
+50   ASP  Bobby Smith                  Porsche 911      0  0:40.397
+52   ASP  Bob Buxbaum                  Triumph TR8      0  0:41.718
+-----------------------------------------------------------------------
+55   BS   Terry Baker                  Nissan 350Z      0  0:40.050
+75   BS   Russ Meeker                  Nissan300ZXTT    0  0:42.317
+21   BS   Michael Cacase               Honda S2000      0  0:43.742
+76   BS   Jim Robinson                 Nissan 350Z      0  0:44.855
+-----------------------------------------------------------------------
+24   CP   Kienan Weber                 Mustang GT       0  0:40.672
+5    CP   Bret Weber                   Mustang GT       0  0:41.787
+-----------------------------------------------------------------------
+74   CS   Eric Peterson                Toyota Spyder    0  0:40.993
+95   CS   Donnie Barnes                Toyota Spyder    0  0:41.781
+22   CS   Marc Portanova               Miata            0  0:42.816
+34   CS   Les Banyas                   Mazda Miata      0  0:43.271
+45   CS   Glenn Zobel                  1994 Miata       0  0:44.863
+-----------------------------------------------------------------------
+86   CSP  Rod Mcgeorge(Test & Tune)    Toyota Spyder    0  0:39.998
+58   CSP  Beno Rubin                   Honda Civic      0  0:41.514
+83   CSP  Tim Aro(Test & Tune)         Toyota Spyder    2  0:41.696
+46   CSP  Keith Edwards                Honda CRX        0  0:45.293
+-----------------------------------------------------------------------
+20   DS   William Johnston             Eagle Talon      0  0:43.962
+-----------------------------------------------------------------------
+43   DSP  Tom Bleh                     BMW 325is        0  0:40.009
+17   DSP  Curtis Staples               BMW 325is        0  0:42.638
+-----------------------------------------------------------------------
+102  EM   Glenn Bunch                  Cobra            0  0:38.371
+47   EM   John Sheally                 Cobra            0  0:39.522
+-----------------------------------------------------------------------
+15   ES   Richard Hagerich             Mazda Miata      0  0:47.397
+-----------------------------------------------------------------------
+68   ESP  Michael Powers               Nissan 300ZX     0  0:42.441
+28   ESP  Dave Sigler                  Mustang GT       0  0:42.732
+105  ESP  Kenny Edwards                Trans Am         0  0:46.925
+30   ESP  William Johns                Mustang GT       0  0:50.234
+-----------------------------------------------------------------------
+27   FSP  Bob Brochu                   BMW 318          0  0:44.351
+1    FSP  Larry Allamong               MGB              0  0:45.832
+-----------------------------------------------------------------------
+100  GS   Andy Turnbull                Nissan SE-R      0  0:43.776
+89   GS   Robert Hamernik              Honda CivicSi    0  0:44.184
+16   GS   Brian Tiffany                Acura Legend     0  0:45.270
+78   GS   Andy Lambert                 Nissan 240SX     0  0:45.361
+4    GS   Keath Marx                   2001 Toyota      0  0:46.236
+-----------------------------------------------------------------------
+99   HS   Rob Redanz                   MINI Cooper      0  0:43.550
+67   HS   Chris Boling                 MINI Cooper      0  0:44.714
+40   HS   Audie Chenery                1990 Honda       0  0:45.773
+8    HS   Jeff Chenery                 1990 Honda Ci    0  0:45.790
+-----------------------------------------------------------------------
+23   SM   James McIver                 BMW M3           0  0:41.397
+26   SM   Jerry Crabtree               BMW M3           2  0:42.169
+13   SM   Steve Foltz                  Nissan Sentra    0  0:44.482
+-----------------------------------------------------------------------
+31   STX  Courtney Cormier             MINI Cooper S    0  0:39.784
+39   STX  Richard West                 MINI Cooper S    0  0:40.150
+90   STX  Matt Baker                   Subaru WRX       0  0:43.294
+98   STX  Trevor Fosdick               Subaru WRX       0  0:43.675
+71   STX  Richard Law                  VW Corrado       0  0:44.599
+72   STX  Michael Brodeur               BMW 325es       0  0:48.158
+
+
+Ladies 
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+42   GSL  Donna Marx                   2001 Toyota      0  0:35.979
+33   ESPL Bridget Sigler               Mustang GT       0  0:35.994
+12   DSPL Lark Muir                    BMW 325is        0  0:37.172
+96   DSL  Hillary Cole                 Honda CivicSi    0  0:37.517
+84   ESPL Sheila Sebastian             Nissan 300ZX     0  0:38.533
+32   SML  Ruth Lewis                   Mazda Miata      0  0:38.877
+
+
+Street Tire 
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+41   ASX  George Perry                 Porsche 993      0  0:34.271
+69   DSX  David Kennedy                Audi / TT        0  0:34.594
+18   SMX  Steven Lewis                 Miata            0  0:35.266
+9    DSX  Adam Kapolka                 Nissan Spec V    0  0:35.272
+2    ASX  Doug Keiler                  Porsche 993      0  0:36.593
+104  CSX  Fred Cameron                 Miata            0  0:38.330
+
+
+Novice 
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+81   STSN Mike Wersosky                Toyota Celica    0  0:33.686
+7    STXN Jimmy Hayes                  Honda Civic      0  0:35.854
+82   STSN Brian Blain                  Toyota Celica    0  0:36.091
+11   GSN  James Villers                Acura Ledgend    0  0:36.510
+38   DSPN Christopher Staples          BMW 325is        0  0:36.631
+93   ESPN Chris Casimir                Nissan 300zx     0  0:37.397
+97   DSN  Tommy Ondrasek               Toyota Celica    0  0:37.457
+87   STSN James Chavez                 Toyota Celica    0  0:37.460
+101  CSPN Jim Carroll                  Miata            0  0:39.068
+62   SM2N Marlon Johnson               Honda CRX        0  0:39.772
+63   SMN  Neil Johnson                 Honda Civic      0  0:46.213
+
+
+
+Overall Pax Results
+
+
+#   CLASS     DRIVER                     CAR         PEN    PAX
+-----------------------------------------------------------------------
+31   STX  Courtney Cormier             MINI Cooper S    0  0:31.867
+39   STX  Richard West                 MINI Cooper S    0  0:32.160
+43   DSP  Tom Bleh                     BMW 325is        0  0:32.807
+55   BS   Terry Baker                  Nissan 350Z      0  0:33.121
+74   CS   Eric Peterson                Toyota Spyder    0  0:33.286
+86   CSP  Rod Mcgeorge(Test & Tune)    Toyota Spyder    0  0:33.678
+81   STSN Mike Wersosky                Toyota Celica    0  0:33.686
+99   HS   Rob Redanz                   MINI Cooper      0  0:33.925
+95   CS   Donnie Barnes                Toyota Spyder    0  0:33.926
+50   ASP  Bobby Smith                  Porsche 911      0  0:34.176
+41   ASX  George Perry                 Porsche 993      0  0:34.271
+100  GS   Andy Turnbull                Nissan SE-R      0  0:34.364
+23   SM   James McIver                 BMW M3           0  0:34.525
+69   DSX  David Kennedy                Audi / TT        0  0:34.594
+90   STX  Matt Baker                   Subaru WRX       0  0:34.678
+89   GS   Robert Hamernik              Honda CivicSi    0  0:34.684
+102  EM   Glenn Bunch                  Cobra            0  0:34.687
+24   CP   Kienan Weber                 Mustang GT       0  0:34.734
+22   CS   Marc Portanova               Miata            0  0:34.767
+67   HS   Chris Boling                 MINI Cooper      0  0:34.832
+58   CSP  Beno Rubin                   Honda Civic      0  0:34.955
+17   DSP  Curtis Staples               BMW 325is        0  0:34.963
+98   STX  Trevor Fosdick               Subaru WRX       0  0:34.984
+75   BS   Russ Meeker                  Nissan300ZXTT    0  0:34.996
+68   ESP  Michael Powers               Nissan 300ZX     0  0:35.056
+20   DS   William Johnston             Eagle Talon      0  0:35.082
+83   CSP  Tim Aro(Test & Tune)         Toyota Spyder    2  0:35.108
+73   AS   Tony Watson                  Corvette         0  0:35.110
+34   CS   Les Banyas                   Mazda Miata      0  0:35.136
+26   SM   Jerry Crabtree               BMW M3           2  0:35.169
+18   SMX  Steven Lewis                 Miata            0  0:35.266
+9    DSX  Adam Kapolka                 Nissan Spec V    0  0:35.272
+52   ASP  Bob Buxbaum                  Triumph TR8      0  0:35.293
+28   ESP  Dave Sigler                  Mustang GT       0  0:35.297
+16   GS   Brian Tiffany                Acura Legend     0  0:35.537
+78   GS   Andy Lambert                 Nissan 240SX     0  0:35.608
+40   HS   Audie Chenery                1990 Honda       0  0:35.657
+8    HS   Jeff Chenery                 1990 Honda Ci    0  0:35.670
+5    CP   Bret Weber                   Mustang GT       0  0:35.686
+71   STX  Richard Law                  VW Corrado       0  0:35.724
+47   EM   John Sheally                 Cobra            0  0:35.728
+7    STXN Jimmy Hayes                  Honda Civic      0  0:35.854
+42   GSL  Donna Marx                   2001 Toyota      0  0:35.979
+33   ESPL Bridget Sigler               Mustang GT       0  0:35.994
+82   STSN Brian Blain                  Toyota Celica    0  0:36.091
+21   BS   Michael Cacase               Honda S2000      0  0:36.175
+27   FSP  Bob Brochu                   BMW 318          0  0:36.235
+4    GS   Keath Marx                   2001 Toyota      0  0:36.295
+45   CS   Glenn Zobel                  1994 Miata       0  0:36.429
+11   GSN  James Villers                Acura Ledgend    0  0:36.510
+2    ASX  Doug Keiler                  Porsche 993      0  0:36.593
+38   DSPN Christopher Staples          BMW 325is        0  0:36.631
+76   BS   Jim Robinson                 Nissan 350Z      0  0:37.095
+13   SM   Steve Foltz                  Nissan Sentra    0  0:37.098
+12   DSPL Lark Muir                    BMW 325is        0  0:37.172
+93   ESPN Chris Casimir                Nissan 300zx     0  0:37.397
+1    FSP  Larry Allamong               MGB              0  0:37.445
+97   DSN  Tommy Ondrasek               Toyota Celica    0  0:37.457
+87   STSN James Chavez                 Toyota Celica    0  0:37.460
+96   DSL  Hillary Cole                 Honda CivicSi    0  0:37.517
+15   ES   Richard Hagerich             Mazda Miata      0  0:38.012
+46   CSP  Keith Edwards                Honda CRX        0  0:38.137
+104  CSX  Fred Cameron                 Miata            0  0:38.330
+84   ESPL Sheila Sebastian             Nissan 300ZX     0  0:38.533
+72   STX  Michael Brodeur               BMW 325es       0  0:38.575
+105  ESP  Kenny Edwards                Trans Am         0  0:38.760
+32   SML  Ruth Lewis                   Mazda Miata      0  0:38.877
+101  CSPN Jim Carroll                  Miata            0  0:39.068
+62   SM2N Marlon Johnson               Honda CRX        0  0:39.772
+30   ESP  William Johns                Mustang GT       0  0:41.493
+63   SMN  Neil Johnson                 Honda Civic      0  0:46.213
+
+
+
