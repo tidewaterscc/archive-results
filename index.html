@@ -489,4 +489,13 @@
 	</div>
 	<!-- #page -->
 </body>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  var $ = window.jQuery;
+  $('main ul ul').hide();
+  $('main ul li').click(function() {
+    $(this).next('ul').toggle();
+  });
+});
+</script>
 </html>
