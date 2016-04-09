@@ -502,6 +502,9 @@ jQuery(document).ready(function(){
   $('main ul li').click(function() {
     $(this).next('ul').toggle();
   });
+  if (window.location.hash) {
+    $(window.location.hash).parent('li').next('ul').toggle();
+  }
 });
 </script>
 </html>
