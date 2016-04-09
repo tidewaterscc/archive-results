@@ -5,7 +5,7 @@ error_reporting(E_ALL);
 $ul = '<ul>';
 function listgen($dir) {
 	$ignoreDir = array('.', '..', '.git', '.settings', '.project', '.buildpath', '.gitignore');
-	$ignoreFileExt = array('.xls');
+	$ignoreFileExt = array('.xls', '.ods');
 	$arr = scandir($dir);
 	$li = '';
 	foreach($arr as $i => $k) {
